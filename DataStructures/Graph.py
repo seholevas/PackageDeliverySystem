@@ -1,52 +1,57 @@
-from DataStructures.SinglyLinkedList import SinglyLinkedList
-from DataStructures.HashTable import HashTable
+# Name: Steven Holevas | ID: 001088230
+
+from collections import namedtuple
 from collections import defaultdict
-class Graph():
+
+# same as tuple, just allows you to name it and its tuple items, which makes
+# it visibly maintainable and efficient to get variables
+Node = namedtuple('Node', ['vertex', 'weight'])
+
+class WGUPS_Graph:
+
+    # constructor
     def __init__(self):
-        self.hash_table_starting_node = HashTable(10)
-        self.hash_table_connecting_node = HashTable(10)
-        # self.graph = defaultdict(dict)
-        # self.adjacency_list = {}
-        # self.adjacency_list = []
+        # instance variable
+        self.verticies_dictionary = defaultdict(set)
 
-    def add_edge(self, current_node, adding_node, distance_weight):
-        key = self.hash_table_connecting_node.hash(current_node.get_element())
-        self.hash_table_connecting_node.add(current_node.get_element())
-        self.hash_table_starting_node.add(self.hash_table_connecting_node)
-        # self.graph[current_node][adding_node] = distance_weight
+    # adds edges to each verticies given
+    def add_edge(self, source_vertex, destination_vertex, weight):
+        self.verticies_dictionary[source_vertex].add(Node(destination_vertex, weight))
+        self.verticies_dictionary[destination_vertex].add(Node(source_vertex, weight))
+
+    # gets edges attached to vertex
+    def get_edge(self, the_vertex):
+        for edge in self.verticies_dictionary[the_vertex]:
+            yield edge
+
+    # gets each verticies
+    def get_vertex(self):
+        for lists in self.verticies_dictionary.values():
+            for node in lists:
+                yield node.vertex
 
 
+######################## ignore this ##########################
+# class Graph:
+#     """this class creates a graph that is used for Djikstra's. It has an adjacency list"""
+#     # constructor
+#     def __init__(self):
+#         # constructor, adjacency list to keep all the verticies
+#         self.adjacency_list = [[] for _ in range(10)]
+#
+#     # adds edge to graph
+#     def add_edge(self, source_vertex, destination_vertex, weight):
+#         self.adjacency_list[source_vertex].append((weight, destination_vertex))
+#         self.adjacency_list[destination_vertex].append((weight, source_vertex))
+#
+#     # gets edges within vertex
+#     def get_edge(self, the_vertex):
+#         for edge in self.adjacency_list[the_vertex]:
+#             yield edge
+#
+#     # gets each vertex
+#     def get_vertex(self):
+#         for vertex in range(10):
+#             yield vertex
 
-        # self.adjacency_list.append(node_set)
-        # self.graph[current_node] = self.adjacency_list
-
-    def generate_edges(self):
-        self.adjacency_list
-
-    #
-    # def has_path_BFS(self, source_node, destination_node):
-
-    #
-    # def has_path_BFS(self,source_node, destination_node):
-    #     sll_next_to_visit = SinglyLinkedList()
-    #     visited = HashTable(5)
-    #     element = source_node.get_element()
-    #     sll_next_to_visit.add(source_node.get_element())
-    #
-    #     while(sll_next_to_visit.get_size() != 0):
-    #         node = sll_next_to_visit.remove(element)
-    #
-    #         if(node == destination_node):
-    #             return True
-    #
-    #         if(visited.find(destination_node.get_element())):
-    #             continue
-    #
-    #         visited.add(node.get_element())
-    #
-    #             for child in node.get_children():
-    #                 sll_next_to_visit.add(child)
-    #     return False
-
-    # def has_path_BFS(self):
 

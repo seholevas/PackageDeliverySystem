@@ -1,807 +1,784 @@
-Starting Place,Starting Address,Ending Place,Ending Address,Distance Between
-Western Governors University,"4001 South 700 East, 
-Salt Lake City, UT 84107",Salt Lake County/United Police Dept,3365 S 900 W,3.7
-Western Governors University,"4001 South 700 East, 
-Salt Lake City, UT 84107",West Valley Prosecutor,3575 W Valley Central Sta bus Loop,7.6
-Western Governors University,"4001 South 700 East, 
-Salt Lake City, UT 84107",Housing Auth. of Salt Lake County,3595 Main St,2
-Western Governors University,"4001 South 700 East, 
-Salt Lake City, UT 84107",Utah DMV Administrative Office,380 W 2880 S,3.6
-Western Governors University,"4001 South 700 East, 
-Salt Lake City, UT 84107",Third District Juvenile Court,410 S State St,6.5
-Western Governors University,"4001 South 700 East, 
-Salt Lake City, UT 84107",Cottonwood Regional Softball Complex,"
- 4300 S 1300 E",1.9
-Western Governors University,"4001 South 700 East, 
-Salt Lake City, UT 84107",Holiday City Office,4580 S 2300 E,3.4
-Western Governors University,"4001 South 700 East, 
-Salt Lake City, UT 84107",Murray City Museum,5025 State St,2.4
-Western Governors University,"4001 South 700 East, 
-Salt Lake City, UT 84107",Valley Regional Softball Complex,5100 South 2700 West,6.4
-Western Governors University,"4001 South 700 East, 
-Salt Lake City, UT 84107",City Center of Rock Springs, 5383 South 900 East #104,2.4
-Western Governors University,"4001 South 700 East, 
-Salt Lake City, UT 84107",Rice Terrace Pavilion Park, 600 E 900 South,5
-Western Governors University,"4001 South 700 East, 
-Salt Lake City, UT 84107",Wheeler Historic Farm , 6351 South 900 East,3.6
-International Peace Gardens,1060 Dalton Ave S,Western Governors University,"4001 South 700 East, 
-Salt Lake City, UT 84107",7.2
-International Peace Gardens,1060 Dalton Ave S,International Peace Gardens,1060 Dalton Ave S,0
-International Peace Gardens,1060 Dalton Ave S,Sugar House Park,1330 2100 S,7.1
-International Peace Gardens,1060 Dalton Ave S,Taylorsville-Bennion Heritage City Gov Off,1488 4800 S,6.4
-International Peace Gardens,1060 Dalton Ave S,Salt Lake City Division of Health Services,177 W Price Ave,6
-International Peace Gardens,1060 Dalton Ave S,South Salt Lake Public Works,195 W Oakland Ave,4.8
-International Peace Gardens,1060 Dalton Ave S,Salt Lake City Streets and Sanitation,2010 W 500 S,1.6
-International Peace Gardens,1060 Dalton Ave S,Deker Lake,2300 Parkway Blvd,2.8
-International Peace Gardens,1060 Dalton Ave S,Salt Lake City Ottinger Hall,233 Canyon Rd,4.8
-International Peace Gardens,1060 Dalton Ave S,Columbus Library,2530 S 500 E,6.3
-International Peace Gardens,1060 Dalton Ave S,Taylorsville City Hall,2600 Taylorsville Blvd,7.3
-International Peace Gardens,1060 Dalton Ave S,South Salt Lake Police,2835 Main St,5.3
-International Peace Gardens,1060 Dalton Ave S,Council Hall,300 State St,4.8
-International Peace Gardens,1060 Dalton Ave S,Redwood Park,3060 Lester St,3
-International Peace Gardens,1060 Dalton Ave S,Salt Lake County Mental Health,3148 S 1100 W,4.6
-International Peace Gardens,1060 Dalton Ave S,Salt Lake County/United Police Dept,3365 S 900 W,4.5
-International Peace Gardens,1060 Dalton Ave S,West Valley Prosecutor,3575 W Valley Central Sta bus Loop,7.4
-International Peace Gardens,1060 Dalton Ave S,Housing Auth. of Salt Lake County,3595 Main St,6
-International Peace Gardens,1060 Dalton Ave S,Utah DMV Administrative Office,380 W 2880 S,5
-International Peace Gardens,1060 Dalton Ave S,Third District Juvenile Court,410 S State St,4.8
-International Peace Gardens,1060 Dalton Ave S,Cottonwood Regional Softball Complex,"
- 4300 S 1300 E",9.5
-International Peace Gardens,1060 Dalton Ave S,Holiday City Office,4580 S 2300 E,10.9
-International Peace Gardens,1060 Dalton Ave S,Murray City Museum,5025 State St,8.3
-International Peace Gardens,1060 Dalton Ave S,Valley Regional Softball Complex,5100 South 2700 West,6.9
-International Peace Gardens,1060 Dalton Ave S,City Center of Rock Springs, 5383 South 900 East #104,10
-International Peace Gardens,1060 Dalton Ave S,Rice Terrace Pavilion Park, 600 E 900 South,4.4
-International Peace Gardens,1060 Dalton Ave S,Wheeler Historic Farm , 6351 South 900 East,13
-Sugar House Park,1330 2100 S,Western Governors University,"4001 South 700 East, 
-Salt Lake City, UT 84107",3.8
-Sugar House Park,1330 2100 S,International Peace Gardens,1060 Dalton Ave S,7.1
-Sugar House Park,1330 2100 S,Sugar House Park,1330 2100 S,0
-Sugar House Park,1330 2100 S,Taylorsville-Bennion Heritage City Gov Off,1488 4800 S,9.2
-Sugar House Park,1330 2100 S,Salt Lake City Division of Health Services,177 W Price Ave,4.4
-Sugar House Park,1330 2100 S,South Salt Lake Public Works,195 W Oakland Ave,2.8
-Sugar House Park,1330 2100 S,Salt Lake City Streets and Sanitation,2010 W 500 S,8.6
-Sugar House Park,1330 2100 S,Deker Lake,2300 Parkway Blvd,6.3
-Sugar House Park,1330 2100 S,Salt Lake City Ottinger Hall,233 Canyon Rd,5.3
-Sugar House Park,1330 2100 S,Columbus Library,2530 S 500 E,1.6
-Sugar House Park,1330 2100 S,Taylorsville City Hall,2600 Taylorsville Blvd,10.4
-Sugar House Park,1330 2100 S,South Salt Lake Police,2835 Main St,3
-Sugar House Park,1330 2100 S,Council Hall,300 State St,5.3
-Sugar House Park,1330 2100 S,Redwood Park,3060 Lester St,6.5
-Sugar House Park,1330 2100 S,Salt Lake County Mental Health,3148 S 1100 W,5.6
-Sugar House Park,1330 2100 S,Salt Lake County/United Police Dept,3365 S 900 W,5.8
-Sugar House Park,1330 2100 S,West Valley Prosecutor,3575 W Valley Central Sta bus Loop,5.7
-Sugar House Park,1330 2100 S,Housing Auth. of Salt Lake County,3595 Main St,4.1
-Sugar House Park,1330 2100 S,Utah DMV Administrative Office,380 W 2880 S,3.6
-Sugar House Park,1330 2100 S,Third District Juvenile Court,410 S State St,4.3
-Sugar House Park,1330 2100 S,Cottonwood Regional Softball Complex,"
- 4300 S 1300 E",3.3
-Sugar House Park,1330 2100 S,Holiday City Office,4580 S 2300 E,5
-Sugar House Park,1330 2100 S,Murray City Museum,5025 State St,6.1
-Sugar House Park,1330 2100 S,Valley Regional Softball Complex,5100 South 2700 West,9.7
-Sugar House Park,1330 2100 S,City Center of Rock Springs, 5383 South 900 East #104,6.1
-Sugar House Park,1330 2100 S,Rice Terrace Pavilion Park, 600 E 900 South,2.8
-Sugar House Park,1330 2100 S,Wheeler Historic Farm , 6351 South 900 East,7.4
-Taylorsville-Bennion Heritage City Gov Off,1488 4800 S,Western Governors University,"4001 South 700 East, 
-Salt Lake City, UT 84107",11
-Taylorsville-Bennion Heritage City Gov Off,1488 4800 S,International Peace Gardens,1060 Dalton Ave S,6.4
-Taylorsville-Bennion Heritage City Gov Off,1488 4800 S,Sugar House Park,1330 2100 S,9.2
-Taylorsville-Bennion Heritage City Gov Off,1488 4800 S,Taylorsville-Bennion Heritage City Gov Off,1488 4800 S,0
-Taylorsville-Bennion Heritage City Gov Off,1488 4800 S,Salt Lake City Division of Health Services,177 W Price Ave,5.6
-Taylorsville-Bennion Heritage City Gov Off,1488 4800 S,South Salt Lake Public Works,195 W Oakland Ave,6.9
-Taylorsville-Bennion Heritage City Gov Off,1488 4800 S,Salt Lake City Streets and Sanitation,2010 W 500 S,8.6
-Taylorsville-Bennion Heritage City Gov Off,1488 4800 S,Deker Lake,2300 Parkway Blvd,4
-Taylorsville-Bennion Heritage City Gov Off,1488 4800 S,Salt Lake City Ottinger Hall,233 Canyon Rd,11.1
-Taylorsville-Bennion Heritage City Gov Off,1488 4800 S,Columbus Library,2530 S 500 E,7.3
-Taylorsville-Bennion Heritage City Gov Off,1488 4800 S,Taylorsville City Hall,2600 Taylorsville Blvd,1
-Taylorsville-Bennion Heritage City Gov Off,1488 4800 S,South Salt Lake Police,2835 Main St,6.4
-Taylorsville-Bennion Heritage City Gov Off,1488 4800 S,Council Hall,300 State St,11.1
-Taylorsville-Bennion Heritage City Gov Off,1488 4800 S,Redwood Park,3060 Lester St,3.9
-Taylorsville-Bennion Heritage City Gov Off,1488 4800 S,Salt Lake County Mental Health,3148 S 1100 W,4.3
-Taylorsville-Bennion Heritage City Gov Off,1488 4800 S,Salt Lake County/United Police Dept,3365 S 900 W,4.4
-Taylorsville-Bennion Heritage City Gov Off,1488 4800 S,West Valley Prosecutor,3575 W Valley Central Sta bus Loop,7.2
-Taylorsville-Bennion Heritage City Gov Off,1488 4800 S,Housing Auth. of Salt Lake County,3595 Main St,5.3
-Taylorsville-Bennion Heritage City Gov Off,1488 4800 S,Utah DMV Administrative Office,380 W 2880 S,6
-Taylorsville-Bennion Heritage City Gov Off,1488 4800 S,Third District Juvenile Court,410 S State St,10.6
-Taylorsville-Bennion Heritage City Gov Off,1488 4800 S,Cottonwood Regional Softball Complex,"
- 4300 S 1300 E",5.9
-Taylorsville-Bennion Heritage City Gov Off,1488 4800 S,Holiday City Office,4580 S 2300 E,7.4
-Taylorsville-Bennion Heritage City Gov Off,1488 4800 S,Murray City Museum,5025 State St,4.7
-Taylorsville-Bennion Heritage City Gov Off,1488 4800 S,Valley Regional Softball Complex,5100 South 2700 West,0.6
-Taylorsville-Bennion Heritage City Gov Off,1488 4800 S,City Center of Rock Springs, 5383 South 900 East #104,6.4
-Taylorsville-Bennion Heritage City Gov Off,1488 4800 S,Rice Terrace Pavilion Park, 600 E 900 South,10.1
-Taylorsville-Bennion Heritage City Gov Off,1488 4800 S,Wheeler Historic Farm , 6351 South 900 East,10.1
-Salt Lake City Division of Health Services,177 W Price Ave,Western Governors University,"4001 South 700 East, 
-Salt Lake City, UT 84107",2.2
-Salt Lake City Division of Health Services,177 W Price Ave,International Peace Gardens,1060 Dalton Ave S,6
-Salt Lake City Division of Health Services,177 W Price Ave,Sugar House Park,1330 2100 S,4.4
-Salt Lake City Division of Health Services,177 W Price Ave,Taylorsville-Bennion Heritage City Gov Off,1488 4800 S,5.6
-Salt Lake City Division of Health Services,177 W Price Ave,Salt Lake City Division of Health Services,177 W Price Ave,0
-Salt Lake City Division of Health Services,177 W Price Ave,South Salt Lake Public Works,195 W Oakland Ave,1.9
-Salt Lake City Division of Health Services,177 W Price Ave,Salt Lake City Streets and Sanitation,2010 W 500 S,7.9
-Salt Lake City Division of Health Services,177 W Price Ave,Deker Lake,2300 Parkway Blvd,5.1
-Salt Lake City Division of Health Services,177 W Price Ave,Salt Lake City Ottinger Hall,233 Canyon Rd,7.5
-Salt Lake City Division of Health Services,177 W Price Ave,Columbus Library,2530 S 500 E,2.6
-Salt Lake City Division of Health Services,177 W Price Ave,Taylorsville City Hall,2600 Taylorsville Blvd,6.5
-Salt Lake City Division of Health Services,177 W Price Ave,South Salt Lake Police,2835 Main St,1.5
-Salt Lake City Division of Health Services,177 W Price Ave,Council Hall,300 State St,7.5
-Salt Lake City Division of Health Services,177 W Price Ave,Redwood Park,3060 Lester St,3.2
-Salt Lake City Division of Health Services,177 W Price Ave,Salt Lake County Mental Health,3148 S 1100 W,2.4
-Salt Lake City Division of Health Services,177 W Price Ave,Salt Lake County/United Police Dept,3365 S 900 W,2.7
-Salt Lake City Division of Health Services,177 W Price Ave,West Valley Prosecutor,3575 W Valley Central Sta bus Loop,1.4
-Salt Lake City Division of Health Services,177 W Price Ave,Housing Auth. of Salt Lake County,3595 Main St,0.5
-Salt Lake City Division of Health Services,177 W Price Ave,Utah DMV Administrative Office,380 W 2880 S,1.7
-Salt Lake City Division of Health Services,177 W Price Ave,Third District Juvenile Court,410 S State St,6.5
-Salt Lake City Division of Health Services,177 W Price Ave,Cottonwood Regional Softball Complex,"
- 4300 S 1300 E",3.2
-Salt Lake City Division of Health Services,177 W Price Ave,Holiday City Office,4580 S 2300 E,5.2
-Salt Lake City Division of Health Services,177 W Price Ave,Murray City Museum,5025 State St,2.5
-Salt Lake City Division of Health Services,177 W Price Ave,Valley Regional Softball Complex,5100 South 2700 West,6
-Salt Lake City Division of Health Services,177 W Price Ave,City Center of Rock Springs, 5383 South 900 East #104,4.2
-Salt Lake City Division of Health Services,177 W Price Ave,Rice Terrace Pavilion Park, 600 E 900 South,5.4
-Salt Lake City Division of Health Services,177 W Price Ave,Wheeler Historic Farm , 6351 South 900 East,5.5
-South Salt Lake Public Works,195 W Oakland Ave,Western Governors University,"4001 South 700 East, 
-Salt Lake City, UT 84107",3.5
-South Salt Lake Public Works,195 W Oakland Ave,International Peace Gardens,1060 Dalton Ave S,4.8
-South Salt Lake Public Works,195 W Oakland Ave,Sugar House Park,1330 2100 S,2.8
-South Salt Lake Public Works,195 W Oakland Ave,Taylorsville-Bennion Heritage City Gov Off,1488 4800 S,6.9
-South Salt Lake Public Works,195 W Oakland Ave,Salt Lake City Division of Health Services,177 W Price Ave,1.9
-South Salt Lake Public Works,195 W Oakland Ave,South Salt Lake Public Works,195 W Oakland Ave,0
-South Salt Lake Public Works,195 W Oakland Ave,Salt Lake City Streets and Sanitation,2010 W 500 S,6.3
-South Salt Lake Public Works,195 W Oakland Ave,Deker Lake,2300 Parkway Blvd,4.3
-South Salt Lake Public Works,195 W Oakland Ave,Salt Lake City Ottinger Hall,233 Canyon Rd,4.5
-South Salt Lake Public Works,195 W Oakland Ave,Columbus Library,2530 S 500 E,1.5
-South Salt Lake Public Works,195 W Oakland Ave,Taylorsville City Hall,2600 Taylorsville Blvd,8.7
-South Salt Lake Public Works,195 W Oakland Ave,South Salt Lake Police,2835 Main St,0.8
-South Salt Lake Public Works,195 W Oakland Ave,Council Hall,300 State St,4.5
-South Salt Lake Public Works,195 W Oakland Ave,Redwood Park,3060 Lester St,3.9
-South Salt Lake Public Works,195 W Oakland Ave,Salt Lake County Mental Health,3148 S 1100 W,3
-South Salt Lake Public Works,195 W Oakland Ave,Salt Lake County/United Police Dept,3365 S 900 W,3.8
-South Salt Lake Public Works,195 W Oakland Ave,West Valley Prosecutor,3575 W Valley Central Sta bus Loop,5.7
-South Salt Lake Public Works,195 W Oakland Ave,Housing Auth. of Salt Lake County,3595 Main St,1.9
-South Salt Lake Public Works,195 W Oakland Ave,Utah DMV Administrative Office,380 W 2880 S,1.1
-South Salt Lake Public Works,195 W Oakland Ave,Third District Juvenile Court,410 S State St,3.5
-South Salt Lake Public Works,195 W Oakland Ave,Cottonwood Regional Softball Complex,"
- 4300 S 1300 E",4.9
-South Salt Lake Public Works,195 W Oakland Ave,Holiday City Office,4580 S 2300 E,6.9
-South Salt Lake Public Works,195 W Oakland Ave,Murray City Museum,5025 State St,4.2
-South Salt Lake Public Works,195 W Oakland Ave,Valley Regional Softball Complex,5100 South 2700 West,9
-South Salt Lake Public Works,195 W Oakland Ave,City Center of Rock Springs, 5383 South 900 East #104,5.9
-South Salt Lake Public Works,195 W Oakland Ave,Rice Terrace Pavilion Park, 600 E 900 South,3.5
-South Salt Lake Public Works,195 W Oakland Ave,Wheeler Historic Farm , 6351 South 900 East,7.2
-Salt Lake City Streets and Sanitation,2010 W 500 S,Western Governors University,"4001 South 700 East, 
-Salt Lake City, UT 84107",10.9
-Salt Lake City Streets and Sanitation,2010 W 500 S,International Peace Gardens,1060 Dalton Ave S,1.6
-Salt Lake City Streets and Sanitation,2010 W 500 S,Sugar House Park,1330 2100 S,8.6
-Salt Lake City Streets and Sanitation,2010 W 500 S,Taylorsville-Bennion Heritage City Gov Off,1488 4800 S,8.6
-Salt Lake City Streets and Sanitation,2010 W 500 S,Salt Lake City Division of Health Services,177 W Price Ave,7.9
-Salt Lake City Streets and Sanitation,2010 W 500 S,South Salt Lake Public Works,195 W Oakland Ave,6.3
-Salt Lake City Streets and Sanitation,2010 W 500 S,Salt Lake City Streets and Sanitation,2010 W 500 S,0
-Salt Lake City Streets and Sanitation,2010 W 500 S,Deker Lake,2300 Parkway Blvd,4
-Salt Lake City Streets and Sanitation,2010 W 500 S,Salt Lake City Ottinger Hall,233 Canyon Rd,4.2
-Salt Lake City Streets and Sanitation,2010 W 500 S,Columbus Library,2530 S 500 E,8
-Salt Lake City Streets and Sanitation,2010 W 500 S,Taylorsville City Hall,2600 Taylorsville Blvd,8.6
-Salt Lake City Streets and Sanitation,2010 W 500 S,South Salt Lake Police,2835 Main St,6.9
-Salt Lake City Streets and Sanitation,2010 W 500 S,Council Hall,300 State St,4.2
-Salt Lake City Streets and Sanitation,2010 W 500 S,Redwood Park,3060 Lester St,4.2
-Salt Lake City Streets and Sanitation,2010 W 500 S,Salt Lake County Mental Health,3148 S 1100 W,8
-Salt Lake City Streets and Sanitation,2010 W 500 S,Salt Lake County/United Police Dept,3365 S 900 W,5.8
-Salt Lake City Streets and Sanitation,2010 W 500 S,West Valley Prosecutor,3575 W Valley Central Sta bus Loop,7.2
-Salt Lake City Streets and Sanitation,2010 W 500 S,Housing Auth. of Salt Lake County,3595 Main St,7.7
-Salt Lake City Streets and Sanitation,2010 W 500 S,Utah DMV Administrative Office,380 W 2880 S,6.6
-Salt Lake City Streets and Sanitation,2010 W 500 S,Third District Juvenile Court,410 S State St,3.2
-Salt Lake City Streets and Sanitation,2010 W 500 S,Cottonwood Regional Softball Complex,"
- 4300 S 1300 E",11.2
-Salt Lake City Streets and Sanitation,2010 W 500 S,Holiday City Office,4580 S 2300 E,12.7
-Salt Lake City Streets and Sanitation,2010 W 500 S,Murray City Museum,5025 State St,10
-Salt Lake City Streets and Sanitation,2010 W 500 S,Valley Regional Softball Complex,5100 South 2700 West,8.2
-Salt Lake City Streets and Sanitation,2010 W 500 S,City Center of Rock Springs, 5383 South 900 East #104,11.7
-Salt Lake City Streets and Sanitation,2010 W 500 S,Rice Terrace Pavilion Park, 600 E 900 South,5.1
-Salt Lake City Streets and Sanitation,2010 W 500 S,Wheeler Historic Farm , 6351 South 900 East,14.2
-Deker Lake,2300 Parkway Blvd,Western Governors University,"4001 South 700 East, 
-Salt Lake City, UT 84107",8.6
-Deker Lake,2300 Parkway Blvd,International Peace Gardens,1060 Dalton Ave S,2.8
-Deker Lake,2300 Parkway Blvd,Sugar House Park,1330 2100 S,6.3
-Deker Lake,2300 Parkway Blvd,Taylorsville-Bennion Heritage City Gov Off,1488 4800 S,4
-Deker Lake,2300 Parkway Blvd,Salt Lake City Division of Health Services,177 W Price Ave,5.1
-Deker Lake,2300 Parkway Blvd,South Salt Lake Public Works,195 W Oakland Ave,4.3
-Deker Lake,2300 Parkway Blvd,Salt Lake City Streets and Sanitation,2010 W 500 S,4
-Deker Lake,2300 Parkway Blvd,Deker Lake,2300 Parkway Blvd,0
-Deker Lake,2300 Parkway Blvd,Salt Lake City Ottinger Hall,233 Canyon Rd,7.7
-Deker Lake,2300 Parkway Blvd,Columbus Library,2530 S 500 E,9.3
-Deker Lake,2300 Parkway Blvd,Taylorsville City Hall,2600 Taylorsville Blvd,4.6
-Deker Lake,2300 Parkway Blvd,South Salt Lake Police,2835 Main St,4.8
-Deker Lake,2300 Parkway Blvd,Council Hall,300 State St,7.7
-Deker Lake,2300 Parkway Blvd,Redwood Park,3060 Lester St,1.6
-Deker Lake,2300 Parkway Blvd,Salt Lake County Mental Health,3148 S 1100 W,3.3
-Deker Lake,2300 Parkway Blvd,Salt Lake County/United Police Dept,3365 S 900 W,3.4
-Deker Lake,2300 Parkway Blvd,West Valley Prosecutor,3575 W Valley Central Sta bus Loop,3.1
-Deker Lake,2300 Parkway Blvd,Housing Auth. of Salt Lake County,3595 Main St,5.1
-Deker Lake,2300 Parkway Blvd,Utah DMV Administrative Office,380 W 2880 S,4.6
-Deker Lake,2300 Parkway Blvd,Third District Juvenile Court,410 S State St,6.7
-Deker Lake,2300 Parkway Blvd,Cottonwood Regional Softball Complex,"
- 4300 S 1300 E",8.1
-Deker Lake,2300 Parkway Blvd,Holiday City Office,4580 S 2300 E,10.4
-Deker Lake,2300 Parkway Blvd,Murray City Museum,5025 State St,7.8
-Deker Lake,2300 Parkway Blvd,Valley Regional Softball Complex,5100 South 2700 West,4.2
-Deker Lake,2300 Parkway Blvd,City Center of Rock Springs, 5383 South 900 East #104,9.5
-Deker Lake,2300 Parkway Blvd,Rice Terrace Pavilion Park, 600 E 900 South,6.2
-Deker Lake,2300 Parkway Blvd,Wheeler Historic Farm , 6351 South 900 East,10.7
-Salt Lake City Ottinger Hall,233 Canyon Rd,Western Governors University,"4001 South 700 East, 
-Salt Lake City, UT 84107",7.6
-Salt Lake City Ottinger Hall,233 Canyon Rd,International Peace Gardens,1060 Dalton Ave S,4.8
-Salt Lake City Ottinger Hall,233 Canyon Rd,Sugar House Park,1330 2100 S,5.3
-Salt Lake City Ottinger Hall,233 Canyon Rd,Taylorsville-Bennion Heritage City Gov Off,1488 4800 S,11.1
-Salt Lake City Ottinger Hall,233 Canyon Rd,Salt Lake City Division of Health Services,177 W Price Ave,7.5
-Salt Lake City Ottinger Hall,233 Canyon Rd,South Salt Lake Public Works,195 W Oakland Ave,4.5
-Salt Lake City Ottinger Hall,233 Canyon Rd,Salt Lake City Streets and Sanitation,2010 W 500 S,4.2
-Salt Lake City Ottinger Hall,233 Canyon Rd,Deker Lake,2300 Parkway Blvd,7.7
-Salt Lake City Ottinger Hall,233 Canyon Rd,Salt Lake City Ottinger Hall,233 Canyon Rd,0
-Salt Lake City Ottinger Hall,233 Canyon Rd,Columbus Library,2530 S 500 E,4.8
-Salt Lake City Ottinger Hall,233 Canyon Rd,Taylorsville City Hall,2600 Taylorsville Blvd,11.9
-Salt Lake City Ottinger Hall,233 Canyon Rd,South Salt Lake Police,2835 Main St,4.7
-Salt Lake City Ottinger Hall,233 Canyon Rd,Council Hall,300 State St,0.6
-Salt Lake City Ottinger Hall,233 Canyon Rd,Redwood Park,3060 Lester St,7.6
-Salt Lake City Ottinger Hall,233 Canyon Rd,Salt Lake County Mental Health,3148 S 1100 W,7.8
-Salt Lake City Ottinger Hall,233 Canyon Rd,Salt Lake County/United Police Dept,3365 S 900 W,6.6
-Salt Lake City Ottinger Hall,233 Canyon Rd,West Valley Prosecutor,3575 W Valley Central Sta bus Loop,7.2
-Salt Lake City Ottinger Hall,233 Canyon Rd,Housing Auth. of Salt Lake County,3595 Main St,5.9
-Salt Lake City Ottinger Hall,233 Canyon Rd,Utah DMV Administrative Office,380 W 2880 S,5.4
-Salt Lake City Ottinger Hall,233 Canyon Rd,Third District Juvenile Court,410 S State St,1
-Salt Lake City Ottinger Hall,233 Canyon Rd,Cottonwood Regional Softball Complex,"
- 4300 S 1300 E",8.5
-Salt Lake City Ottinger Hall,233 Canyon Rd,Holiday City Office,4580 S 2300 E,10.3
-Salt Lake City Ottinger Hall,233 Canyon Rd,Murray City Museum,5025 State St,7.8
-Salt Lake City Ottinger Hall,233 Canyon Rd,Valley Regional Softball Complex,5100 South 2700 West,11.5
-Salt Lake City Ottinger Hall,233 Canyon Rd,City Center of Rock Springs, 5383 South 900 East #104,9.5
-Salt Lake City Ottinger Hall,233 Canyon Rd,Rice Terrace Pavilion Park, 600 E 900 South,2.8
-Salt Lake City Ottinger Hall,233 Canyon Rd,Wheeler Historic Farm , 6351 South 900 East,14.1
-Columbus Library,2530 S 500 E,Western Governors University,"4001 South 700 East, 
-Salt Lake City, UT 84107",2.8
-Columbus Library,2530 S 500 E,International Peace Gardens,1060 Dalton Ave S,6.3
-Columbus Library,2530 S 500 E,Sugar House Park,1330 2100 S,1.6
-Columbus Library,2530 S 500 E,Taylorsville-Bennion Heritage City Gov Off,1488 4800 S,7.3
-Columbus Library,2530 S 500 E,Salt Lake City Division of Health Services,177 W Price Ave,2.6
-Columbus Library,2530 S 500 E,South Salt Lake Public Works,195 W Oakland Ave,1.5
-Columbus Library,2530 S 500 E,Salt Lake City Streets and Sanitation,2010 W 500 S,8
-Columbus Library,2530 S 500 E,Deker Lake,2300 Parkway Blvd,9.3
-Columbus Library,2530 S 500 E,Salt Lake City Ottinger Hall,233 Canyon Rd,4.8
-Columbus Library,2530 S 500 E,Columbus Library,2530 S 500 E,0
-Columbus Library,2530 S 500 E,Taylorsville City Hall,2600 Taylorsville Blvd,9.4
-Columbus Library,2530 S 500 E,South Salt Lake Police,2835 Main St,1.1
-Columbus Library,2530 S 500 E,Council Hall,300 State St,5.1
-Columbus Library,2530 S 500 E,Redwood Park,3060 Lester St,4.6
-Columbus Library,2530 S 500 E,Salt Lake County Mental Health,3148 S 1100 W,3.7
-Columbus Library,2530 S 500 E,Salt Lake County/United Police Dept,3365 S 900 W,4
-Columbus Library,2530 S 500 E,West Valley Prosecutor,3575 W Valley Central Sta bus Loop,6.7
-Columbus Library,2530 S 500 E,Housing Auth. of Salt Lake County,3595 Main St,2.3
-Columbus Library,2530 S 500 E,Utah DMV Administrative Office,380 W 2880 S,1.8
-Columbus Library,2530 S 500 E,Third District Juvenile Court,410 S State St,4.1
-Columbus Library,2530 S 500 E,Cottonwood Regional Softball Complex,"
- 4300 S 1300 E",3.8
-Columbus Library,2530 S 500 E,Holiday City Office,4580 S 2300 E,5.8
-Columbus Library,2530 S 500 E,Murray City Museum,5025 State St,4.3
-Columbus Library,2530 S 500 E,Valley Regional Softball Complex,5100 South 2700 West,7.8
-Columbus Library,2530 S 500 E,City Center of Rock Springs, 5383 South 900 East #104,4.8
-Columbus Library,2530 S 500 E,Rice Terrace Pavilion Park, 600 E 900 South,3.2
-Columbus Library,2530 S 500 E,Wheeler Historic Farm , 6351 South 900 East,6
-Taylorsville City Hall,2600 Taylorsville Blvd,Western Governors University,"4001 South 700 East, 
-Salt Lake City, UT 84107",6.4
-Taylorsville City Hall,2600 Taylorsville Blvd,International Peace Gardens,1060 Dalton Ave S,7.3
-Taylorsville City Hall,2600 Taylorsville Blvd,Sugar House Park,1330 2100 S,10.4
-Taylorsville City Hall,2600 Taylorsville Blvd,Taylorsville-Bennion Heritage City Gov Off,1488 4800 S,1
-Taylorsville City Hall,2600 Taylorsville Blvd,Salt Lake City Division of Health Services,177 W Price Ave,6.5
-Taylorsville City Hall,2600 Taylorsville Blvd,South Salt Lake Public Works,195 W Oakland Ave,8.7
-Taylorsville City Hall,2600 Taylorsville Blvd,Salt Lake City Streets and Sanitation,2010 W 500 S,8.6
-Taylorsville City Hall,2600 Taylorsville Blvd,Deker Lake,2300 Parkway Blvd,4.6
-Taylorsville City Hall,2600 Taylorsville Blvd,Salt Lake City Ottinger Hall,233 Canyon Rd,11.9
-Taylorsville City Hall,2600 Taylorsville Blvd,Columbus Library,2530 S 500 E,9.4
-Taylorsville City Hall,2600 Taylorsville Blvd,Taylorsville City Hall,2600 Taylorsville Blvd,0
-Taylorsville City Hall,2600 Taylorsville Blvd,South Salt Lake Police,2835 Main St,7.3
-Taylorsville City Hall,2600 Taylorsville Blvd,Council Hall,300 State St,12
-Taylorsville City Hall,2600 Taylorsville Blvd,Redwood Park,3060 Lester St,4.9
-Taylorsville City Hall,2600 Taylorsville Blvd,Salt Lake County Mental Health,3148 S 1100 W,5.2
-Taylorsville City Hall,2600 Taylorsville Blvd,Salt Lake County/United Police Dept,3365 S 900 W,5.4
-Taylorsville City Hall,2600 Taylorsville Blvd,West Valley Prosecutor,3575 W Valley Central Sta bus Loop,8.1
-Taylorsville City Hall,2600 Taylorsville Blvd,Housing Auth. of Salt Lake County,3595 Main St,6.2
-Taylorsville City Hall,2600 Taylorsville Blvd,Utah DMV Administrative Office,380 W 2880 S,6.9
-Taylorsville City Hall,2600 Taylorsville Blvd,Third District Juvenile Court,410 S State St,11.5
-Taylorsville City Hall,2600 Taylorsville Blvd,Cottonwood Regional Softball Complex,"
- 4300 S 1300 E",6.9
-Taylorsville City Hall,2600 Taylorsville Blvd,Holiday City Office,4580 S 2300 E,8.3
-Taylorsville City Hall,2600 Taylorsville Blvd,Murray City Museum,5025 State St,4.1
-Taylorsville City Hall,2600 Taylorsville Blvd,Valley Regional Softball Complex,5100 South 2700 West,0.4
-Taylorsville City Hall,2600 Taylorsville Blvd,City Center of Rock Springs, 5383 South 900 East #104,4.9
-Taylorsville City Hall,2600 Taylorsville Blvd,Rice Terrace Pavilion Park, 600 E 900 South,11
-Taylorsville City Hall,2600 Taylorsville Blvd,Wheeler Historic Farm , 6351 South 900 East,6.8
-South Salt Lake Police,2835 Main St,Western Governors University,"4001 South 700 East, 
-Salt Lake City, UT 84107",3.2
-South Salt Lake Police,2835 Main St,International Peace Gardens,1060 Dalton Ave S,5.3
-South Salt Lake Police,2835 Main St,Sugar House Park,1330 2100 S,3
-South Salt Lake Police,2835 Main St,Taylorsville-Bennion Heritage City Gov Off,1488 4800 S,6.4
-South Salt Lake Police,2835 Main St,Salt Lake City Division of Health Services,177 W Price Ave,1.5
-South Salt Lake Police,2835 Main St,South Salt Lake Public Works,195 W Oakland Ave,0.8
-South Salt Lake Police,2835 Main St,Salt Lake City Streets and Sanitation,2010 W 500 S,6.9
-South Salt Lake Police,2835 Main St,Deker Lake,2300 Parkway Blvd,4.8
-South Salt Lake Police,2835 Main St,Salt Lake City Ottinger Hall,233 Canyon Rd,4.7
-South Salt Lake Police,2835 Main St,Columbus Library,2530 S 500 E,1.1
-South Salt Lake Police,2835 Main St,Taylorsville City Hall,2600 Taylorsville Blvd,7.3
-South Salt Lake Police,2835 Main St,South Salt Lake Police,2835 Main St,0
-South Salt Lake Police,2835 Main St,Council Hall,300 State St,4.7
-South Salt Lake Police,2835 Main St,Redwood Park,3060 Lester St,3.5
-South Salt Lake Police,2835 Main St,Salt Lake County Mental Health,3148 S 1100 W,2.6
-South Salt Lake Police,2835 Main St,Salt Lake County/United Police Dept,3365 S 900 W,2.9
-South Salt Lake Police,2835 Main St,West Valley Prosecutor,3575 W Valley Central Sta bus Loop,6.3
-South Salt Lake Police,2835 Main St,Housing Auth. of Salt Lake County,3595 Main St,1.2
-South Salt Lake Police,2835 Main St,Utah DMV Administrative Office,380 W 2880 S,1
-South Salt Lake Police,2835 Main St,Third District Juvenile Court,410 S State St,3.7
-South Salt Lake Police,2835 Main St,Cottonwood Regional Softball Complex,"
- 4300 S 1300 E",4.1
-South Salt Lake Police,2835 Main St,Holiday City Office,4580 S 2300 E,6.2
-South Salt Lake Police,2835 Main St,Murray City Museum,5025 State St,3.4
-South Salt Lake Police,2835 Main St,Valley Regional Softball Complex,5100 South 2700 West,6.9
-South Salt Lake Police,2835 Main St,City Center of Rock Springs, 5383 South 900 East #104,5.2
-South Salt Lake Police,2835 Main St,Rice Terrace Pavilion Park, 600 E 900 South,3.7
-South Salt Lake Police,2835 Main St,Wheeler Historic Farm , 6351 South 900 East,6.4
-Council Hall,300 State St,Western Governors University,"4001 South 700 East, 
-Salt Lake City, UT 84107",7.6
-Council Hall,300 State St,International Peace Gardens,1060 Dalton Ave S,4.8
-Council Hall,300 State St,Sugar House Park,1330 2100 S,5.3
-Council Hall,300 State St,Taylorsville-Bennion Heritage City Gov Off,1488 4800 S,11.1
-Council Hall,300 State St,Salt Lake City Division of Health Services,177 W Price Ave,7.5
-Council Hall,300 State St,South Salt Lake Public Works,195 W Oakland Ave,4.5
-Council Hall,300 State St,Salt Lake City Streets and Sanitation,2010 W 500 S,4.2
-Council Hall,300 State St,Deker Lake,2300 Parkway Blvd,7.7
-Council Hall,300 State St,Salt Lake City Ottinger Hall,233 Canyon Rd,0.6
-Council Hall,300 State St,Columbus Library,2530 S 500 E,5.1
-Council Hall,300 State St,Taylorsville City Hall,2600 Taylorsville Blvd,12
-Council Hall,300 State St,South Salt Lake Police,2835 Main St,4.7
-Council Hall,300 State St,Council Hall,300 State St,0
-Council Hall,300 State St,Redwood Park,3060 Lester St,7.3
-Council Hall,300 State St,Salt Lake County Mental Health,3148 S 1100 W,7.8
-Council Hall,300 State St,Salt Lake County/United Police Dept,3365 S 900 W,6.6
-Council Hall,300 State St,West Valley Prosecutor,3575 W Valley Central Sta bus Loop,7.2
-Council Hall,300 State St,Housing Auth. of Salt Lake County,3595 Main St,5.9
-Council Hall,300 State St,Utah DMV Administrative Office,380 W 2880 S,5.4
-Council Hall,300 State St,Third District Juvenile Court,410 S State St,1
-Council Hall,300 State St,Cottonwood Regional Softball Complex,"
- 4300 S 1300 E",8.5
-Council Hall,300 State St,Holiday City Office,4580 S 2300 E,10.3
-Council Hall,300 State St,Murray City Museum,5025 State St,7.8
-Council Hall,300 State St,Valley Regional Softball Complex,5100 South 2700 West,11.5
-Council Hall,300 State St,City Center of Rock Springs, 5383 South 900 East #104,9.5
-Council Hall,300 State St,Rice Terrace Pavilion Park, 600 E 900 South,2.8
-Council Hall,300 State St,Wheeler Historic Farm , 6351 South 900 East,14.1
-Redwood Park,3060 Lester St,Western Governors University,"4001 South 700 East, 
-Salt Lake City, UT 84107",5.2
-Redwood Park,3060 Lester St,International Peace Gardens,1060 Dalton Ave S,3
-Redwood Park,3060 Lester St,Sugar House Park,1330 2100 S,6.5
-Redwood Park,3060 Lester St,Taylorsville-Bennion Heritage City Gov Off,1488 4800 S,3.9
-Redwood Park,3060 Lester St,Salt Lake City Division of Health Services,177 W Price Ave,3.2
-Redwood Park,3060 Lester St,South Salt Lake Public Works,195 W Oakland Ave,3.9
-Redwood Park,3060 Lester St,Salt Lake City Streets and Sanitation,2010 W 500 S,4.2
-Redwood Park,3060 Lester St,Deker Lake,2300 Parkway Blvd,1.6
-Redwood Park,3060 Lester St,Salt Lake City Ottinger Hall,233 Canyon Rd,7.6
-Redwood Park,3060 Lester St,Columbus Library,2530 S 500 E,4.6
-Redwood Park,3060 Lester St,Taylorsville City Hall,2600 Taylorsville Blvd,4.9
-Redwood Park,3060 Lester St,South Salt Lake Police,2835 Main St,3.5
-Redwood Park,3060 Lester St,Council Hall,300 State St,7.3
-Redwood Park,3060 Lester St,Redwood Park,3060 Lester St,0
-Redwood Park,3060 Lester St,Salt Lake County Mental Health,3148 S 1100 W,1.3
-Redwood Park,3060 Lester St,Salt Lake County/United Police Dept,3365 S 900 W,1.5
-Redwood Park,3060 Lester St,West Valley Prosecutor,3575 W Valley Central Sta bus Loop,4
-Redwood Park,3060 Lester St,Housing Auth. of Salt Lake County,3595 Main St,3.2
-Redwood Park,3060 Lester St,Utah DMV Administrative Office,380 W 2880 S,3
-Redwood Park,3060 Lester St,Third District Juvenile Court,410 S State St,6.9
-Redwood Park,3060 Lester St,Cottonwood Regional Softball Complex,"
- 4300 S 1300 E",6.2
-Redwood Park,3060 Lester St,Holiday City Office,4580 S 2300 E,8.2
-Redwood Park,3060 Lester St,Murray City Museum,5025 State St,5.5
-Redwood Park,3060 Lester St,Valley Regional Softball Complex,5100 South 2700 West,4.4
-Redwood Park,3060 Lester St,City Center of Rock Springs, 5383 South 900 East #104,7.2
-Redwood Park,3060 Lester St,Rice Terrace Pavilion Park, 600 E 900 South,6.4
-Redwood Park,3060 Lester St,Wheeler Historic Farm , 6351 South 900 East,10.5
-Salt Lake County Mental Health,3148 S 1100 W,Western Governors University,"4001 South 700 East, 
-Salt Lake City, UT 84107",4.4
-Salt Lake County Mental Health,3148 S 1100 W,International Peace Gardens,1060 Dalton Ave S,4.6
-Salt Lake County Mental Health,3148 S 1100 W,Sugar House Park,1330 2100 S,5.6
-Salt Lake County Mental Health,3148 S 1100 W,Taylorsville-Bennion Heritage City Gov Off,1488 4800 S,4.3
-Salt Lake County Mental Health,3148 S 1100 W,Salt Lake City Division of Health Services,177 W Price Ave,2.4
-Salt Lake County Mental Health,3148 S 1100 W,South Salt Lake Public Works,195 W Oakland Ave,3
-Salt Lake County Mental Health,3148 S 1100 W,Salt Lake City Streets and Sanitation,2010 W 500 S,8
-Salt Lake County Mental Health,3148 S 1100 W,Deker Lake,2300 Parkway Blvd,3.3
-Salt Lake County Mental Health,3148 S 1100 W,Salt Lake City Ottinger Hall,233 Canyon Rd,7.8
-Salt Lake County Mental Health,3148 S 1100 W,Columbus Library,2530 S 500 E,3.7
-Salt Lake County Mental Health,3148 S 1100 W,Taylorsville City Hall,2600 Taylorsville Blvd,5.2
-Salt Lake County Mental Health,3148 S 1100 W,South Salt Lake Police,2835 Main St,2.6
-Salt Lake County Mental Health,3148 S 1100 W,Council Hall,300 State St,7.8
-Salt Lake County Mental Health,3148 S 1100 W,Redwood Park,3060 Lester St,1.3
-Salt Lake County Mental Health,3148 S 1100 W,Salt Lake County Mental Health,3148 S 1100 W,0
-Salt Lake County Mental Health,3148 S 1100 W,Salt Lake County/United Police Dept,3365 S 900 W,0.6
-Salt Lake County Mental Health,3148 S 1100 W,West Valley Prosecutor,3575 W Valley Central Sta bus Loop,6.4
-Salt Lake County Mental Health,3148 S 1100 W,Housing Auth. of Salt Lake County,3595 Main St,2.4
-Salt Lake County Mental Health,3148 S 1100 W,Utah DMV Administrative Office,380 W 2880 S,2.2
-Salt Lake County Mental Health,3148 S 1100 W,Third District Juvenile Court,410 S State St,6.8
-Salt Lake County Mental Health,3148 S 1100 W,Cottonwood Regional Softball Complex,"
- 4300 S 1300 E",5.3
-Salt Lake County Mental Health,3148 S 1100 W,Holiday City Office,4580 S 2300 E,7.4
-Salt Lake County Mental Health,3148 S 1100 W,Murray City Museum,5025 State St,4.6
-Salt Lake County Mental Health,3148 S 1100 W,Valley Regional Softball Complex,5100 South 2700 West,4.8
-Salt Lake County Mental Health,3148 S 1100 W,City Center of Rock Springs, 5383 South 900 East #104,6.3
-Salt Lake County Mental Health,3148 S 1100 W,Rice Terrace Pavilion Park, 600 E 900 South,6.5
-Salt Lake County Mental Health,3148 S 1100 W,Wheeler Historic Farm , 6351 South 900 East,8.8
-Salt Lake County/United Police Dept,3365 S 900 W,Western Governors University,"4001 South 700 East, 
-Salt Lake City, UT 84107",3.7
-Salt Lake County/United Police Dept,3365 S 900 W,International Peace Gardens,1060 Dalton Ave S,4.5
-Salt Lake County/United Police Dept,3365 S 900 W,Sugar House Park,1330 2100 S,5.8
-Salt Lake County/United Police Dept,3365 S 900 W,Taylorsville-Bennion Heritage City Gov Off,1488 4800 S,4.4
-Salt Lake County/United Police Dept,3365 S 900 W,Salt Lake City Division of Health Services,177 W Price Ave,2.7
-Salt Lake County/United Police Dept,3365 S 900 W,South Salt Lake Public Works,195 W Oakland Ave,3.8
-Salt Lake County/United Police Dept,3365 S 900 W,Salt Lake City Streets and Sanitation,2010 W 500 S,5.8
-Salt Lake County/United Police Dept,3365 S 900 W,Deker Lake,2300 Parkway Blvd,3.4
-Salt Lake County/United Police Dept,3365 S 900 W,Salt Lake City Ottinger Hall,233 Canyon Rd,6.6
-Salt Lake County/United Police Dept,3365 S 900 W,Columbus Library,2530 S 500 E,4
-Salt Lake County/United Police Dept,3365 S 900 W,Taylorsville City Hall,2600 Taylorsville Blvd,5.4
-Salt Lake County/United Police Dept,3365 S 900 W,South Salt Lake Police,2835 Main St,2.9
-Salt Lake County/United Police Dept,3365 S 900 W,Council Hall,300 State St,6.6
-Salt Lake County/United Police Dept,3365 S 900 W,Redwood Park,3060 Lester St,1.5
-Salt Lake County/United Police Dept,3365 S 900 W,Salt Lake County Mental Health,3148 S 1100 W,0.6
-Salt Lake County/United Police Dept,3365 S 900 W,Salt Lake County/United Police Dept,3365 S 900 W,0
-Salt Lake County/United Police Dept,3365 S 900 W,West Valley Prosecutor,3575 W Valley Central Sta bus Loop,5.6
-Salt Lake County/United Police Dept,3365 S 900 W,Housing Auth. of Salt Lake County,3595 Main St,1.6
-Salt Lake County/United Police Dept,3365 S 900 W,Utah DMV Administrative Office,380 W 2880 S,1.7
-Salt Lake County/United Police Dept,3365 S 900 W,Third District Juvenile Court,410 S State St,6.4
-Salt Lake County/United Police Dept,3365 S 900 W,Cottonwood Regional Softball Complex,"
- 4300 S 1300 E",4.9
-Salt Lake County/United Police Dept,3365 S 900 W,Holiday City Office,4580 S 2300 E,6.9
-Salt Lake County/United Police Dept,3365 S 900 W,Murray City Museum,5025 State St,4.2
-Salt Lake County/United Police Dept,3365 S 900 W,Valley Regional Softball Complex,5100 South 2700 West,5.6
-Salt Lake County/United Police Dept,3365 S 900 W,City Center of Rock Springs, 5383 South 900 East #104,5.9
-Salt Lake County/United Police Dept,3365 S 900 W,Rice Terrace Pavilion Park, 600 E 900 South,5.7
-Salt Lake County/United Police Dept,3365 S 900 W,Wheeler Historic Farm , 6351 South 900 East,8.4
-West Valley Prosecutor,3575 W Valley Central Sta bus Loop,Western Governors University,"4001 South 700 East, 
-Salt Lake City, UT 84107",7.6
-West Valley Prosecutor,3575 W Valley Central Sta bus Loop,International Peace Gardens,1060 Dalton Ave S,7.4
-West Valley Prosecutor,3575 W Valley Central Sta bus Loop,Sugar House Park,1330 2100 S,5.7
-West Valley Prosecutor,3575 W Valley Central Sta bus Loop,Taylorsville-Bennion Heritage City Gov Off,1488 4800 S,7.2
-West Valley Prosecutor,3575 W Valley Central Sta bus Loop,Salt Lake City Division of Health Services,177 W Price Ave,1.4
-West Valley Prosecutor,3575 W Valley Central Sta bus Loop,South Salt Lake Public Works,195 W Oakland Ave,5.7
-West Valley Prosecutor,3575 W Valley Central Sta bus Loop,Salt Lake City Streets and Sanitation,2010 W 500 S,7.2
-West Valley Prosecutor,3575 W Valley Central Sta bus Loop,Deker Lake,2300 Parkway Blvd,3.1
-West Valley Prosecutor,3575 W Valley Central Sta bus Loop,Salt Lake City Ottinger Hall,233 Canyon Rd,7.2
-West Valley Prosecutor,3575 W Valley Central Sta bus Loop,Columbus Library,2530 S 500 E,6.7
-West Valley Prosecutor,3575 W Valley Central Sta bus Loop,Taylorsville City Hall,2600 Taylorsville Blvd,8.1
-West Valley Prosecutor,3575 W Valley Central Sta bus Loop,South Salt Lake Police,2835 Main St,6.3
-West Valley Prosecutor,3575 W Valley Central Sta bus Loop,Council Hall,300 State St,7.2
-West Valley Prosecutor,3575 W Valley Central Sta bus Loop,Redwood Park,3060 Lester St,4
-West Valley Prosecutor,3575 W Valley Central Sta bus Loop,Salt Lake County Mental Health,3148 S 1100 W,6.4
-West Valley Prosecutor,3575 W Valley Central Sta bus Loop,Salt Lake County/United Police Dept,3365 S 900 W,5.6
-West Valley Prosecutor,3575 W Valley Central Sta bus Loop,West Valley Prosecutor,3575 W Valley Central Sta bus Loop,0
-West Valley Prosecutor,3575 W Valley Central Sta bus Loop,Housing Auth. of Salt Lake County,3595 Main St,7.1
-West Valley Prosecutor,3575 W Valley Central Sta bus Loop,Utah DMV Administrative Office,380 W 2880 S,6.1
-West Valley Prosecutor,3575 W Valley Central Sta bus Loop,Third District Juvenile Court,410 S State St,7.2
-West Valley Prosecutor,3575 W Valley Central Sta bus Loop,Cottonwood Regional Softball Complex,"
- 4300 S 1300 E",10.6
-West Valley Prosecutor,3575 W Valley Central Sta bus Loop,Holiday City Office,4580 S 2300 E,12
-West Valley Prosecutor,3575 W Valley Central Sta bus Loop,Murray City Museum,5025 State St,9.4
-West Valley Prosecutor,3575 W Valley Central Sta bus Loop,Valley Regional Softball Complex,5100 South 2700 West,7.5
-West Valley Prosecutor,3575 W Valley Central Sta bus Loop,City Center of Rock Springs, 5383 South 900 East #104,11.1
-West Valley Prosecutor,3575 W Valley Central Sta bus Loop,Rice Terrace Pavilion Park, 600 E 900 South,6.2
-West Valley Prosecutor,3575 W Valley Central Sta bus Loop,Wheeler Historic Farm , 6351 South 900 East,13.6
-Housing Auth. of Salt Lake County,3595 Main St,Western Governors University,"4001 South 700 East, 
-Salt Lake City, UT 84107",2
-Housing Auth. of Salt Lake County,3595 Main St,International Peace Gardens,1060 Dalton Ave S,6
-Housing Auth. of Salt Lake County,3595 Main St,Sugar House Park,1330 2100 S,4.1
-Housing Auth. of Salt Lake County,3595 Main St,Taylorsville-Bennion Heritage City Gov Off,1488 4800 S,5.3
-Housing Auth. of Salt Lake County,3595 Main St,Salt Lake City Division of Health Services,177 W Price Ave,0.5
-Housing Auth. of Salt Lake County,3595 Main St,South Salt Lake Public Works,195 W Oakland Ave,1.9
-Housing Auth. of Salt Lake County,3595 Main St,Salt Lake City Streets and Sanitation,2010 W 500 S,7.7
-Housing Auth. of Salt Lake County,3595 Main St,Deker Lake,2300 Parkway Blvd,5.1
-Housing Auth. of Salt Lake County,3595 Main St,Salt Lake City Ottinger Hall,233 Canyon Rd,5.9
-Housing Auth. of Salt Lake County,3595 Main St,Columbus Library,2530 S 500 E,2.3
-Housing Auth. of Salt Lake County,3595 Main St,Taylorsville City Hall,2600 Taylorsville Blvd,6.2
-Housing Auth. of Salt Lake County,3595 Main St,South Salt Lake Police,2835 Main St,1.2
-Housing Auth. of Salt Lake County,3595 Main St,Council Hall,300 State St,5.9
-Housing Auth. of Salt Lake County,3595 Main St,Redwood Park,3060 Lester St,3.2
-Housing Auth. of Salt Lake County,3595 Main St,Salt Lake County Mental Health,3148 S 1100 W,2.4
-Housing Auth. of Salt Lake County,3595 Main St,Salt Lake County/United Police Dept,3365 S 900 W,1.6
-Housing Auth. of Salt Lake County,3595 Main St,West Valley Prosecutor,3575 W Valley Central Sta bus Loop,7.1
-Housing Auth. of Salt Lake County,3595 Main St,Housing Auth. of Salt Lake County,3595 Main St,0
-Housing Auth. of Salt Lake County,3595 Main St,Utah DMV Administrative Office,380 W 2880 S,1.6
-Housing Auth. of Salt Lake County,3595 Main St,Third District Juvenile Court,410 S State St,4.9
-Housing Auth. of Salt Lake County,3595 Main St,Cottonwood Regional Softball Complex,"
- 4300 S 1300 E",3
-Housing Auth. of Salt Lake County,3595 Main St,Holiday City Office,4580 S 2300 E,5
-Housing Auth. of Salt Lake County,3595 Main St,Murray City Museum,5025 State St,2.3
-Housing Auth. of Salt Lake County,3595 Main St,Valley Regional Softball Complex,5100 South 2700 West,5.5
-Housing Auth. of Salt Lake County,3595 Main St,City Center of Rock Springs, 5383 South 900 East #104,4
-Housing Auth. of Salt Lake County,3595 Main St,Rice Terrace Pavilion Park, 600 E 900 South,5.1
-Housing Auth. of Salt Lake County,3595 Main St,Wheeler Historic Farm , 6351 South 900 East,5.2
-Utah DMV Administrative Office,380 W 2880 S,Western Governors University,"4001 South 700 East, 
-Salt Lake City, UT 84107",6.5
-Utah DMV Administrative Office,380 W 2880 S,International Peace Gardens,1060 Dalton Ave S,4.8
-Utah DMV Administrative Office,380 W 2880 S,Sugar House Park,1330 2100 S,4.3
-Utah DMV Administrative Office,380 W 2880 S,Taylorsville-Bennion Heritage City Gov Off,1488 4800 S,10.6
-Utah DMV Administrative Office,380 W 2880 S,Salt Lake City Division of Health Services,177 W Price Ave,6.5
-Utah DMV Administrative Office,380 W 2880 S,South Salt Lake Public Works,195 W Oakland Ave,3.5
-Utah DMV Administrative Office,380 W 2880 S,Salt Lake City Streets and Sanitation,2010 W 500 S,3.2
-Utah DMV Administrative Office,380 W 2880 S,Deker Lake,2300 Parkway Blvd,6.7
-Utah DMV Administrative Office,380 W 2880 S,Salt Lake City Ottinger Hall,233 Canyon Rd,1
-Utah DMV Administrative Office,380 W 2880 S,Columbus Library,2530 S 500 E,4.1
-Utah DMV Administrative Office,380 W 2880 S,Taylorsville City Hall,2600 Taylorsville Blvd,11.5
-Utah DMV Administrative Office,380 W 2880 S,South Salt Lake Police,2835 Main St,3.7
-Utah DMV Administrative Office,380 W 2880 S,Council Hall,300 State St,1
-Utah DMV Administrative Office,380 W 2880 S,Redwood Park,3060 Lester St,6.9
-Utah DMV Administrative Office,380 W 2880 S,Salt Lake County Mental Health,3148 S 1100 W,6.8
-Utah DMV Administrative Office,380 W 2880 S,Salt Lake County/United Police Dept,3365 S 900 W,6.4
-Utah DMV Administrative Office,380 W 2880 S,West Valley Prosecutor,3575 W Valley Central Sta bus Loop,7.2
-Utah DMV Administrative Office,380 W 2880 S,Housing Auth. of Salt Lake County,3595 Main St,4.9
-Utah DMV Administrative Office,380 W 2880 S,Utah DMV Administrative Office,380 W 2880 S,0
-Utah DMV Administrative Office,380 W 2880 S,Third District Juvenile Court,410 S State St,4.4
-Utah DMV Administrative Office,380 W 2880 S,Cottonwood Regional Softball Complex,"
- 4300 S 1300 E",4.6
-Utah DMV Administrative Office,380 W 2880 S,Holiday City Office,4580 S 2300 E,6.6
-Utah DMV Administrative Office,380 W 2880 S,Murray City Museum,5025 State St,3.9
-Utah DMV Administrative Office,380 W 2880 S,Valley Regional Softball Complex,5100 South 2700 West,6.5
-Utah DMV Administrative Office,380 W 2880 S,City Center of Rock Springs, 5383 South 900 East #104,5.6
-Utah DMV Administrative Office,380 W 2880 S,Rice Terrace Pavilion Park, 600 E 900 South,4.3
-Utah DMV Administrative Office,380 W 2880 S,Wheeler Historic Farm , 6351 South 900 East,6.9
-Third District Juvenile Court,410 S State St,Western Governors University,"4001 South 700 East, 
-Salt Lake City, UT 84107",3.4
-Third District Juvenile Court,410 S State St,International Peace Gardens,1060 Dalton Ave S,10.9
-Third District Juvenile Court,410 S State St,Sugar House Park,1330 2100 S,5
-Third District Juvenile Court,410 S State St,Taylorsville-Bennion Heritage City Gov Off,1488 4800 S,7.4
-Third District Juvenile Court,410 S State St,Salt Lake City Division of Health Services,177 W Price Ave,5.2
-Third District Juvenile Court,410 S State St,South Salt Lake Public Works,195 W Oakland Ave,6.9
-Third District Juvenile Court,410 S State St,Salt Lake City Streets and Sanitation,2010 W 500 S,12.7
-Third District Juvenile Court,410 S State St,Deker Lake,2300 Parkway Blvd,10.4
-Third District Juvenile Court,410 S State St,Salt Lake City Ottinger Hall,233 Canyon Rd,10.3
-Third District Juvenile Court,410 S State St,Columbus Library,2530 S 500 E,5.8
-Third District Juvenile Court,410 S State St,Taylorsville City Hall,2600 Taylorsville Blvd,8.3
-Third District Juvenile Court,410 S State St,South Salt Lake Police,2835 Main St,6.2
-Third District Juvenile Court,410 S State St,Council Hall,300 State St,10.3
-Third District Juvenile Court,410 S State St,Redwood Park,3060 Lester St,8.2
-Third District Juvenile Court,410 S State St,Salt Lake County Mental Health,3148 S 1100 W,7.4
-Third District Juvenile Court,410 S State St,Salt Lake County/United Police Dept,3365 S 900 W,6.9
-Third District Juvenile Court,410 S State St,West Valley Prosecutor,3575 W Valley Central Sta bus Loop,12
-Third District Juvenile Court,410 S State St,Housing Auth. of Salt Lake County,3595 Main St,5
-Third District Juvenile Court,410 S State St,Utah DMV Administrative Office,380 W 2880 S,6.6
-Third District Juvenile Court,410 S State St,Third District Juvenile Court,410 S State St,0
-Third District Juvenile Court,410 S State St,Cottonwood Regional Softball Complex,"
- 4300 S 1300 E",7.5
-Third District Juvenile Court,410 S State St,Holiday City Office,4580 S 2300 E,9.3
-Third District Juvenile Court,410 S State St,Murray City Museum,5025 State St,6.8
-Third District Juvenile Court,410 S State St,Valley Regional Softball Complex,5100 South 2700 West,11.4
-Third District Juvenile Court,410 S State St,City Center of Rock Springs, 5383 South 900 East #104,8.5
-Third District Juvenile Court,410 S State St,Rice Terrace Pavilion Park, 600 E 900 South,1.8
-Third District Juvenile Court,410 S State St,Wheeler Historic Farm , 6351 South 900 East,13.1
+﻿Starting Place,Starting Place Address,Starting Place City,Starting Place State,Starting Place Zip,Ending Place,Ending Place Address,Ending Place City,Ending Place State,Ending Place Zip,Distance Between
+City Center of Rock Springs, 5383 South 900 East #104,Salt Lake City,UT,84117,City Center of Rock Springs, 5383 South 900 East #104,Salt Lake City,UT,84117,0
+City Center of Rock Springs, 5383 South 900 East #104,Salt Lake City,UT,84117,Rice Terrace Pavilion Park, 600 E 900 South,Salt Lake City,UT,84105,7
+City Center of Rock Springs, 5383 South 900 East #104,Salt Lake City,UT,84117,Wheeler Historic Farm , 6351 South 900 East,Murray,UT,84121,1.3
+City Center of Rock Springs, 5383 South 900 East #104,Salt Lake City,UT,84117,Cottonwood Regional Softball Complex,"
+ 4300 S 1300 E",Millcreek,UT,84117,2.8
+City Center of Rock Springs, 5383 South 900 East #104,Salt Lake City,UT,84117,International Peace Gardens,1060 Dalton Ave S,Salt Lake City,UT,84104,10
+City Center of Rock Springs, 5383 South 900 East #104,Salt Lake City,UT,84117,Sugar House Park,1330 2100 S,Salt Lake City,UT,84106,6.1
+City Center of Rock Springs, 5383 South 900 East #104,Salt Lake City,UT,84117,Taylorsville-Bennion Heritage City Gov Off,1488 4800 S,Salt Lake City,UT,84123,6.4
+City Center of Rock Springs, 5383 South 900 East #104,Salt Lake City,UT,84117,Salt Lake City Division of Health Services,177 W Price Ave,Salt Lake City,UT,84115,4.2
+City Center of Rock Springs, 5383 South 900 East #104,Salt Lake City,UT,84117,South Salt Lake Public Works,195 W Oakland Ave,Salt Lake City,UT,84115,5.9
+City Center of Rock Springs, 5383 South 900 East #104,Salt Lake City,UT,84117,Salt Lake City Streets and Sanitation,2010 W 500 S,Salt Lake City,UT,84104,11.7
+City Center of Rock Springs, 5383 South 900 East #104,Salt Lake City,UT,84117,Deker Lake,2300 Parkway Blvd,West Valley City,UT,84119,9.5
+City Center of Rock Springs, 5383 South 900 East #104,Salt Lake City,UT,84117,Salt Lake City Ottinger Hall,233 Canyon Rd,Salt Lake City,UT,84103,9.5
+City Center of Rock Springs, 5383 South 900 East #104,Salt Lake City,UT,84117,Columbus Library,2530 S 500 E,Salt Lake City,UT,84106,4.8
+City Center of Rock Springs, 5383 South 900 East #104,Salt Lake City,UT,84117,Taylorsville City Hall,2600 Taylorsville Blvd,Salt Lake City,UT,84118,4.9
+City Center of Rock Springs, 5383 South 900 East #104,Salt Lake City,UT,84117,South Salt Lake Police,2835 Main St,Salt Lake City,UT,84115,5.2
+City Center of Rock Springs, 5383 South 900 East #104,Salt Lake City,UT,84117,Council Hall,300 State St,Salt Lake City,UT,84103,9.5
+City Center of Rock Springs, 5383 South 900 East #104,Salt Lake City,UT,84117,Redwood Park,3060 Lester St,West Valley City,UT,84119,7.2
+City Center of Rock Springs, 5383 South 900 East #104,Salt Lake City,UT,84117,Salt Lake County Mental Health,3148 S 1100 W,Salt Lake City,UT,84119,6.3
+City Center of Rock Springs, 5383 South 900 East #104,Salt Lake City,UT,84117,Salt Lake County/United Police Dept,3365 S 900 W,Salt Lake City,UT,84119,5.9
+City Center of Rock Springs, 5383 South 900 East #104,Salt Lake City,UT,84117,West Valley Prosecutor,3575 W Valley Central Station bus Loop,West Valley City,UT,84119,11.1
+City Center of Rock Springs, 5383 South 900 East #104,Salt Lake City,UT,84117,Housing Auth. of Salt Lake County,3595 Main St,Salt Lake City,UT,84115,4
+City Center of Rock Springs, 5383 South 900 East #104,Salt Lake City,UT,84117,Utah DMV Administrative Office,380 W 2880 S,Salt Lake City,UT,84115,5.6
+City Center of Rock Springs, 5383 South 900 East #104,Salt Lake City,UT,84117,Western Governors University,4001 South 700 East,Salt Lake City,UT ,84107,2.4
+City Center of Rock Springs, 5383 South 900 East #104,Salt Lake City,UT,84117,Third District Juvenile Court,410 S State St,Salt Lake City,UT,84111,8.5
+City Center of Rock Springs, 5383 South 900 East #104,Salt Lake City,UT,84117,Holiday City Office,4580 S 2300 E,Holladay,UT,84117,3.4
+City Center of Rock Springs, 5383 South 900 East #104,Salt Lake City,UT,84117,Murray City Museum,5025 State St,Murray,UT,84107,1.7
+City Center of Rock Springs, 5383 South 900 East #104,Salt Lake City,UT,84117,Valley Regional Softball Complex,5100 South 2700 West,Salt Lake City,UT,84118,5.4
+Rice Terrace Pavilion Park, 600 E 900 South,Salt Lake City,UT,84105,City Center of Rock Springs, 5383 South 900 East #104,Salt Lake City,UT,84117,7
+Rice Terrace Pavilion Park, 600 E 900 South,Salt Lake City,UT,84105,Rice Terrace Pavilion Park, 600 E 900 South,Salt Lake City,UT,84105,0
+Rice Terrace Pavilion Park, 600 E 900 South,Salt Lake City,UT,84105,Wheeler Historic Farm , 6351 South 900 East,Murray,UT,84121,8.3
+Rice Terrace Pavilion Park, 600 E 900 South,Salt Lake City,UT,84105,Cottonwood Regional Softball Complex,"
+ 4300 S 1300 E",Millcreek,UT,84117,6
+Rice Terrace Pavilion Park, 600 E 900 South,Salt Lake City,UT,84105,International Peace Gardens,1060 Dalton Ave S,Salt Lake City,UT,84104,4.4
+Rice Terrace Pavilion Park, 600 E 900 South,Salt Lake City,UT,84105,Sugar House Park,1330 2100 S,Salt Lake City,UT,84106,2.8
+Rice Terrace Pavilion Park, 600 E 900 South,Salt Lake City,UT,84105,Taylorsville-Bennion Heritage City Gov Off,1488 4800 S,Salt Lake City,UT,84123,10.1
+Rice Terrace Pavilion Park, 600 E 900 South,Salt Lake City,UT,84105,Salt Lake City Division of Health Services,177 W Price Ave,Salt Lake City,UT,84115,5.4
+Rice Terrace Pavilion Park, 600 E 900 South,Salt Lake City,UT,84105,South Salt Lake Public Works,195 W Oakland Ave,Salt Lake City,UT,84115,3.5
+Rice Terrace Pavilion Park, 600 E 900 South,Salt Lake City,UT,84105,Salt Lake City Streets and Sanitation,2010 W 500 S,Salt Lake City,UT,84104,5.1
+Rice Terrace Pavilion Park, 600 E 900 South,Salt Lake City,UT,84105,Deker Lake,2300 Parkway Blvd,West Valley City,UT,84119,6.2
+Rice Terrace Pavilion Park, 600 E 900 South,Salt Lake City,UT,84105,Salt Lake City Ottinger Hall,233 Canyon Rd,Salt Lake City,UT,84103,2.8
+Rice Terrace Pavilion Park, 600 E 900 South,Salt Lake City,UT,84105,Columbus Library,2530 S 500 E,Salt Lake City,UT,84106,3.2
+Rice Terrace Pavilion Park, 600 E 900 South,Salt Lake City,UT,84105,Taylorsville City Hall,2600 Taylorsville Blvd,Salt Lake City,UT,84118,11
+Rice Terrace Pavilion Park, 600 E 900 South,Salt Lake City,UT,84105,South Salt Lake Police,2835 Main St,Salt Lake City,UT,84115,3.7
+Rice Terrace Pavilion Park, 600 E 900 South,Salt Lake City,UT,84105,Council Hall,300 State St,Salt Lake City,UT,84103,2.8
+Rice Terrace Pavilion Park, 600 E 900 South,Salt Lake City,UT,84105,Redwood Park,3060 Lester St,West Valley City,UT,84119,6.4
+Rice Terrace Pavilion Park, 600 E 900 South,Salt Lake City,UT,84105,Salt Lake County Mental Health,3148 S 1100 W,Salt Lake City,UT,84119,6.5
+Rice Terrace Pavilion Park, 600 E 900 South,Salt Lake City,UT,84105,Salt Lake County/United Police Dept,3365 S 900 W,Salt Lake City,UT,84119,5.7
+Rice Terrace Pavilion Park, 600 E 900 South,Salt Lake City,UT,84105,West Valley Prosecutor,3575 W Valley Central Station bus Loop,West Valley City,UT,84119,6.2
+Rice Terrace Pavilion Park, 600 E 900 South,Salt Lake City,UT,84105,Housing Auth. of Salt Lake County,3595 Main St,Salt Lake City,UT,84115,5.1
+Rice Terrace Pavilion Park, 600 E 900 South,Salt Lake City,UT,84105,Utah DMV Administrative Office,380 W 2880 S,Salt Lake City,UT,84115,4.3
+Rice Terrace Pavilion Park, 600 E 900 South,Salt Lake City,UT,84105,Western Governors University,4001 South 700 East,Salt Lake City,UT ,84107,5
+Rice Terrace Pavilion Park, 600 E 900 South,Salt Lake City,UT,84105,Third District Juvenile Court,410 S State St,Salt Lake City,UT,84111,1.8
+Rice Terrace Pavilion Park, 600 E 900 South,Salt Lake City,UT,84105,Holiday City Office,4580 S 2300 E,Holladay,UT,84117,7.9
+Rice Terrace Pavilion Park, 600 E 900 South,Salt Lake City,UT,84105,Murray City Museum,5025 State St,Murray,UT,84107,6.8
+Rice Terrace Pavilion Park, 600 E 900 South,Salt Lake City,UT,84105,Valley Regional Softball Complex,5100 South 2700 West,Salt Lake City,UT,84118,10.6
+Wheeler Historic Farm , 6351 South 900 East,Murray,UT,84121,City Center of Rock Springs, 5383 South 900 East #104,Salt Lake City,UT,84117,1.3
+Wheeler Historic Farm , 6351 South 900 East,Murray,UT,84121,Rice Terrace Pavilion Park, 600 E 900 South,Salt Lake City,UT,84105,8.3
+Wheeler Historic Farm , 6351 South 900 East,Murray,UT,84121,Wheeler Historic Farm , 6351 South 900 East,Murray,UT,84121,0
+Wheeler Historic Farm , 6351 South 900 East,Murray,UT,84121,Cottonwood Regional Softball Complex,"
+ 4300 S 1300 E",Millcreek,UT,84117,4.1
+Wheeler Historic Farm , 6351 South 900 East,Murray,UT,84121,International Peace Gardens,1060 Dalton Ave S,Salt Lake City,UT,84104,13
+Wheeler Historic Farm , 6351 South 900 East,Murray,UT,84121,Sugar House Park,1330 2100 S,Salt Lake City,UT,84106,7.4
+Wheeler Historic Farm , 6351 South 900 East,Murray,UT,84121,Taylorsville-Bennion Heritage City Gov Off,1488 4800 S,Salt Lake City,UT,84123,10.1
+Wheeler Historic Farm , 6351 South 900 East,Murray,UT,84121,Salt Lake City Division of Health Services,177 W Price Ave,Salt Lake City,UT,84115,5.5
+Wheeler Historic Farm , 6351 South 900 East,Murray,UT,84121,South Salt Lake Public Works,195 W Oakland Ave,Salt Lake City,UT,84115,7.2
+Wheeler Historic Farm , 6351 South 900 East,Murray,UT,84121,Salt Lake City Streets and Sanitation,2010 W 500 S,Salt Lake City,UT,84104,14.2
+Wheeler Historic Farm , 6351 South 900 East,Murray,UT,84121,Deker Lake,2300 Parkway Blvd,West Valley City,UT,84119,10.7
+Wheeler Historic Farm , 6351 South 900 East,Murray,UT,84121,Salt Lake City Ottinger Hall,233 Canyon Rd,Salt Lake City,UT,84103,14.1
+Wheeler Historic Farm , 6351 South 900 East,Murray,UT,84121,Columbus Library,2530 S 500 E,Salt Lake City,UT,84106,6
+Wheeler Historic Farm , 6351 South 900 East,Murray,UT,84121,Taylorsville City Hall,2600 Taylorsville Blvd,Salt Lake City,UT,84118,6.8
+Wheeler Historic Farm , 6351 South 900 East,Murray,UT,84121,South Salt Lake Police,2835 Main St,Salt Lake City,UT,84115,6.4
+Wheeler Historic Farm , 6351 South 900 East,Murray,UT,84121,Council Hall,300 State St,Salt Lake City,UT,84103,14.1
+Wheeler Historic Farm , 6351 South 900 East,Murray,UT,84121,Redwood Park,3060 Lester St,West Valley City,UT,84119,10.5
+Wheeler Historic Farm , 6351 South 900 East,Murray,UT,84121,Salt Lake County Mental Health,3148 S 1100 W,Salt Lake City,UT,84119,8.8
+Wheeler Historic Farm , 6351 South 900 East,Murray,UT,84121,Salt Lake County/United Police Dept,3365 S 900 W,Salt Lake City,UT,84119,8.4
+Wheeler Historic Farm , 6351 South 900 East,Murray,UT,84121,West Valley Prosecutor,3575 W Valley Central Station bus Loop,West Valley City,UT,84119,13.6
+Wheeler Historic Farm , 6351 South 900 East,Murray,UT,84121,Housing Auth. of Salt Lake County,3595 Main St,Salt Lake City,UT,84115,5.2
+Wheeler Historic Farm , 6351 South 900 East,Murray,UT,84121,Utah DMV Administrative Office,380 W 2880 S,Salt Lake City,UT,84115,6.9
+Wheeler Historic Farm , 6351 South 900 East,Murray,UT,84121,Western Governors University,4001 South 700 East,Salt Lake City,UT ,84107,3.6
+Wheeler Historic Farm , 6351 South 900 East,Murray,UT,84121,Third District Juvenile Court,410 S State St,Salt Lake City,UT,84111,13.1
+Wheeler Historic Farm , 6351 South 900 East,Murray,UT,84121,Holiday City Office,4580 S 2300 E,Holladay,UT,84117,4.7
+Wheeler Historic Farm , 6351 South 900 East,Murray,UT,84121,Murray City Museum,5025 State St,Murray,UT,84107,3.1
+Wheeler Historic Farm , 6351 South 900 East,Murray,UT,84121,Valley Regional Softball Complex,5100 South 2700 West,Salt Lake City,UT,84118,7.8
 Cottonwood Regional Softball Complex,"
- 4300 S 1300 E",Western Governors University,"4001 South 700 East, 
-Salt Lake City, UT 84107",1.9
+ 4300 S 1300 E",Millcreek,UT,84117,City Center of Rock Springs, 5383 South 900 East #104,Salt Lake City,UT,84117,2.8
 Cottonwood Regional Softball Complex,"
- 4300 S 1300 E",International Peace Gardens,1060 Dalton Ave S,9.5
+ 4300 S 1300 E",Millcreek,UT,84117,Rice Terrace Pavilion Park, 600 E 900 South,Salt Lake City,UT,84105,6
 Cottonwood Regional Softball Complex,"
- 4300 S 1300 E",Sugar House Park,1330 2100 S,3.3
+ 4300 S 1300 E",Millcreek,UT,84117,Wheeler Historic Farm , 6351 South 900 East,Murray,UT,84121,4.1
 Cottonwood Regional Softball Complex,"
- 4300 S 1300 E",Taylorsville-Bennion Heritage City Gov Off,1488 4800 S,5.9
+ 4300 S 1300 E",Millcreek,UT,84117,Cottonwood Regional Softball Complex,"
+ 4300 S 1300 E",Millcreek,UT,84117,0
 Cottonwood Regional Softball Complex,"
- 4300 S 1300 E",Salt Lake City Division of Health Services,177 W Price Ave,3.2
+ 4300 S 1300 E",Millcreek,UT,84117,International Peace Gardens,1060 Dalton Ave S,Salt Lake City,UT,84104,9.5
 Cottonwood Regional Softball Complex,"
- 4300 S 1300 E",South Salt Lake Public Works,195 W Oakland Ave,4.9
+ 4300 S 1300 E",Millcreek,UT,84117,Sugar House Park,1330 2100 S,Salt Lake City,UT,84106,3.3
 Cottonwood Regional Softball Complex,"
- 4300 S 1300 E",Salt Lake City Streets and Sanitation,2010 W 500 S,11.2
+ 4300 S 1300 E",Millcreek,UT,84117,Taylorsville-Bennion Heritage City Gov Off,1488 4800 S,Salt Lake City,UT,84123,5.9
 Cottonwood Regional Softball Complex,"
- 4300 S 1300 E",Deker Lake,2300 Parkway Blvd,8.1
+ 4300 S 1300 E",Millcreek,UT,84117,Salt Lake City Division of Health Services,177 W Price Ave,Salt Lake City,UT,84115,3.2
 Cottonwood Regional Softball Complex,"
- 4300 S 1300 E",Salt Lake City Ottinger Hall,233 Canyon Rd,8.5
+ 4300 S 1300 E",Millcreek,UT,84117,South Salt Lake Public Works,195 W Oakland Ave,Salt Lake City,UT,84115,4.9
 Cottonwood Regional Softball Complex,"
- 4300 S 1300 E",Columbus Library,2530 S 500 E,3.8
+ 4300 S 1300 E",Millcreek,UT,84117,Salt Lake City Streets and Sanitation,2010 W 500 S,Salt Lake City,UT,84104,11.2
 Cottonwood Regional Softball Complex,"
- 4300 S 1300 E",Taylorsville City Hall,2600 Taylorsville Blvd,6.9
+ 4300 S 1300 E",Millcreek,UT,84117,Deker Lake,2300 Parkway Blvd,West Valley City,UT,84119,8.1
 Cottonwood Regional Softball Complex,"
- 4300 S 1300 E",South Salt Lake Police,2835 Main St,4.1
+ 4300 S 1300 E",Millcreek,UT,84117,Salt Lake City Ottinger Hall,233 Canyon Rd,Salt Lake City,UT,84103,8.5
 Cottonwood Regional Softball Complex,"
- 4300 S 1300 E",Council Hall,300 State St,8.5
+ 4300 S 1300 E",Millcreek,UT,84117,Columbus Library,2530 S 500 E,Salt Lake City,UT,84106,3.8
 Cottonwood Regional Softball Complex,"
- 4300 S 1300 E",Redwood Park,3060 Lester St,6.2
+ 4300 S 1300 E",Millcreek,UT,84117,Taylorsville City Hall,2600 Taylorsville Blvd,Salt Lake City,UT,84118,6.9
 Cottonwood Regional Softball Complex,"
- 4300 S 1300 E",Salt Lake County Mental Health,3148 S 1100 W,5.3
+ 4300 S 1300 E",Millcreek,UT,84117,South Salt Lake Police,2835 Main St,Salt Lake City,UT,84115,4.1
 Cottonwood Regional Softball Complex,"
- 4300 S 1300 E",Salt Lake County/United Police Dept,3365 S 900 W,4.9
+ 4300 S 1300 E",Millcreek,UT,84117,Council Hall,300 State St,Salt Lake City,UT,84103,8.5
 Cottonwood Regional Softball Complex,"
- 4300 S 1300 E",West Valley Prosecutor,3575 W Valley Central Sta bus Loop,10.6
+ 4300 S 1300 E",Millcreek,UT,84117,Redwood Park,3060 Lester St,West Valley City,UT,84119,6.2
 Cottonwood Regional Softball Complex,"
- 4300 S 1300 E",Housing Auth. of Salt Lake County,3595 Main St,3
+ 4300 S 1300 E",Millcreek,UT,84117,Salt Lake County Mental Health,3148 S 1100 W,Salt Lake City,UT,84119,5.3
 Cottonwood Regional Softball Complex,"
- 4300 S 1300 E",Utah DMV Administrative Office,380 W 2880 S,4.6
+ 4300 S 1300 E",Millcreek,UT,84117,Salt Lake County/United Police Dept,3365 S 900 W,Salt Lake City,UT,84119,4.9
 Cottonwood Regional Softball Complex,"
- 4300 S 1300 E",Third District Juvenile Court,410 S State St,7.5
+ 4300 S 1300 E",Millcreek,UT,84117,West Valley Prosecutor,3575 W Valley Central Station bus Loop,West Valley City,UT,84119,10.6
 Cottonwood Regional Softball Complex,"
- 4300 S 1300 E",Cottonwood Regional Softball Complex,"
- 4300 S 1300 E",0
+ 4300 S 1300 E",Millcreek,UT,84117,Housing Auth. of Salt Lake County,3595 Main St,Salt Lake City,UT,84115,3
 Cottonwood Regional Softball Complex,"
- 4300 S 1300 E",Holiday City Office,4580 S 2300 E,2
+ 4300 S 1300 E",Millcreek,UT,84117,Utah DMV Administrative Office,380 W 2880 S,Salt Lake City,UT,84115,4.6
 Cottonwood Regional Softball Complex,"
- 4300 S 1300 E",Murray City Museum,5025 State St,2.9
+ 4300 S 1300 E",Millcreek,UT,84117,Western Governors University,4001 South 700 East,Salt Lake City,UT ,84107,1.9
 Cottonwood Regional Softball Complex,"
- 4300 S 1300 E",Valley Regional Softball Complex,5100 South 2700 West,6.4
+ 4300 S 1300 E",Millcreek,UT,84117,Third District Juvenile Court,410 S State St,Salt Lake City,UT,84111,7.5
 Cottonwood Regional Softball Complex,"
- 4300 S 1300 E",City Center of Rock Springs, 5383 South 900 East #104,2.8
+ 4300 S 1300 E",Millcreek,UT,84117,Holiday City Office,4580 S 2300 E,Holladay,UT,84117,2
 Cottonwood Regional Softball Complex,"
- 4300 S 1300 E",Rice Terrace Pavilion Park, 600 E 900 South,6
+ 4300 S 1300 E",Millcreek,UT,84117,Murray City Museum,5025 State St,Murray,UT,84107,2.9
 Cottonwood Regional Softball Complex,"
- 4300 S 1300 E",Wheeler Historic Farm , 6351 South 900 East,4.1
-Holiday City Office,4580 S 2300 E,Western Governors University,"4001 South 700 East, 
-Salt Lake City, UT 84107",3.4
-Holiday City Office,4580 S 2300 E,International Peace Gardens,1060 Dalton Ave S,10.9
-Holiday City Office,4580 S 2300 E,Sugar House Park,1330 2100 S,5
-Holiday City Office,4580 S 2300 E,Taylorsville-Bennion Heritage City Gov Off,1488 4800 S,7.4
-Holiday City Office,4580 S 2300 E,Salt Lake City Division of Health Services,177 W Price Ave,5.2
-Holiday City Office,4580 S 2300 E,South Salt Lake Public Works,195 W Oakland Ave,6.9
-Holiday City Office,4580 S 2300 E,Salt Lake City Streets and Sanitation,2010 W 500 S,12.7
-Holiday City Office,4580 S 2300 E,Deker Lake,2300 Parkway Blvd,10.4
-Holiday City Office,4580 S 2300 E,Salt Lake City Ottinger Hall,233 Canyon Rd,10.3
-Holiday City Office,4580 S 2300 E,Columbus Library,2530 S 500 E,5.8
-Holiday City Office,4580 S 2300 E,Taylorsville City Hall,2600 Taylorsville Blvd,8.3
-Holiday City Office,4580 S 2300 E,South Salt Lake Police,2835 Main St,6.2
-Holiday City Office,4580 S 2300 E,Council Hall,300 State St,10.3
-Holiday City Office,4580 S 2300 E,Redwood Park,3060 Lester St,8.2
-Holiday City Office,4580 S 2300 E,Salt Lake County Mental Health,3148 S 1100 W,7.4
-Holiday City Office,4580 S 2300 E,Salt Lake County/United Police Dept,3365 S 900 W,6.9
-Holiday City Office,4580 S 2300 E,West Valley Prosecutor,3575 W Valley Central Sta bus Loop,12
-Holiday City Office,4580 S 2300 E,Housing Auth. of Salt Lake County,3595 Main St,5
-Holiday City Office,4580 S 2300 E,Utah DMV Administrative Office,380 W 2880 S,6.6
-Holiday City Office,4580 S 2300 E,Third District Juvenile Court,410 S State St,9.3
-Holiday City Office,4580 S 2300 E,Cottonwood Regional Softball Complex,"
- 4300 S 1300 E",2
-Holiday City Office,4580 S 2300 E,Holiday City Office,4580 S 2300 E,0
-Holiday City Office,4580 S 2300 E,Murray City Museum,5025 State St,4.4
-Holiday City Office,4580 S 2300 E,Valley Regional Softball Complex,5100 South 2700 West,7.9
-Holiday City Office,4580 S 2300 E,City Center of Rock Springs, 5383 South 900 East #104,3.4
-Holiday City Office,4580 S 2300 E,Rice Terrace Pavilion Park, 600 E 900 South,7.9
-Holiday City Office,4580 S 2300 E,Wheeler Historic Farm , 6351 South 900 East,4.7
-Murray City Museum,5025 State St,Western Governors University,"4001 South 700 East, 
-Salt Lake City, UT 84107",2.4
-Murray City Museum,5025 State St,International Peace Gardens,1060 Dalton Ave S,8.3
-Murray City Museum,5025 State St,Sugar House Park,1330 2100 S,6.1
-Murray City Museum,5025 State St,Taylorsville-Bennion Heritage City Gov Off,1488 4800 S,4.7
-Murray City Museum,5025 State St,Salt Lake City Division of Health Services,177 W Price Ave,2.5
-Murray City Museum,5025 State St,South Salt Lake Public Works,195 W Oakland Ave,4.2
-Murray City Museum,5025 State St,Salt Lake City Streets and Sanitation,2010 W 500 S,10
-Murray City Museum,5025 State St,Deker Lake,2300 Parkway Blvd,7.8
-Murray City Museum,5025 State St,Salt Lake City Ottinger Hall,233 Canyon Rd,7.8
-Murray City Museum,5025 State St,Columbus Library,2530 S 500 E,4.3
-Murray City Museum,5025 State St,Taylorsville City Hall,2600 Taylorsville Blvd,4.1
-Murray City Museum,5025 State St,South Salt Lake Police,2835 Main St,3.4
-Murray City Museum,5025 State St,Council Hall,300 State St,7.8
-Murray City Museum,5025 State St,Redwood Park,3060 Lester St,5.5
-Murray City Museum,5025 State St,Salt Lake County Mental Health,3148 S 1100 W,4.6
-Murray City Museum,5025 State St,Salt Lake County/United Police Dept,3365 S 900 W,4.2
-Murray City Museum,5025 State St,West Valley Prosecutor,3575 W Valley Central Sta bus Loop,9.4
-Murray City Museum,5025 State St,Housing Auth. of Salt Lake County,3595 Main St,2.3
-Murray City Museum,5025 State St,Utah DMV Administrative Office,380 W 2880 S,3.9
-Murray City Museum,5025 State St,Third District Juvenile Court,410 S State St,6.8
-Murray City Museum,5025 State St,Cottonwood Regional Softball Complex,"
- 4300 S 1300 E",2.9
-Murray City Museum,5025 State St,Holiday City Office,4580 S 2300 E,4.4
-Murray City Museum,5025 State St,Murray City Museum,5025 State St,0
-Murray City Museum,5025 State St,Valley Regional Softball Complex,5100 South 2700 West,4.5
-Murray City Museum,5025 State St,City Center of Rock Springs, 5383 South 900 East #104,1.7
-Murray City Museum,5025 State St,Rice Terrace Pavilion Park, 600 E 900 South,6.8
-Murray City Museum,5025 State St,Wheeler Historic Farm , 6351 South 900 East,3.1
-Valley Regional Softball Complex,5100 South 2700 West,Western Governors University,"4001 South 700 East, 
-Salt Lake City, UT 84107",6.4
-Valley Regional Softball Complex,5100 South 2700 West,International Peace Gardens,1060 Dalton Ave S,6.9
-Valley Regional Softball Complex,5100 South 2700 West,Sugar House Park,1330 2100 S,9.7
-Valley Regional Softball Complex,5100 South 2700 West,Taylorsville-Bennion Heritage City Gov Off,1488 4800 S,0.6
-Valley Regional Softball Complex,5100 South 2700 West,Salt Lake City Division of Health Services,177 W Price Ave,6
-Valley Regional Softball Complex,5100 South 2700 West,South Salt Lake Public Works,195 W Oakland Ave,9
-Valley Regional Softball Complex,5100 South 2700 West,Salt Lake City Streets and Sanitation,2010 W 500 S,8.2
-Valley Regional Softball Complex,5100 South 2700 West,Deker Lake,2300 Parkway Blvd,4.2
-Valley Regional Softball Complex,5100 South 2700 West,Salt Lake City Ottinger Hall,233 Canyon Rd,11.5
-Valley Regional Softball Complex,5100 South 2700 West,Columbus Library,2530 S 500 E,7.8
-Valley Regional Softball Complex,5100 South 2700 West,Taylorsville City Hall,2600 Taylorsville Blvd,0.4
-Valley Regional Softball Complex,5100 South 2700 West,South Salt Lake Police,2835 Main St,6.9
-Valley Regional Softball Complex,5100 South 2700 West,Council Hall,300 State St,11.5
-Valley Regional Softball Complex,5100 South 2700 West,Redwood Park,3060 Lester St,4.4
-Valley Regional Softball Complex,5100 South 2700 West,Salt Lake County Mental Health,3148 S 1100 W,4.8
-Valley Regional Softball Complex,5100 South 2700 West,Salt Lake County/United Police Dept,3365 S 900 W,5.6
-Valley Regional Softball Complex,5100 South 2700 West,West Valley Prosecutor,3575 W Valley Central Sta bus Loop,7.5
-Valley Regional Softball Complex,5100 South 2700 West,Housing Auth. of Salt Lake County,3595 Main St,5.5
-Valley Regional Softball Complex,5100 South 2700 West,Utah DMV Administrative Office,380 W 2880 S,6.5
-Valley Regional Softball Complex,5100 South 2700 West,Third District Juvenile Court,410 S State St,11.4
-Valley Regional Softball Complex,5100 South 2700 West,Cottonwood Regional Softball Complex,"
- 4300 S 1300 E",6.4
-Valley Regional Softball Complex,5100 South 2700 West,Holiday City Office,4580 S 2300 E,7.9
-Valley Regional Softball Complex,5100 South 2700 West,Murray City Museum,5025 State St,4.5
-Valley Regional Softball Complex,5100 South 2700 West,Valley Regional Softball Complex,5100 South 2700 West,0
-Valley Regional Softball Complex,5100 South 2700 West,City Center of Rock Springs, 5383 South 900 East #104,5.4
-Valley Regional Softball Complex,5100 South 2700 West,Rice Terrace Pavilion Park, 600 E 900 South,10.6
-Valley Regional Softball Complex,5100 South 2700 West,Wheeler Historic Farm , 6351 South 900 East,7.8
-City Center of Rock Springs, 5383 South 900 East #104,Western Governors University,"4001 South 700 East, 
-Salt Lake City, UT 84107",2.4
-City Center of Rock Springs, 5383 South 900 East #104,International Peace Gardens,1060 Dalton Ave S,10
-City Center of Rock Springs, 5383 South 900 East #104,Sugar House Park,1330 2100 S,6.1
-City Center of Rock Springs, 5383 South 900 East #104,Taylorsville-Bennion Heritage City Gov Off,1488 4800 S,6.4
-City Center of Rock Springs, 5383 South 900 East #104,Salt Lake City Division of Health Services,177 W Price Ave,4.2
-City Center of Rock Springs, 5383 South 900 East #104,South Salt Lake Public Works,195 W Oakland Ave,5.9
-City Center of Rock Springs, 5383 South 900 East #104,Salt Lake City Streets and Sanitation,2010 W 500 S,11.7
-City Center of Rock Springs, 5383 South 900 East #104,Deker Lake,2300 Parkway Blvd,9.5
-City Center of Rock Springs, 5383 South 900 East #104,Salt Lake City Ottinger Hall,233 Canyon Rd,9.5
-City Center of Rock Springs, 5383 South 900 East #104,Columbus Library,2530 S 500 E,4.8
-City Center of Rock Springs, 5383 South 900 East #104,Taylorsville City Hall,2600 Taylorsville Blvd,4.9
-City Center of Rock Springs, 5383 South 900 East #104,South Salt Lake Police,2835 Main St,5.2
-City Center of Rock Springs, 5383 South 900 East #104,Council Hall,300 State St,9.5
-City Center of Rock Springs, 5383 South 900 East #104,Redwood Park,3060 Lester St,7.2
-City Center of Rock Springs, 5383 South 900 East #104,Salt Lake County Mental Health,3148 S 1100 W,6.3
-City Center of Rock Springs, 5383 South 900 East #104,Salt Lake County/United Police Dept,3365 S 900 W,5.9
-City Center of Rock Springs, 5383 South 900 East #104,West Valley Prosecutor,3575 W Valley Central Sta bus Loop,11.1
-City Center of Rock Springs, 5383 South 900 East #104,Housing Auth. of Salt Lake County,3595 Main St,4
-City Center of Rock Springs, 5383 South 900 East #104,Utah DMV Administrative Office,380 W 2880 S,5.6
-City Center of Rock Springs, 5383 South 900 East #104,Third District Juvenile Court,410 S State St,8.5
-City Center of Rock Springs, 5383 South 900 East #104,Cottonwood Regional Softball Complex,"
- 4300 S 1300 E",2.8
-City Center of Rock Springs, 5383 South 900 East #104,Holiday City Office,4580 S 2300 E,3.4
-City Center of Rock Springs, 5383 South 900 East #104,Murray City Museum,5025 State St,1.7
-City Center of Rock Springs, 5383 South 900 East #104,Valley Regional Softball Complex,5100 South 2700 West,5.4
-City Center of Rock Springs, 5383 South 900 East #104,City Center of Rock Springs, 5383 South 900 East #104,0
-City Center of Rock Springs, 5383 South 900 East #104,Rice Terrace Pavilion Park, 600 E 900 South,7
-City Center of Rock Springs, 5383 South 900 East #104,Wheeler Historic Farm , 6351 South 900 East,1.3
-Rice Terrace Pavilion Park, 600 E 900 South,Western Governors University,"4001 South 700 East, 
-Salt Lake City, UT 84107",5
-Rice Terrace Pavilion Park, 600 E 900 South,International Peace Gardens,1060 Dalton Ave S,4.4
-Rice Terrace Pavilion Park, 600 E 900 South,Sugar House Park,1330 2100 S,2.8
-Rice Terrace Pavilion Park, 600 E 900 South,Taylorsville-Bennion Heritage City Gov Off,1488 4800 S,10.1
-Rice Terrace Pavilion Park, 600 E 900 South,Salt Lake City Division of Health Services,177 W Price Ave,5.4
-Rice Terrace Pavilion Park, 600 E 900 South,South Salt Lake Public Works,195 W Oakland Ave,3.5
-Rice Terrace Pavilion Park, 600 E 900 South,Salt Lake City Streets and Sanitation,2010 W 500 S,5.1
-Rice Terrace Pavilion Park, 600 E 900 South,Deker Lake,2300 Parkway Blvd,6.2
-Rice Terrace Pavilion Park, 600 E 900 South,Salt Lake City Ottinger Hall,233 Canyon Rd,2.8
-Rice Terrace Pavilion Park, 600 E 900 South,Columbus Library,2530 S 500 E,3.2
-Rice Terrace Pavilion Park, 600 E 900 South,Taylorsville City Hall,2600 Taylorsville Blvd,11
-Rice Terrace Pavilion Park, 600 E 900 South,South Salt Lake Police,2835 Main St,3.7
-Rice Terrace Pavilion Park, 600 E 900 South,Council Hall,300 State St,2.8
-Rice Terrace Pavilion Park, 600 E 900 South,Redwood Park,3060 Lester St,6.4
-Rice Terrace Pavilion Park, 600 E 900 South,Salt Lake County Mental Health,3148 S 1100 W,6.5
-Rice Terrace Pavilion Park, 600 E 900 South,Salt Lake County/United Police Dept,3365 S 900 W,5.7
-Rice Terrace Pavilion Park, 600 E 900 South,West Valley Prosecutor,3575 W Valley Central Sta bus Loop,6.2
-Rice Terrace Pavilion Park, 600 E 900 South,Housing Auth. of Salt Lake County,3595 Main St,5.1
-Rice Terrace Pavilion Park, 600 E 900 South,Utah DMV Administrative Office,380 W 2880 S,4.3
-Rice Terrace Pavilion Park, 600 E 900 South,Third District Juvenile Court,410 S State St,1.8
-Rice Terrace Pavilion Park, 600 E 900 South,Cottonwood Regional Softball Complex,"
- 4300 S 1300 E",6
-Rice Terrace Pavilion Park, 600 E 900 South,Holiday City Office,4580 S 2300 E,7.9
-Rice Terrace Pavilion Park, 600 E 900 South,Murray City Museum,5025 State St,6.8
-Rice Terrace Pavilion Park, 600 E 900 South,Valley Regional Softball Complex,5100 South 2700 West,10.6
-Rice Terrace Pavilion Park, 600 E 900 South,City Center of Rock Springs, 5383 South 900 East #104,7
-Rice Terrace Pavilion Park, 600 E 900 South,Rice Terrace Pavilion Park, 600 E 900 South,0
-Rice Terrace Pavilion Park, 600 E 900 South,Wheeler Historic Farm , 6351 South 900 East,8.3
-Wheeler Historic Farm , 6351 South 900 East,Western Governors University,"4001 South 700 East, 
-Salt Lake City, UT 84107",3.6
-Wheeler Historic Farm, 6351 South 900 East,International Peace Gardens,1060 Dalton Ave S,13
-Wheeler Historic Farm, 6351 South 900 East,Sugar House Park,1330 2100 S,7.4
-Wheeler Historic Farm, 6351 South 900 East,Taylorsville-Bennion Heritage City Gov Off,1488 4800 S,10.1
-Wheeler Historic Farm, 6351 South 900 East,Salt Lake City Division of Health Services,177 W Price Ave,5.5
-Wheeler Historic Farm, 6351 South 900 East,South Salt Lake Public Works,195 W Oakland Ave,7.2
-Wheeler Historic Farm, 6351 South 900 East,Salt Lake City Streets and Sanitation,2010 W 500 S,14.2
-Wheeler Historic Farm, 6351 South 900 East,Deker Lake,2300 Parkway Blvd,10.7
-Wheeler Historic Farm, 6351 South 900 East,Salt Lake City Ottinger Hall,233 Canyon Rd,14.1
-Wheeler Historic Farm, 6351 South 900 East,Columbus Library,2530 S 500 E,6
-Wheeler Historic Farm, 6351 South 900 East,Taylorsville City Hall,2600 Taylorsville Blvd,6.8
-Wheeler Historic Farm, 6351 South 900 East,South Salt Lake Police,2835 Main St,6.4
-Wheeler Historic Farm, 6351 South 900 East,Council Hall,300 State St,14.1
-Wheeler Historic Farm, 6351 South 900 East,Redwood Park,3060 Lester St,10.5
-Wheeler Historic Farm, 6351 South 900 East,Salt Lake County Mental Health,3148 S 1100 W,8.8
-Wheeler Historic Farm, 6351 South 900 East,Salt Lake County/United Police Dept,3365 S 900 W,8.4
-Wheeler Historic Farm, 6351 South 900 East,West Valley Prosecutor,3575 W Valley Central Sta bus Loop,13.6
-Wheeler Historic Farm, 6351 South 900 East,Housing Auth. of Salt Lake County,3595 Main St,5.2
-Wheeler Historic Farm, 6351 South 900 East,Utah DMV Administrative Office,380 W 2880 S,6.9
-Wheeler Historic Farm, 6351 South 900 East,Third District Juvenile Court,410 S State St,13.1
-Wheeler Historic Farm, 6351 South 900 East,Cottonwood Regional Softball Complex,"
- 4300 S 1300 E",4.1
-Wheeler Historic Farm, 6351 South 900 East,Holiday City Office,4580 S 2300 E,4.7
-Wheeler Historic Farm, 6351 South 900 East,Murray City Museum,5025 State St,3.1
-Wheeler Historic Farm, 6351 South 900 East,Valley Regional Softball Complex,5100 South 2700 West,7.8
-Wheeler Historic Farm, 6351 South 900 East,City Center of Rock Springs, 5383 South 900 East #104,1.3
-Wheeler Historic Farm, 6351 South 900 East,Rice Terrace Pavilion Park, 600 E 900 South,8.3
-Wheeler Historic Farm, 6351 South 900 East,Wheeler Historic Farm , 6351 South 900 East,0
+ 4300 S 1300 E",Millcreek,UT,84117,Valley Regional Softball Complex,5100 South 2700 West,Salt Lake City,UT,84118,6.4
+International Peace Gardens,1060 Dalton Ave S,Salt Lake City,UT,84104,City Center of Rock Springs, 5383 South 900 East #104,Salt Lake City,UT,84117,10
+International Peace Gardens,1060 Dalton Ave S,Salt Lake City,UT,84104,Rice Terrace Pavilion Park, 600 E 900 South,Salt Lake City,UT,84105,4.4
+International Peace Gardens,1060 Dalton Ave S,Salt Lake City,UT,84104,Wheeler Historic Farm , 6351 South 900 East,Murray,UT,84121,13
+International Peace Gardens,1060 Dalton Ave S,Salt Lake City,UT,84104,Cottonwood Regional Softball Complex,"
+ 4300 S 1300 E",Millcreek,UT,84117,9.5
+International Peace Gardens,1060 Dalton Ave S,Salt Lake City,UT,84104,International Peace Gardens,1060 Dalton Ave S,Salt Lake City,UT,84104,0
+International Peace Gardens,1060 Dalton Ave S,Salt Lake City,UT,84104,Sugar House Park,1330 2100 S,Salt Lake City,UT,84106,7.1
+International Peace Gardens,1060 Dalton Ave S,Salt Lake City,UT,84104,Taylorsville-Bennion Heritage City Gov Off,1488 4800 S,Salt Lake City,UT,84123,6.4
+International Peace Gardens,1060 Dalton Ave S,Salt Lake City,UT,84104,Salt Lake City Division of Health Services,177 W Price Ave,Salt Lake City,UT,84115,6
+International Peace Gardens,1060 Dalton Ave S,Salt Lake City,UT,84104,South Salt Lake Public Works,195 W Oakland Ave,Salt Lake City,UT,84115,4.8
+International Peace Gardens,1060 Dalton Ave S,Salt Lake City,UT,84104,Salt Lake City Streets and Sanitation,2010 W 500 S,Salt Lake City,UT,84104,1.6
+International Peace Gardens,1060 Dalton Ave S,Salt Lake City,UT,84104,Deker Lake,2300 Parkway Blvd,West Valley City,UT,84119,2.8
+International Peace Gardens,1060 Dalton Ave S,Salt Lake City,UT,84104,Salt Lake City Ottinger Hall,233 Canyon Rd,Salt Lake City,UT,84103,4.8
+International Peace Gardens,1060 Dalton Ave S,Salt Lake City,UT,84104,Columbus Library,2530 S 500 E,Salt Lake City,UT,84106,6.3
+International Peace Gardens,1060 Dalton Ave S,Salt Lake City,UT,84104,Taylorsville City Hall,2600 Taylorsville Blvd,Salt Lake City,UT,84118,7.3
+International Peace Gardens,1060 Dalton Ave S,Salt Lake City,UT,84104,South Salt Lake Police,2835 Main St,Salt Lake City,UT,84115,5.3
+International Peace Gardens,1060 Dalton Ave S,Salt Lake City,UT,84104,Council Hall,300 State St,Salt Lake City,UT,84103,4.8
+International Peace Gardens,1060 Dalton Ave S,Salt Lake City,UT,84104,Redwood Park,3060 Lester St,West Valley City,UT,84119,3
+International Peace Gardens,1060 Dalton Ave S,Salt Lake City,UT,84104,Salt Lake County Mental Health,3148 S 1100 W,Salt Lake City,UT,84119,4.6
+International Peace Gardens,1060 Dalton Ave S,Salt Lake City,UT,84104,Salt Lake County/United Police Dept,3365 S 900 W,Salt Lake City,UT,84119,4.5
+International Peace Gardens,1060 Dalton Ave S,Salt Lake City,UT,84104,West Valley Prosecutor,3575 W Valley Central Station bus Loop,West Valley City,UT,84119,7.4
+International Peace Gardens,1060 Dalton Ave S,Salt Lake City,UT,84104,Housing Auth. of Salt Lake County,3595 Main St,Salt Lake City,UT,84115,6
+International Peace Gardens,1060 Dalton Ave S,Salt Lake City,UT,84104,Utah DMV Administrative Office,380 W 2880 S,Salt Lake City,UT,84115,5
+International Peace Gardens,1060 Dalton Ave S,Salt Lake City,UT,84104,Western Governors University,4001 South 700 East,Salt Lake City,UT ,84107,7.2
+International Peace Gardens,1060 Dalton Ave S,Salt Lake City,UT,84104,Third District Juvenile Court,410 S State St,Salt Lake City,UT,84111,4.8
+International Peace Gardens,1060 Dalton Ave S,Salt Lake City,UT,84104,Holiday City Office,4580 S 2300 E,Holladay,UT,84117,10.9
+International Peace Gardens,1060 Dalton Ave S,Salt Lake City,UT,84104,Murray City Museum,5025 State St,Murray,UT,84107,8.3
+International Peace Gardens,1060 Dalton Ave S,Salt Lake City,UT,84104,Valley Regional Softball Complex,5100 South 2700 West,Salt Lake City,UT,84118,6.9
+Sugar House Park,1330 2100 S,Salt Lake City,UT,84106,City Center of Rock Springs, 5383 South 900 East #104,Salt Lake City,UT,84117,6.1
+Sugar House Park,1330 2100 S,Salt Lake City,UT,84106,Rice Terrace Pavilion Park, 600 E 900 South,Salt Lake City,UT,84105,2.8
+Sugar House Park,1330 2100 S,Salt Lake City,UT,84106,Wheeler Historic Farm , 6351 South 900 East,Murray,UT,84121,7.4
+Sugar House Park,1330 2100 S,Salt Lake City,UT,84106,Cottonwood Regional Softball Complex,"
+ 4300 S 1300 E",Millcreek,UT,84117,3.3
+Sugar House Park,1330 2100 S,Salt Lake City,UT,84106,International Peace Gardens,1060 Dalton Ave S,Salt Lake City,UT,84104,7.1
+Sugar House Park,1330 2100 S,Salt Lake City,UT,84106,Sugar House Park,1330 2100 S,Salt Lake City,UT,84106,0
+Sugar House Park,1330 2100 S,Salt Lake City,UT,84106,Taylorsville-Bennion Heritage City Gov Off,1488 4800 S,Salt Lake City,UT,84123,9.2
+Sugar House Park,1330 2100 S,Salt Lake City,UT,84106,Salt Lake City Division of Health Services,177 W Price Ave,Salt Lake City,UT,84115,4.4
+Sugar House Park,1330 2100 S,Salt Lake City,UT,84106,South Salt Lake Public Works,195 W Oakland Ave,Salt Lake City,UT,84115,2.8
+Sugar House Park,1330 2100 S,Salt Lake City,UT,84106,Salt Lake City Streets and Sanitation,2010 W 500 S,Salt Lake City,UT,84104,8.6
+Sugar House Park,1330 2100 S,Salt Lake City,UT,84106,Deker Lake,2300 Parkway Blvd,West Valley City,UT,84119,6.3
+Sugar House Park,1330 2100 S,Salt Lake City,UT,84106,Salt Lake City Ottinger Hall,233 Canyon Rd,Salt Lake City,UT,84103,5.3
+Sugar House Park,1330 2100 S,Salt Lake City,UT,84106,Columbus Library,2530 S 500 E,Salt Lake City,UT,84106,1.6
+Sugar House Park,1330 2100 S,Salt Lake City,UT,84106,Taylorsville City Hall,2600 Taylorsville Blvd,Salt Lake City,UT,84118,10.4
+Sugar House Park,1330 2100 S,Salt Lake City,UT,84106,South Salt Lake Police,2835 Main St,Salt Lake City,UT,84115,3
+Sugar House Park,1330 2100 S,Salt Lake City,UT,84106,Council Hall,300 State St,Salt Lake City,UT,84103,5.3
+Sugar House Park,1330 2100 S,Salt Lake City,UT,84106,Redwood Park,3060 Lester St,West Valley City,UT,84119,6.5
+Sugar House Park,1330 2100 S,Salt Lake City,UT,84106,Salt Lake County Mental Health,3148 S 1100 W,Salt Lake City,UT,84119,5.6
+Sugar House Park,1330 2100 S,Salt Lake City,UT,84106,Salt Lake County/United Police Dept,3365 S 900 W,Salt Lake City,UT,84119,5.8
+Sugar House Park,1330 2100 S,Salt Lake City,UT,84106,West Valley Prosecutor,3575 W Valley Central Station bus Loop,West Valley City,UT,84119,5.7
+Sugar House Park,1330 2100 S,Salt Lake City,UT,84106,Housing Auth. of Salt Lake County,3595 Main St,Salt Lake City,UT,84115,4.1
+Sugar House Park,1330 2100 S,Salt Lake City,UT,84106,Utah DMV Administrative Office,380 W 2880 S,Salt Lake City,UT,84115,3.6
+Sugar House Park,1330 2100 S,Salt Lake City,UT,84106,Western Governors University,4001 South 700 East,Salt Lake City,UT ,84107,3.8
+Sugar House Park,1330 2100 S,Salt Lake City,UT,84106,Third District Juvenile Court,410 S State St,Salt Lake City,UT,84111,4.3
+Sugar House Park,1330 2100 S,Salt Lake City,UT,84106,Holiday City Office,4580 S 2300 E,Holladay,UT,84117,5
+Sugar House Park,1330 2100 S,Salt Lake City,UT,84106,Murray City Museum,5025 State St,Murray,UT,84107,6.1
+Sugar House Park,1330 2100 S,Salt Lake City,UT,84106,Valley Regional Softball Complex,5100 South 2700 West,Salt Lake City,UT,84118,9.7
+Taylorsville-Bennion Heritage City Gov Off,1488 4800 S,Salt Lake City,UT,84123,City Center of Rock Springs, 5383 South 900 East #104,Salt Lake City,UT,84117,6.4
+Taylorsville-Bennion Heritage City Gov Off,1488 4800 S,Salt Lake City,UT,84123,Rice Terrace Pavilion Park, 600 E 900 South,Salt Lake City,UT,84105,10.1
+Taylorsville-Bennion Heritage City Gov Off,1488 4800 S,Salt Lake City,UT,84123,Wheeler Historic Farm , 6351 South 900 East,Murray,UT,84121,10.1
+Taylorsville-Bennion Heritage City Gov Off,1488 4800 S,Salt Lake City,UT,84123,Cottonwood Regional Softball Complex,"
+ 4300 S 1300 E",Millcreek,UT,84117,5.9
+Taylorsville-Bennion Heritage City Gov Off,1488 4800 S,Salt Lake City,UT,84123,International Peace Gardens,1060 Dalton Ave S,Salt Lake City,UT,84104,6.4
+Taylorsville-Bennion Heritage City Gov Off,1488 4800 S,Salt Lake City,UT,84123,Sugar House Park,1330 2100 S,Salt Lake City,UT,84106,9.2
+Taylorsville-Bennion Heritage City Gov Off,1488 4800 S,Salt Lake City,UT,84123,Taylorsville-Bennion Heritage City Gov Off,1488 4800 S,Salt Lake City,UT,84123,0
+Taylorsville-Bennion Heritage City Gov Off,1488 4800 S,Salt Lake City,UT,84123,Salt Lake City Division of Health Services,177 W Price Ave,Salt Lake City,UT,84115,5.6
+Taylorsville-Bennion Heritage City Gov Off,1488 4800 S,Salt Lake City,UT,84123,South Salt Lake Public Works,195 W Oakland Ave,Salt Lake City,UT,84115,6.9
+Taylorsville-Bennion Heritage City Gov Off,1488 4800 S,Salt Lake City,UT,84123,Salt Lake City Streets and Sanitation,2010 W 500 S,Salt Lake City,UT,84104,8.6
+Taylorsville-Bennion Heritage City Gov Off,1488 4800 S,Salt Lake City,UT,84123,Deker Lake,2300 Parkway Blvd,West Valley City,UT,84119,4
+Taylorsville-Bennion Heritage City Gov Off,1488 4800 S,Salt Lake City,UT,84123,Salt Lake City Ottinger Hall,233 Canyon Rd,Salt Lake City,UT,84103,11.1
+Taylorsville-Bennion Heritage City Gov Off,1488 4800 S,Salt Lake City,UT,84123,Columbus Library,2530 S 500 E,Salt Lake City,UT,84106,7.3
+Taylorsville-Bennion Heritage City Gov Off,1488 4800 S,Salt Lake City,UT,84123,Taylorsville City Hall,2600 Taylorsville Blvd,Salt Lake City,UT,84118,1
+Taylorsville-Bennion Heritage City Gov Off,1488 4800 S,Salt Lake City,UT,84123,South Salt Lake Police,2835 Main St,Salt Lake City,UT,84115,6.4
+Taylorsville-Bennion Heritage City Gov Off,1488 4800 S,Salt Lake City,UT,84123,Council Hall,300 State St,Salt Lake City,UT,84103,11.1
+Taylorsville-Bennion Heritage City Gov Off,1488 4800 S,Salt Lake City,UT,84123,Redwood Park,3060 Lester St,West Valley City,UT,84119,3.9
+Taylorsville-Bennion Heritage City Gov Off,1488 4800 S,Salt Lake City,UT,84123,Salt Lake County Mental Health,3148 S 1100 W,Salt Lake City,UT,84119,4.3
+Taylorsville-Bennion Heritage City Gov Off,1488 4800 S,Salt Lake City,UT,84123,Salt Lake County/United Police Dept,3365 S 900 W,Salt Lake City,UT,84119,4.4
+Taylorsville-Bennion Heritage City Gov Off,1488 4800 S,Salt Lake City,UT,84123,West Valley Prosecutor,3575 W Valley Central Station bus Loop,West Valley City,UT,84119,7.2
+Taylorsville-Bennion Heritage City Gov Off,1488 4800 S,Salt Lake City,UT,84123,Housing Auth. of Salt Lake County,3595 Main St,Salt Lake City,UT,84115,5.3
+Taylorsville-Bennion Heritage City Gov Off,1488 4800 S,Salt Lake City,UT,84123,Utah DMV Administrative Office,380 W 2880 S,Salt Lake City,UT,84115,6
+Taylorsville-Bennion Heritage City Gov Off,1488 4800 S,Salt Lake City,UT,84123,Western Governors University,4001 South 700 East,Salt Lake City,UT ,84107,11
+Taylorsville-Bennion Heritage City Gov Off,1488 4800 S,Salt Lake City,UT,84123,Third District Juvenile Court,410 S State St,Salt Lake City,UT,84111,10.6
+Taylorsville-Bennion Heritage City Gov Off,1488 4800 S,Salt Lake City,UT,84123,Holiday City Office,4580 S 2300 E,Holladay,UT,84117,7.4
+Taylorsville-Bennion Heritage City Gov Off,1488 4800 S,Salt Lake City,UT,84123,Murray City Museum,5025 State St,Murray,UT,84107,4.7
+Taylorsville-Bennion Heritage City Gov Off,1488 4800 S,Salt Lake City,UT,84123,Valley Regional Softball Complex,5100 South 2700 West,Salt Lake City,UT,84118,0.6
+Salt Lake City Division of Health Services,177 W Price Ave,Salt Lake City,UT,84115,City Center of Rock Springs, 5383 South 900 East #104,Salt Lake City,UT,84117,4.2
+Salt Lake City Division of Health Services,177 W Price Ave,Salt Lake City,UT,84115,Rice Terrace Pavilion Park, 600 E 900 South,Salt Lake City,UT,84105,5.4
+Salt Lake City Division of Health Services,177 W Price Ave,Salt Lake City,UT,84115,Wheeler Historic Farm , 6351 South 900 East,Murray,UT,84121,5.5
+Salt Lake City Division of Health Services,177 W Price Ave,Salt Lake City,UT,84115,Cottonwood Regional Softball Complex,"
+ 4300 S 1300 E",Millcreek,UT,84117,3.2
+Salt Lake City Division of Health Services,177 W Price Ave,Salt Lake City,UT,84115,International Peace Gardens,1060 Dalton Ave S,Salt Lake City,UT,84104,6
+Salt Lake City Division of Health Services,177 W Price Ave,Salt Lake City,UT,84115,Sugar House Park,1330 2100 S,Salt Lake City,UT,84106,4.4
+Salt Lake City Division of Health Services,177 W Price Ave,Salt Lake City,UT,84115,Taylorsville-Bennion Heritage City Gov Off,1488 4800 S,Salt Lake City,UT,84123,5.6
+Salt Lake City Division of Health Services,177 W Price Ave,Salt Lake City,UT,84115,Salt Lake City Division of Health Services,177 W Price Ave,Salt Lake City,UT,84115,0
+Salt Lake City Division of Health Services,177 W Price Ave,Salt Lake City,UT,84115,South Salt Lake Public Works,195 W Oakland Ave,Salt Lake City,UT,84115,1.9
+Salt Lake City Division of Health Services,177 W Price Ave,Salt Lake City,UT,84115,Salt Lake City Streets and Sanitation,2010 W 500 S,Salt Lake City,UT,84104,7.9
+Salt Lake City Division of Health Services,177 W Price Ave,Salt Lake City,UT,84115,Deker Lake,2300 Parkway Blvd,West Valley City,UT,84119,5.1
+Salt Lake City Division of Health Services,177 W Price Ave,Salt Lake City,UT,84115,Salt Lake City Ottinger Hall,233 Canyon Rd,Salt Lake City,UT,84103,7.5
+Salt Lake City Division of Health Services,177 W Price Ave,Salt Lake City,UT,84115,Columbus Library,2530 S 500 E,Salt Lake City,UT,84106,2.6
+Salt Lake City Division of Health Services,177 W Price Ave,Salt Lake City,UT,84115,Taylorsville City Hall,2600 Taylorsville Blvd,Salt Lake City,UT,84118,6.5
+Salt Lake City Division of Health Services,177 W Price Ave,Salt Lake City,UT,84115,South Salt Lake Police,2835 Main St,Salt Lake City,UT,84115,1.5
+Salt Lake City Division of Health Services,177 W Price Ave,Salt Lake City,UT,84115,Council Hall,300 State St,Salt Lake City,UT,84103,7.5
+Salt Lake City Division of Health Services,177 W Price Ave,Salt Lake City,UT,84115,Redwood Park,3060 Lester St,West Valley City,UT,84119,3.2
+Salt Lake City Division of Health Services,177 W Price Ave,Salt Lake City,UT,84115,Salt Lake County Mental Health,3148 S 1100 W,Salt Lake City,UT,84119,2.4
+Salt Lake City Division of Health Services,177 W Price Ave,Salt Lake City,UT,84115,Salt Lake County/United Police Dept,3365 S 900 W,Salt Lake City,UT,84119,2.7
+Salt Lake City Division of Health Services,177 W Price Ave,Salt Lake City,UT,84115,West Valley Prosecutor,3575 W Valley Central Station bus Loop,West Valley City,UT,84119,1.4
+Salt Lake City Division of Health Services,177 W Price Ave,Salt Lake City,UT,84115,Housing Auth. of Salt Lake County,3595 Main St,Salt Lake City,UT,84115,0.5
+Salt Lake City Division of Health Services,177 W Price Ave,Salt Lake City,UT,84115,Utah DMV Administrative Office,380 W 2880 S,Salt Lake City,UT,84115,1.7
+Salt Lake City Division of Health Services,177 W Price Ave,Salt Lake City,UT,84115,Western Governors University,4001 South 700 East,Salt Lake City,UT ,84107,2.2
+Salt Lake City Division of Health Services,177 W Price Ave,Salt Lake City,UT,84115,Third District Juvenile Court,410 S State St,Salt Lake City,UT,84111,6.5
+Salt Lake City Division of Health Services,177 W Price Ave,Salt Lake City,UT,84115,Holiday City Office,4580 S 2300 E,Holladay,UT,84117,5.2
+Salt Lake City Division of Health Services,177 W Price Ave,Salt Lake City,UT,84115,Murray City Museum,5025 State St,Murray,UT,84107,2.5
+Salt Lake City Division of Health Services,177 W Price Ave,Salt Lake City,UT,84115,Valley Regional Softball Complex,5100 South 2700 West,Salt Lake City,UT,84118,6
+South Salt Lake Public Works,195 W Oakland Ave,Salt Lake City,UT,84115,City Center of Rock Springs, 5383 South 900 East #104,Salt Lake City,UT,84117,5.9
+South Salt Lake Public Works,195 W Oakland Ave,Salt Lake City,UT,84115,Rice Terrace Pavilion Park, 600 E 900 South,Salt Lake City,UT,84105,3.5
+South Salt Lake Public Works,195 W Oakland Ave,Salt Lake City,UT,84115,Wheeler Historic Farm , 6351 South 900 East,Murray,UT,84121,7.2
+South Salt Lake Public Works,195 W Oakland Ave,Salt Lake City,UT,84115,Cottonwood Regional Softball Complex,"
+ 4300 S 1300 E",Millcreek,UT,84117,4.9
+South Salt Lake Public Works,195 W Oakland Ave,Salt Lake City,UT,84115,International Peace Gardens,1060 Dalton Ave S,Salt Lake City,UT,84104,4.8
+South Salt Lake Public Works,195 W Oakland Ave,Salt Lake City,UT,84115,Sugar House Park,1330 2100 S,Salt Lake City,UT,84106,2.8
+South Salt Lake Public Works,195 W Oakland Ave,Salt Lake City,UT,84115,Taylorsville-Bennion Heritage City Gov Off,1488 4800 S,Salt Lake City,UT,84123,6.9
+South Salt Lake Public Works,195 W Oakland Ave,Salt Lake City,UT,84115,Salt Lake City Division of Health Services,177 W Price Ave,Salt Lake City,UT,84115,1.9
+South Salt Lake Public Works,195 W Oakland Ave,Salt Lake City,UT,84115,South Salt Lake Public Works,195 W Oakland Ave,Salt Lake City,UT,84115,0
+South Salt Lake Public Works,195 W Oakland Ave,Salt Lake City,UT,84115,Salt Lake City Streets and Sanitation,2010 W 500 S,Salt Lake City,UT,84104,6.3
+South Salt Lake Public Works,195 W Oakland Ave,Salt Lake City,UT,84115,Deker Lake,2300 Parkway Blvd,West Valley City,UT,84119,4.3
+South Salt Lake Public Works,195 W Oakland Ave,Salt Lake City,UT,84115,Salt Lake City Ottinger Hall,233 Canyon Rd,Salt Lake City,UT,84103,4.5
+South Salt Lake Public Works,195 W Oakland Ave,Salt Lake City,UT,84115,Columbus Library,2530 S 500 E,Salt Lake City,UT,84106,1.5
+South Salt Lake Public Works,195 W Oakland Ave,Salt Lake City,UT,84115,Taylorsville City Hall,2600 Taylorsville Blvd,Salt Lake City,UT,84118,8.7
+South Salt Lake Public Works,195 W Oakland Ave,Salt Lake City,UT,84115,South Salt Lake Police,2835 Main St,Salt Lake City,UT,84115,0.8
+South Salt Lake Public Works,195 W Oakland Ave,Salt Lake City,UT,84115,Council Hall,300 State St,Salt Lake City,UT,84103,4.5
+South Salt Lake Public Works,195 W Oakland Ave,Salt Lake City,UT,84115,Redwood Park,3060 Lester St,West Valley City,UT,84119,3.9
+South Salt Lake Public Works,195 W Oakland Ave,Salt Lake City,UT,84115,Salt Lake County Mental Health,3148 S 1100 W,Salt Lake City,UT,84119,3
+South Salt Lake Public Works,195 W Oakland Ave,Salt Lake City,UT,84115,Salt Lake County/United Police Dept,3365 S 900 W,Salt Lake City,UT,84119,3.8
+South Salt Lake Public Works,195 W Oakland Ave,Salt Lake City,UT,84115,West Valley Prosecutor,3575 W Valley Central Station bus Loop,West Valley City,UT,84119,5.7
+South Salt Lake Public Works,195 W Oakland Ave,Salt Lake City,UT,84115,Housing Auth. of Salt Lake County,3595 Main St,Salt Lake City,UT,84115,1.9
+South Salt Lake Public Works,195 W Oakland Ave,Salt Lake City,UT,84115,Utah DMV Administrative Office,380 W 2880 S,Salt Lake City,UT,84115,1.1
+South Salt Lake Public Works,195 W Oakland Ave,Salt Lake City,UT,84115,Western Governors University,4001 South 700 East,Salt Lake City,UT ,84107,3.5
+South Salt Lake Public Works,195 W Oakland Ave,Salt Lake City,UT,84115,Third District Juvenile Court,410 S State St,Salt Lake City,UT,84111,3.5
+South Salt Lake Public Works,195 W Oakland Ave,Salt Lake City,UT,84115,Holiday City Office,4580 S 2300 E,Holladay,UT,84117,6.9
+South Salt Lake Public Works,195 W Oakland Ave,Salt Lake City,UT,84115,Murray City Museum,5025 State St,Murray,UT,84107,4.2
+South Salt Lake Public Works,195 W Oakland Ave,Salt Lake City,UT,84115,Valley Regional Softball Complex,5100 South 2700 West,Salt Lake City,UT,84118,9
+Salt Lake City Streets and Sanitation,2010 W 500 S,Salt Lake City,UT,84104,City Center of Rock Springs, 5383 South 900 East #104,Salt Lake City,UT,84117,11.7
+Salt Lake City Streets and Sanitation,2010 W 500 S,Salt Lake City,UT,84104,Rice Terrace Pavilion Park, 600 E 900 South,Salt Lake City,UT,84105,5.1
+Salt Lake City Streets and Sanitation,2010 W 500 S,Salt Lake City,UT,84104,Wheeler Historic Farm , 6351 South 900 East,Murray,UT,84121,14.2
+Salt Lake City Streets and Sanitation,2010 W 500 S,Salt Lake City,UT,84104,Cottonwood Regional Softball Complex,"
+ 4300 S 1300 E",Millcreek,UT,84117,11.2
+Salt Lake City Streets and Sanitation,2010 W 500 S,Salt Lake City,UT,84104,International Peace Gardens,1060 Dalton Ave S,Salt Lake City,UT,84104,1.6
+Salt Lake City Streets and Sanitation,2010 W 500 S,Salt Lake City,UT,84104,Sugar House Park,1330 2100 S,Salt Lake City,UT,84106,8.6
+Salt Lake City Streets and Sanitation,2010 W 500 S,Salt Lake City,UT,84104,Taylorsville-Bennion Heritage City Gov Off,1488 4800 S,Salt Lake City,UT,84123,8.6
+Salt Lake City Streets and Sanitation,2010 W 500 S,Salt Lake City,UT,84104,Salt Lake City Division of Health Services,177 W Price Ave,Salt Lake City,UT,84115,7.9
+Salt Lake City Streets and Sanitation,2010 W 500 S,Salt Lake City,UT,84104,South Salt Lake Public Works,195 W Oakland Ave,Salt Lake City,UT,84115,6.3
+Salt Lake City Streets and Sanitation,2010 W 500 S,Salt Lake City,UT,84104,Salt Lake City Streets and Sanitation,2010 W 500 S,Salt Lake City,UT,84104,0
+Salt Lake City Streets and Sanitation,2010 W 500 S,Salt Lake City,UT,84104,Deker Lake,2300 Parkway Blvd,West Valley City,UT,84119,4
+Salt Lake City Streets and Sanitation,2010 W 500 S,Salt Lake City,UT,84104,Salt Lake City Ottinger Hall,233 Canyon Rd,Salt Lake City,UT,84103,4.2
+Salt Lake City Streets and Sanitation,2010 W 500 S,Salt Lake City,UT,84104,Columbus Library,2530 S 500 E,Salt Lake City,UT,84106,8
+Salt Lake City Streets and Sanitation,2010 W 500 S,Salt Lake City,UT,84104,Taylorsville City Hall,2600 Taylorsville Blvd,Salt Lake City,UT,84118,8.6
+Salt Lake City Streets and Sanitation,2010 W 500 S,Salt Lake City,UT,84104,South Salt Lake Police,2835 Main St,Salt Lake City,UT,84115,6.9
+Salt Lake City Streets and Sanitation,2010 W 500 S,Salt Lake City,UT,84104,Council Hall,300 State St,Salt Lake City,UT,84103,4.2
+Salt Lake City Streets and Sanitation,2010 W 500 S,Salt Lake City,UT,84104,Redwood Park,3060 Lester St,West Valley City,UT,84119,4.2
+Salt Lake City Streets and Sanitation,2010 W 500 S,Salt Lake City,UT,84104,Salt Lake County Mental Health,3148 S 1100 W,Salt Lake City,UT,84119,8
+Salt Lake City Streets and Sanitation,2010 W 500 S,Salt Lake City,UT,84104,Salt Lake County/United Police Dept,3365 S 900 W,Salt Lake City,UT,84119,5.8
+Salt Lake City Streets and Sanitation,2010 W 500 S,Salt Lake City,UT,84104,West Valley Prosecutor,3575 W Valley Central Station bus Loop,West Valley City,UT,84119,7.2
+Salt Lake City Streets and Sanitation,2010 W 500 S,Salt Lake City,UT,84104,Housing Auth. of Salt Lake County,3595 Main St,Salt Lake City,UT,84115,7.7
+Salt Lake City Streets and Sanitation,2010 W 500 S,Salt Lake City,UT,84104,Utah DMV Administrative Office,380 W 2880 S,Salt Lake City,UT,84115,6.6
+Salt Lake City Streets and Sanitation,2010 W 500 S,Salt Lake City,UT,84104,Western Governors University,4001 South 700 East,Salt Lake City,UT ,84107,10.9
+Salt Lake City Streets and Sanitation,2010 W 500 S,Salt Lake City,UT,84104,Third District Juvenile Court,410 S State St,Salt Lake City,UT,84111,3.2
+Salt Lake City Streets and Sanitation,2010 W 500 S,Salt Lake City,UT,84104,Holiday City Office,4580 S 2300 E,Holladay,UT,84117,12.7
+Salt Lake City Streets and Sanitation,2010 W 500 S,Salt Lake City,UT,84104,Murray City Museum,5025 State St,Murray,UT,84107,10
+Salt Lake City Streets and Sanitation,2010 W 500 S,Salt Lake City,UT,84104,Valley Regional Softball Complex,5100 South 2700 West,Salt Lake City,UT,84118,8.2
+Deker Lake,2300 Parkway Blvd,West Valley City,UT,84119,City Center of Rock Springs, 5383 South 900 East #104,Salt Lake City,UT,84117,9.5
+Deker Lake,2300 Parkway Blvd,West Valley City,UT,84119,Rice Terrace Pavilion Park, 600 E 900 South,Salt Lake City,UT,84105,6.2
+Deker Lake,2300 Parkway Blvd,West Valley City,UT,84119,Wheeler Historic Farm , 6351 South 900 East,Murray,UT,84121,10.7
+Deker Lake,2300 Parkway Blvd,West Valley City,UT,84119,Cottonwood Regional Softball Complex,"
+ 4300 S 1300 E",Millcreek,UT,84117,8.1
+Deker Lake,2300 Parkway Blvd,West Valley City,UT,84119,International Peace Gardens,1060 Dalton Ave S,Salt Lake City,UT,84104,2.8
+Deker Lake,2300 Parkway Blvd,West Valley City,UT,84119,Sugar House Park,1330 2100 S,Salt Lake City,UT,84106,6.3
+Deker Lake,2300 Parkway Blvd,West Valley City,UT,84119,Taylorsville-Bennion Heritage City Gov Off,1488 4800 S,Salt Lake City,UT,84123,4
+Deker Lake,2300 Parkway Blvd,West Valley City,UT,84119,Salt Lake City Division of Health Services,177 W Price Ave,Salt Lake City,UT,84115,5.1
+Deker Lake,2300 Parkway Blvd,West Valley City,UT,84119,South Salt Lake Public Works,195 W Oakland Ave,Salt Lake City,UT,84115,4.3
+Deker Lake,2300 Parkway Blvd,West Valley City,UT,84119,Salt Lake City Streets and Sanitation,2010 W 500 S,Salt Lake City,UT,84104,4
+Deker Lake,2300 Parkway Blvd,West Valley City,UT,84119,Deker Lake,2300 Parkway Blvd,West Valley City,UT,84119,0
+Deker Lake,2300 Parkway Blvd,West Valley City,UT,84119,Salt Lake City Ottinger Hall,233 Canyon Rd,Salt Lake City,UT,84103,7.7
+Deker Lake,2300 Parkway Blvd,West Valley City,UT,84119,Columbus Library,2530 S 500 E,Salt Lake City,UT,84106,9.3
+Deker Lake,2300 Parkway Blvd,West Valley City,UT,84119,Taylorsville City Hall,2600 Taylorsville Blvd,Salt Lake City,UT,84118,4.6
+Deker Lake,2300 Parkway Blvd,West Valley City,UT,84119,South Salt Lake Police,2835 Main St,Salt Lake City,UT,84115,4.8
+Deker Lake,2300 Parkway Blvd,West Valley City,UT,84119,Council Hall,300 State St,Salt Lake City,UT,84103,7.7
+Deker Lake,2300 Parkway Blvd,West Valley City,UT,84119,Redwood Park,3060 Lester St,West Valley City,UT,84119,1.6
+Deker Lake,2300 Parkway Blvd,West Valley City,UT,84119,Salt Lake County Mental Health,3148 S 1100 W,Salt Lake City,UT,84119,3.3
+Deker Lake,2300 Parkway Blvd,West Valley City,UT,84119,Salt Lake County/United Police Dept,3365 S 900 W,Salt Lake City,UT,84119,3.4
+Deker Lake,2300 Parkway Blvd,West Valley City,UT,84119,West Valley Prosecutor,3575 W Valley Central Station bus Loop,West Valley City,UT,84119,3.1
+Deker Lake,2300 Parkway Blvd,West Valley City,UT,84119,Housing Auth. of Salt Lake County,3595 Main St,Salt Lake City,UT,84115,5.1
+Deker Lake,2300 Parkway Blvd,West Valley City,UT,84119,Utah DMV Administrative Office,380 W 2880 S,Salt Lake City,UT,84115,4.6
+Deker Lake,2300 Parkway Blvd,West Valley City,UT,84119,Western Governors University,4001 South 700 East,Salt Lake City,UT ,84107,8.6
+Deker Lake,2300 Parkway Blvd,West Valley City,UT,84119,Third District Juvenile Court,410 S State St,Salt Lake City,UT,84111,6.7
+Deker Lake,2300 Parkway Blvd,West Valley City,UT,84119,Holiday City Office,4580 S 2300 E,Holladay,UT,84117,10.4
+Deker Lake,2300 Parkway Blvd,West Valley City,UT,84119,Murray City Museum,5025 State St,Murray,UT,84107,7.8
+Deker Lake,2300 Parkway Blvd,West Valley City,UT,84119,Valley Regional Softball Complex,5100 South 2700 West,Salt Lake City,UT,84118,4.2
+Salt Lake City Ottinger Hall,233 Canyon Rd,Salt Lake City,UT,84103,City Center of Rock Springs, 5383 South 900 East #104,Salt Lake City,UT,84117,9.5
+Salt Lake City Ottinger Hall,233 Canyon Rd,Salt Lake City,UT,84103,Rice Terrace Pavilion Park, 600 E 900 South,Salt Lake City,UT,84105,2.8
+Salt Lake City Ottinger Hall,233 Canyon Rd,Salt Lake City,UT,84103,Wheeler Historic Farm , 6351 South 900 East,Murray,UT,84121,14.1
+Salt Lake City Ottinger Hall,233 Canyon Rd,Salt Lake City,UT,84103,Cottonwood Regional Softball Complex,"
+ 4300 S 1300 E",Millcreek,UT,84117,8.5
+Salt Lake City Ottinger Hall,233 Canyon Rd,Salt Lake City,UT,84103,International Peace Gardens,1060 Dalton Ave S,Salt Lake City,UT,84104,4.8
+Salt Lake City Ottinger Hall,233 Canyon Rd,Salt Lake City,UT,84103,Sugar House Park,1330 2100 S,Salt Lake City,UT,84106,5.3
+Salt Lake City Ottinger Hall,233 Canyon Rd,Salt Lake City,UT,84103,Taylorsville-Bennion Heritage City Gov Off,1488 4800 S,Salt Lake City,UT,84123,11.1
+Salt Lake City Ottinger Hall,233 Canyon Rd,Salt Lake City,UT,84103,Salt Lake City Division of Health Services,177 W Price Ave,Salt Lake City,UT,84115,7.5
+Salt Lake City Ottinger Hall,233 Canyon Rd,Salt Lake City,UT,84103,South Salt Lake Public Works,195 W Oakland Ave,Salt Lake City,UT,84115,4.5
+Salt Lake City Ottinger Hall,233 Canyon Rd,Salt Lake City,UT,84103,Salt Lake City Streets and Sanitation,2010 W 500 S,Salt Lake City,UT,84104,4.2
+Salt Lake City Ottinger Hall,233 Canyon Rd,Salt Lake City,UT,84103,Deker Lake,2300 Parkway Blvd,West Valley City,UT,84119,7.7
+Salt Lake City Ottinger Hall,233 Canyon Rd,Salt Lake City,UT,84103,Salt Lake City Ottinger Hall,233 Canyon Rd,Salt Lake City,UT,84103,0
+Salt Lake City Ottinger Hall,233 Canyon Rd,Salt Lake City,UT,84103,Columbus Library,2530 S 500 E,Salt Lake City,UT,84106,4.8
+Salt Lake City Ottinger Hall,233 Canyon Rd,Salt Lake City,UT,84103,Taylorsville City Hall,2600 Taylorsville Blvd,Salt Lake City,UT,84118,11.9
+Salt Lake City Ottinger Hall,233 Canyon Rd,Salt Lake City,UT,84103,South Salt Lake Police,2835 Main St,Salt Lake City,UT,84115,4.7
+Salt Lake City Ottinger Hall,233 Canyon Rd,Salt Lake City,UT,84103,Council Hall,300 State St,Salt Lake City,UT,84103,0.6
+Salt Lake City Ottinger Hall,233 Canyon Rd,Salt Lake City,UT,84103,Redwood Park,3060 Lester St,West Valley City,UT,84119,7.6
+Salt Lake City Ottinger Hall,233 Canyon Rd,Salt Lake City,UT,84103,Salt Lake County Mental Health,3148 S 1100 W,Salt Lake City,UT,84119,7.8
+Salt Lake City Ottinger Hall,233 Canyon Rd,Salt Lake City,UT,84103,Salt Lake County/United Police Dept,3365 S 900 W,Salt Lake City,UT,84119,6.6
+Salt Lake City Ottinger Hall,233 Canyon Rd,Salt Lake City,UT,84103,West Valley Prosecutor,3575 W Valley Central Station bus Loop,West Valley City,UT,84119,7.2
+Salt Lake City Ottinger Hall,233 Canyon Rd,Salt Lake City,UT,84103,Housing Auth. of Salt Lake County,3595 Main St,Salt Lake City,UT,84115,5.9
+Salt Lake City Ottinger Hall,233 Canyon Rd,Salt Lake City,UT,84103,Utah DMV Administrative Office,380 W 2880 S,Salt Lake City,UT,84115,5.4
+Salt Lake City Ottinger Hall,233 Canyon Rd,Salt Lake City,UT,84103,Western Governors University,4001 South 700 East,Salt Lake City,UT ,84107,7.6
+Salt Lake City Ottinger Hall,233 Canyon Rd,Salt Lake City,UT,84103,Third District Juvenile Court,410 S State St,Salt Lake City,UT,84111,1
+Salt Lake City Ottinger Hall,233 Canyon Rd,Salt Lake City,UT,84103,Holiday City Office,4580 S 2300 E,Holladay,UT,84117,10.3
+Salt Lake City Ottinger Hall,233 Canyon Rd,Salt Lake City,UT,84103,Murray City Museum,5025 State St,Murray,UT,84107,7.8
+Salt Lake City Ottinger Hall,233 Canyon Rd,Salt Lake City,UT,84103,Valley Regional Softball Complex,5100 South 2700 West,Salt Lake City,UT,84118,11.5
+Columbus Library,2530 S 500 E,Salt Lake City,UT,84106,City Center of Rock Springs, 5383 South 900 East #104,Salt Lake City,UT,84117,4.8
+Columbus Library,2530 S 500 E,Salt Lake City,UT,84106,Rice Terrace Pavilion Park, 600 E 900 South,Salt Lake City,UT,84105,3.2
+Columbus Library,2530 S 500 E,Salt Lake City,UT,84106,Wheeler Historic Farm , 6351 South 900 East,Murray,UT,84121,6
+Columbus Library,2530 S 500 E,Salt Lake City,UT,84106,Cottonwood Regional Softball Complex,"
+ 4300 S 1300 E",Millcreek,UT,84117,3.8
+Columbus Library,2530 S 500 E,Salt Lake City,UT,84106,International Peace Gardens,1060 Dalton Ave S,Salt Lake City,UT,84104,6.3
+Columbus Library,2530 S 500 E,Salt Lake City,UT,84106,Sugar House Park,1330 2100 S,Salt Lake City,UT,84106,1.6
+Columbus Library,2530 S 500 E,Salt Lake City,UT,84106,Taylorsville-Bennion Heritage City Gov Off,1488 4800 S,Salt Lake City,UT,84123,7.3
+Columbus Library,2530 S 500 E,Salt Lake City,UT,84106,Salt Lake City Division of Health Services,177 W Price Ave,Salt Lake City,UT,84115,2.6
+Columbus Library,2530 S 500 E,Salt Lake City,UT,84106,South Salt Lake Public Works,195 W Oakland Ave,Salt Lake City,UT,84115,1.5
+Columbus Library,2530 S 500 E,Salt Lake City,UT,84106,Salt Lake City Streets and Sanitation,2010 W 500 S,Salt Lake City,UT,84104,8
+Columbus Library,2530 S 500 E,Salt Lake City,UT,84106,Deker Lake,2300 Parkway Blvd,West Valley City,UT,84119,9.3
+Columbus Library,2530 S 500 E,Salt Lake City,UT,84106,Salt Lake City Ottinger Hall,233 Canyon Rd,Salt Lake City,UT,84103,4.8
+Columbus Library,2530 S 500 E,Salt Lake City,UT,84106,Columbus Library,2530 S 500 E,Salt Lake City,UT,84106,0
+Columbus Library,2530 S 500 E,Salt Lake City,UT,84106,Taylorsville City Hall,2600 Taylorsville Blvd,Salt Lake City,UT,84118,9.4
+Columbus Library,2530 S 500 E,Salt Lake City,UT,84106,South Salt Lake Police,2835 Main St,Salt Lake City,UT,84115,1.1
+Columbus Library,2530 S 500 E,Salt Lake City,UT,84106,Council Hall,300 State St,Salt Lake City,UT,84103,5.1
+Columbus Library,2530 S 500 E,Salt Lake City,UT,84106,Redwood Park,3060 Lester St,West Valley City,UT,84119,4.6
+Columbus Library,2530 S 500 E,Salt Lake City,UT,84106,Salt Lake County Mental Health,3148 S 1100 W,Salt Lake City,UT,84119,3.7
+Columbus Library,2530 S 500 E,Salt Lake City,UT,84106,Salt Lake County/United Police Dept,3365 S 900 W,Salt Lake City,UT,84119,4
+Columbus Library,2530 S 500 E,Salt Lake City,UT,84106,West Valley Prosecutor,3575 W Valley Central Station bus Loop,West Valley City,UT,84119,6.7
+Columbus Library,2530 S 500 E,Salt Lake City,UT,84106,Housing Auth. of Salt Lake County,3595 Main St,Salt Lake City,UT,84115,2.3
+Columbus Library,2530 S 500 E,Salt Lake City,UT,84106,Utah DMV Administrative Office,380 W 2880 S,Salt Lake City,UT,84115,1.8
+Columbus Library,2530 S 500 E,Salt Lake City,UT,84106,Western Governors University,4001 South 700 East,Salt Lake City,UT ,84107,2.8
+Columbus Library,2530 S 500 E,Salt Lake City,UT,84106,Third District Juvenile Court,410 S State St,Salt Lake City,UT,84111,4.1
+Columbus Library,2530 S 500 E,Salt Lake City,UT,84106,Holiday City Office,4580 S 2300 E,Holladay,UT,84117,5.8
+Columbus Library,2530 S 500 E,Salt Lake City,UT,84106,Murray City Museum,5025 State St,Murray,UT,84107,4.3
+Columbus Library,2530 S 500 E,Salt Lake City,UT,84106,Valley Regional Softball Complex,5100 South 2700 West,Salt Lake City,UT,84118,7.8
+Taylorsville City Hall,2600 Taylorsville Blvd,Salt Lake City,UT,84118,City Center of Rock Springs, 5383 South 900 East #104,Salt Lake City,UT,84117,4.9
+Taylorsville City Hall,2600 Taylorsville Blvd,Salt Lake City,UT,84118,Rice Terrace Pavilion Park, 600 E 900 South,Salt Lake City,UT,84105,11
+Taylorsville City Hall,2600 Taylorsville Blvd,Salt Lake City,UT,84118,Wheeler Historic Farm , 6351 South 900 East,Murray,UT,84121,6.8
+Taylorsville City Hall,2600 Taylorsville Blvd,Salt Lake City,UT,84118,Cottonwood Regional Softball Complex,"
+ 4300 S 1300 E",Millcreek,UT,84117,6.9
+Taylorsville City Hall,2600 Taylorsville Blvd,Salt Lake City,UT,84118,International Peace Gardens,1060 Dalton Ave S,Salt Lake City,UT,84104,7.3
+Taylorsville City Hall,2600 Taylorsville Blvd,Salt Lake City,UT,84118,Sugar House Park,1330 2100 S,Salt Lake City,UT,84106,10.4
+Taylorsville City Hall,2600 Taylorsville Blvd,Salt Lake City,UT,84118,Taylorsville-Bennion Heritage City Gov Off,1488 4800 S,Salt Lake City,UT,84123,1
+Taylorsville City Hall,2600 Taylorsville Blvd,Salt Lake City,UT,84118,Salt Lake City Division of Health Services,177 W Price Ave,Salt Lake City,UT,84115,6.5
+Taylorsville City Hall,2600 Taylorsville Blvd,Salt Lake City,UT,84118,South Salt Lake Public Works,195 W Oakland Ave,Salt Lake City,UT,84115,8.7
+Taylorsville City Hall,2600 Taylorsville Blvd,Salt Lake City,UT,84118,Salt Lake City Streets and Sanitation,2010 W 500 S,Salt Lake City,UT,84104,8.6
+Taylorsville City Hall,2600 Taylorsville Blvd,Salt Lake City,UT,84118,Deker Lake,2300 Parkway Blvd,West Valley City,UT,84119,4.6
+Taylorsville City Hall,2600 Taylorsville Blvd,Salt Lake City,UT,84118,Salt Lake City Ottinger Hall,233 Canyon Rd,Salt Lake City,UT,84103,11.9
+Taylorsville City Hall,2600 Taylorsville Blvd,Salt Lake City,UT,84118,Columbus Library,2530 S 500 E,Salt Lake City,UT,84106,9.4
+Taylorsville City Hall,2600 Taylorsville Blvd,Salt Lake City,UT,84118,Taylorsville City Hall,2600 Taylorsville Blvd,Salt Lake City,UT,84118,0
+Taylorsville City Hall,2600 Taylorsville Blvd,Salt Lake City,UT,84118,South Salt Lake Police,2835 Main St,Salt Lake City,UT,84115,7.3
+Taylorsville City Hall,2600 Taylorsville Blvd,Salt Lake City,UT,84118,Council Hall,300 State St,Salt Lake City,UT,84103,12
+Taylorsville City Hall,2600 Taylorsville Blvd,Salt Lake City,UT,84118,Redwood Park,3060 Lester St,West Valley City,UT,84119,4.9
+Taylorsville City Hall,2600 Taylorsville Blvd,Salt Lake City,UT,84118,Salt Lake County Mental Health,3148 S 1100 W,Salt Lake City,UT,84119,5.2
+Taylorsville City Hall,2600 Taylorsville Blvd,Salt Lake City,UT,84118,Salt Lake County/United Police Dept,3365 S 900 W,Salt Lake City,UT,84119,5.4
+Taylorsville City Hall,2600 Taylorsville Blvd,Salt Lake City,UT,84118,West Valley Prosecutor,3575 W Valley Central Station bus Loop,West Valley City,UT,84119,8.1
+Taylorsville City Hall,2600 Taylorsville Blvd,Salt Lake City,UT,84118,Housing Auth. of Salt Lake County,3595 Main St,Salt Lake City,UT,84115,6.2
+Taylorsville City Hall,2600 Taylorsville Blvd,Salt Lake City,UT,84118,Utah DMV Administrative Office,380 W 2880 S,Salt Lake City,UT,84115,6.9
+Taylorsville City Hall,2600 Taylorsville Blvd,Salt Lake City,UT,84118,Western Governors University,4001 South 700 East,Salt Lake City,UT ,84107,6.4
+Taylorsville City Hall,2600 Taylorsville Blvd,Salt Lake City,UT,84118,Third District Juvenile Court,410 S State St,Salt Lake City,UT,84111,11.5
+Taylorsville City Hall,2600 Taylorsville Blvd,Salt Lake City,UT,84118,Holiday City Office,4580 S 2300 E,Holladay,UT,84117,8.3
+Taylorsville City Hall,2600 Taylorsville Blvd,Salt Lake City,UT,84118,Murray City Museum,5025 State St,Murray,UT,84107,4.1
+Taylorsville City Hall,2600 Taylorsville Blvd,Salt Lake City,UT,84118,Valley Regional Softball Complex,5100 South 2700 West,Salt Lake City,UT,84118,0.4
+South Salt Lake Police,2835 Main St,Salt Lake City,UT,84115,City Center of Rock Springs, 5383 South 900 East #104,Salt Lake City,UT,84117,5.2
+South Salt Lake Police,2835 Main St,Salt Lake City,UT,84115,Rice Terrace Pavilion Park, 600 E 900 South,Salt Lake City,UT,84105,3.7
+South Salt Lake Police,2835 Main St,Salt Lake City,UT,84115,Wheeler Historic Farm , 6351 South 900 East,Murray,UT,84121,6.4
+South Salt Lake Police,2835 Main St,Salt Lake City,UT,84115,Cottonwood Regional Softball Complex,"
+ 4300 S 1300 E",Millcreek,UT,84117,4.1
+South Salt Lake Police,2835 Main St,Salt Lake City,UT,84115,International Peace Gardens,1060 Dalton Ave S,Salt Lake City,UT,84104,5.3
+South Salt Lake Police,2835 Main St,Salt Lake City,UT,84115,Sugar House Park,1330 2100 S,Salt Lake City,UT,84106,3
+South Salt Lake Police,2835 Main St,Salt Lake City,UT,84115,Taylorsville-Bennion Heritage City Gov Off,1488 4800 S,Salt Lake City,UT,84123,6.4
+South Salt Lake Police,2835 Main St,Salt Lake City,UT,84115,Salt Lake City Division of Health Services,177 W Price Ave,Salt Lake City,UT,84115,1.5
+South Salt Lake Police,2835 Main St,Salt Lake City,UT,84115,South Salt Lake Public Works,195 W Oakland Ave,Salt Lake City,UT,84115,0.8
+South Salt Lake Police,2835 Main St,Salt Lake City,UT,84115,Salt Lake City Streets and Sanitation,2010 W 500 S,Salt Lake City,UT,84104,6.9
+South Salt Lake Police,2835 Main St,Salt Lake City,UT,84115,Deker Lake,2300 Parkway Blvd,West Valley City,UT,84119,4.8
+South Salt Lake Police,2835 Main St,Salt Lake City,UT,84115,Salt Lake City Ottinger Hall,233 Canyon Rd,Salt Lake City,UT,84103,4.7
+South Salt Lake Police,2835 Main St,Salt Lake City,UT,84115,Columbus Library,2530 S 500 E,Salt Lake City,UT,84106,1.1
+South Salt Lake Police,2835 Main St,Salt Lake City,UT,84115,Taylorsville City Hall,2600 Taylorsville Blvd,Salt Lake City,UT,84118,7.3
+South Salt Lake Police,2835 Main St,Salt Lake City,UT,84115,South Salt Lake Police,2835 Main St,Salt Lake City,UT,84115,0
+South Salt Lake Police,2835 Main St,Salt Lake City,UT,84115,Council Hall,300 State St,Salt Lake City,UT,84103,4.7
+South Salt Lake Police,2835 Main St,Salt Lake City,UT,84115,Redwood Park,3060 Lester St,West Valley City,UT,84119,3.5
+South Salt Lake Police,2835 Main St,Salt Lake City,UT,84115,Salt Lake County Mental Health,3148 S 1100 W,Salt Lake City,UT,84119,2.6
+South Salt Lake Police,2835 Main St,Salt Lake City,UT,84115,Salt Lake County/United Police Dept,3365 S 900 W,Salt Lake City,UT,84119,2.9
+South Salt Lake Police,2835 Main St,Salt Lake City,UT,84115,West Valley Prosecutor,3575 W Valley Central Station bus Loop,West Valley City,UT,84119,6.3
+South Salt Lake Police,2835 Main St,Salt Lake City,UT,84115,Housing Auth. of Salt Lake County,3595 Main St,Salt Lake City,UT,84115,1.2
+South Salt Lake Police,2835 Main St,Salt Lake City,UT,84115,Utah DMV Administrative Office,380 W 2880 S,Salt Lake City,UT,84115,1
+South Salt Lake Police,2835 Main St,Salt Lake City,UT,84115,Western Governors University,4001 South 700 East,Salt Lake City,UT ,84107,3.2
+South Salt Lake Police,2835 Main St,Salt Lake City,UT,84115,Third District Juvenile Court,410 S State St,Salt Lake City,UT,84111,3.7
+South Salt Lake Police,2835 Main St,Salt Lake City,UT,84115,Holiday City Office,4580 S 2300 E,Holladay,UT,84117,6.2
+South Salt Lake Police,2835 Main St,Salt Lake City,UT,84115,Murray City Museum,5025 State St,Murray,UT,84107,3.4
+South Salt Lake Police,2835 Main St,Salt Lake City,UT,84115,Valley Regional Softball Complex,5100 South 2700 West,Salt Lake City,UT,84118,6.9
+Council Hall,300 State St,Salt Lake City,UT,84103,City Center of Rock Springs, 5383 South 900 East #104,Salt Lake City,UT,84117,9.5
+Council Hall,300 State St,Salt Lake City,UT,84103,Rice Terrace Pavilion Park, 600 E 900 South,Salt Lake City,UT,84105,2.8
+Council Hall,300 State St,Salt Lake City,UT,84103,Wheeler Historic Farm , 6351 South 900 East,Murray,UT,84121,14.1
+Council Hall,300 State St,Salt Lake City,UT,84103,Cottonwood Regional Softball Complex,"
+ 4300 S 1300 E",Millcreek,UT,84117,8.5
+Council Hall,300 State St,Salt Lake City,UT,84103,International Peace Gardens,1060 Dalton Ave S,Salt Lake City,UT,84104,4.8
+Council Hall,300 State St,Salt Lake City,UT,84103,Sugar House Park,1330 2100 S,Salt Lake City,UT,84106,5.3
+Council Hall,300 State St,Salt Lake City,UT,84103,Taylorsville-Bennion Heritage City Gov Off,1488 4800 S,Salt Lake City,UT,84123,11.1
+Council Hall,300 State St,Salt Lake City,UT,84103,Salt Lake City Division of Health Services,177 W Price Ave,Salt Lake City,UT,84115,7.5
+Council Hall,300 State St,Salt Lake City,UT,84103,South Salt Lake Public Works,195 W Oakland Ave,Salt Lake City,UT,84115,4.5
+Council Hall,300 State St,Salt Lake City,UT,84103,Salt Lake City Streets and Sanitation,2010 W 500 S,Salt Lake City,UT,84104,4.2
+Council Hall,300 State St,Salt Lake City,UT,84103,Deker Lake,2300 Parkway Blvd,West Valley City,UT,84119,7.7
+Council Hall,300 State St,Salt Lake City,UT,84103,Salt Lake City Ottinger Hall,233 Canyon Rd,Salt Lake City,UT,84103,0.6
+Council Hall,300 State St,Salt Lake City,UT,84103,Columbus Library,2530 S 500 E,Salt Lake City,UT,84106,5.1
+Council Hall,300 State St,Salt Lake City,UT,84103,Taylorsville City Hall,2600 Taylorsville Blvd,Salt Lake City,UT,84118,12
+Council Hall,300 State St,Salt Lake City,UT,84103,South Salt Lake Police,2835 Main St,Salt Lake City,UT,84115,4.7
+Council Hall,300 State St,Salt Lake City,UT,84103,Council Hall,300 State St,Salt Lake City,UT,84103,0
+Council Hall,300 State St,Salt Lake City,UT,84103,Redwood Park,3060 Lester St,West Valley City,UT,84119,7.3
+Council Hall,300 State St,Salt Lake City,UT,84103,Salt Lake County Mental Health,3148 S 1100 W,Salt Lake City,UT,84119,7.8
+Council Hall,300 State St,Salt Lake City,UT,84103,Salt Lake County/United Police Dept,3365 S 900 W,Salt Lake City,UT,84119,6.6
+Council Hall,300 State St,Salt Lake City,UT,84103,West Valley Prosecutor,3575 W Valley Central Station bus Loop,West Valley City,UT,84119,7.2
+Council Hall,300 State St,Salt Lake City,UT,84103,Housing Auth. of Salt Lake County,3595 Main St,Salt Lake City,UT,84115,5.9
+Council Hall,300 State St,Salt Lake City,UT,84103,Utah DMV Administrative Office,380 W 2880 S,Salt Lake City,UT,84115,5.4
+Council Hall,300 State St,Salt Lake City,UT,84103,Western Governors University,4001 South 700 East,Salt Lake City,UT ,84107,7.6
+Council Hall,300 State St,Salt Lake City,UT,84103,Third District Juvenile Court,410 S State St,Salt Lake City,UT,84111,1
+Council Hall,300 State St,Salt Lake City,UT,84103,Holiday City Office,4580 S 2300 E,Holladay,UT,84117,10.3
+Council Hall,300 State St,Salt Lake City,UT,84103,Murray City Museum,5025 State St,Murray,UT,84107,7.8
+Council Hall,300 State St,Salt Lake City,UT,84103,Valley Regional Softball Complex,5100 South 2700 West,Salt Lake City,UT,84118,11.5
+Redwood Park,3060 Lester St,West Valley City,UT,84119,City Center of Rock Springs, 5383 South 900 East #104,Salt Lake City,UT,84117,7.2
+Redwood Park,3060 Lester St,West Valley City,UT,84119,Rice Terrace Pavilion Park, 600 E 900 South,Salt Lake City,UT,84105,6.4
+Redwood Park,3060 Lester St,West Valley City,UT,84119,Wheeler Historic Farm , 6351 South 900 East,Murray,UT,84121,10.5
+Redwood Park,3060 Lester St,West Valley City,UT,84119,Cottonwood Regional Softball Complex,"
+ 4300 S 1300 E",Millcreek,UT,84117,6.2
+Redwood Park,3060 Lester St,West Valley City,UT,84119,International Peace Gardens,1060 Dalton Ave S,Salt Lake City,UT,84104,3
+Redwood Park,3060 Lester St,West Valley City,UT,84119,Sugar House Park,1330 2100 S,Salt Lake City,UT,84106,6.5
+Redwood Park,3060 Lester St,West Valley City,UT,84119,Taylorsville-Bennion Heritage City Gov Off,1488 4800 S,Salt Lake City,UT,84123,3.9
+Redwood Park,3060 Lester St,West Valley City,UT,84119,Salt Lake City Division of Health Services,177 W Price Ave,Salt Lake City,UT,84115,3.2
+Redwood Park,3060 Lester St,West Valley City,UT,84119,South Salt Lake Public Works,195 W Oakland Ave,Salt Lake City,UT,84115,3.9
+Redwood Park,3060 Lester St,West Valley City,UT,84119,Salt Lake City Streets and Sanitation,2010 W 500 S,Salt Lake City,UT,84104,4.2
+Redwood Park,3060 Lester St,West Valley City,UT,84119,Deker Lake,2300 Parkway Blvd,West Valley City,UT,84119,1.6
+Redwood Park,3060 Lester St,West Valley City,UT,84119,Salt Lake City Ottinger Hall,233 Canyon Rd,Salt Lake City,UT,84103,7.6
+Redwood Park,3060 Lester St,West Valley City,UT,84119,Columbus Library,2530 S 500 E,Salt Lake City,UT,84106,4.6
+Redwood Park,3060 Lester St,West Valley City,UT,84119,Taylorsville City Hall,2600 Taylorsville Blvd,Salt Lake City,UT,84118,4.9
+Redwood Park,3060 Lester St,West Valley City,UT,84119,South Salt Lake Police,2835 Main St,Salt Lake City,UT,84115,3.5
+Redwood Park,3060 Lester St,West Valley City,UT,84119,Council Hall,300 State St,Salt Lake City,UT,84103,7.3
+Redwood Park,3060 Lester St,West Valley City,UT,84119,Redwood Park,3060 Lester St,West Valley City,UT,84119,0
+Redwood Park,3060 Lester St,West Valley City,UT,84119,Salt Lake County Mental Health,3148 S 1100 W,Salt Lake City,UT,84119,1.3
+Redwood Park,3060 Lester St,West Valley City,UT,84119,Salt Lake County/United Police Dept,3365 S 900 W,Salt Lake City,UT,84119,1.5
+Redwood Park,3060 Lester St,West Valley City,UT,84119,West Valley Prosecutor,3575 W Valley Central Station bus Loop,West Valley City,UT,84119,4
+Redwood Park,3060 Lester St,West Valley City,UT,84119,Housing Auth. of Salt Lake County,3595 Main St,Salt Lake City,UT,84115,3.2
+Redwood Park,3060 Lester St,West Valley City,UT,84119,Utah DMV Administrative Office,380 W 2880 S,Salt Lake City,UT,84115,3
+Redwood Park,3060 Lester St,West Valley City,UT,84119,Western Governors University,4001 South 700 East,Salt Lake City,UT ,84107,5.2
+Redwood Park,3060 Lester St,West Valley City,UT,84119,Third District Juvenile Court,410 S State St,Salt Lake City,UT,84111,6.9
+Redwood Park,3060 Lester St,West Valley City,UT,84119,Holiday City Office,4580 S 2300 E,Holladay,UT,84117,8.2
+Redwood Park,3060 Lester St,West Valley City,UT,84119,Murray City Museum,5025 State St,Murray,UT,84107,5.5
+Redwood Park,3060 Lester St,West Valley City,UT,84119,Valley Regional Softball Complex,5100 South 2700 West,Salt Lake City,UT,84118,4.4
+Salt Lake County Mental Health,3148 S 1100 W,Salt Lake City,UT,84119,City Center of Rock Springs, 5383 South 900 East #104,Salt Lake City,UT,84117,6.3
+Salt Lake County Mental Health,3148 S 1100 W,Salt Lake City,UT,84119,Rice Terrace Pavilion Park, 600 E 900 South,Salt Lake City,UT,84105,6.5
+Salt Lake County Mental Health,3148 S 1100 W,Salt Lake City,UT,84119,Wheeler Historic Farm , 6351 South 900 East,Murray,UT,84121,8.8
+Salt Lake County Mental Health,3148 S 1100 W,Salt Lake City,UT,84119,Cottonwood Regional Softball Complex,"
+ 4300 S 1300 E",Millcreek,UT,84117,5.3
+Salt Lake County Mental Health,3148 S 1100 W,Salt Lake City,UT,84119,International Peace Gardens,1060 Dalton Ave S,Salt Lake City,UT,84104,4.6
+Salt Lake County Mental Health,3148 S 1100 W,Salt Lake City,UT,84119,Sugar House Park,1330 2100 S,Salt Lake City,UT,84106,5.6
+Salt Lake County Mental Health,3148 S 1100 W,Salt Lake City,UT,84119,Taylorsville-Bennion Heritage City Gov Off,1488 4800 S,Salt Lake City,UT,84123,4.3
+Salt Lake County Mental Health,3148 S 1100 W,Salt Lake City,UT,84119,Salt Lake City Division of Health Services,177 W Price Ave,Salt Lake City,UT,84115,2.4
+Salt Lake County Mental Health,3148 S 1100 W,Salt Lake City,UT,84119,South Salt Lake Public Works,195 W Oakland Ave,Salt Lake City,UT,84115,3
+Salt Lake County Mental Health,3148 S 1100 W,Salt Lake City,UT,84119,Salt Lake City Streets and Sanitation,2010 W 500 S,Salt Lake City,UT,84104,8
+Salt Lake County Mental Health,3148 S 1100 W,Salt Lake City,UT,84119,Deker Lake,2300 Parkway Blvd,West Valley City,UT,84119,3.3
+Salt Lake County Mental Health,3148 S 1100 W,Salt Lake City,UT,84119,Salt Lake City Ottinger Hall,233 Canyon Rd,Salt Lake City,UT,84103,7.8
+Salt Lake County Mental Health,3148 S 1100 W,Salt Lake City,UT,84119,Columbus Library,2530 S 500 E,Salt Lake City,UT,84106,3.7
+Salt Lake County Mental Health,3148 S 1100 W,Salt Lake City,UT,84119,Taylorsville City Hall,2600 Taylorsville Blvd,Salt Lake City,UT,84118,5.2
+Salt Lake County Mental Health,3148 S 1100 W,Salt Lake City,UT,84119,South Salt Lake Police,2835 Main St,Salt Lake City,UT,84115,2.6
+Salt Lake County Mental Health,3148 S 1100 W,Salt Lake City,UT,84119,Council Hall,300 State St,Salt Lake City,UT,84103,7.8
+Salt Lake County Mental Health,3148 S 1100 W,Salt Lake City,UT,84119,Redwood Park,3060 Lester St,West Valley City,UT,84119,1.3
+Salt Lake County Mental Health,3148 S 1100 W,Salt Lake City,UT,84119,Salt Lake County Mental Health,3148 S 1100 W,Salt Lake City,UT,84119,0
+Salt Lake County Mental Health,3148 S 1100 W,Salt Lake City,UT,84119,Salt Lake County/United Police Dept,3365 S 900 W,Salt Lake City,UT,84119,0.6
+Salt Lake County Mental Health,3148 S 1100 W,Salt Lake City,UT,84119,West Valley Prosecutor,3575 W Valley Central Station bus Loop,West Valley City,UT,84119,6.4
+Salt Lake County Mental Health,3148 S 1100 W,Salt Lake City,UT,84119,Housing Auth. of Salt Lake County,3595 Main St,Salt Lake City,UT,84115,2.4
+Salt Lake County Mental Health,3148 S 1100 W,Salt Lake City,UT,84119,Utah DMV Administrative Office,380 W 2880 S,Salt Lake City,UT,84115,2.2
+Salt Lake County Mental Health,3148 S 1100 W,Salt Lake City,UT,84119,Western Governors University,4001 South 700 East,Salt Lake City,UT ,84107,4.4
+Salt Lake County Mental Health,3148 S 1100 W,Salt Lake City,UT,84119,Third District Juvenile Court,410 S State St,Salt Lake City,UT,84111,6.8
+Salt Lake County Mental Health,3148 S 1100 W,Salt Lake City,UT,84119,Holiday City Office,4580 S 2300 E,Holladay,UT,84117,7.4
+Salt Lake County Mental Health,3148 S 1100 W,Salt Lake City,UT,84119,Murray City Museum,5025 State St,Murray,UT,84107,4.6
+Salt Lake County Mental Health,3148 S 1100 W,Salt Lake City,UT,84119,Valley Regional Softball Complex,5100 South 2700 West,Salt Lake City,UT,84118,4.8
+Salt Lake County/United Police Dept,3365 S 900 W,Salt Lake City,UT,84119,City Center of Rock Springs, 5383 South 900 East #104,Salt Lake City,UT,84117,5.9
+Salt Lake County/United Police Dept,3365 S 900 W,Salt Lake City,UT,84119,Rice Terrace Pavilion Park, 600 E 900 South,Salt Lake City,UT,84105,5.7
+Salt Lake County/United Police Dept,3365 S 900 W,Salt Lake City,UT,84119,Wheeler Historic Farm , 6351 South 900 East,Murray,UT,84121,8.4
+Salt Lake County/United Police Dept,3365 S 900 W,Salt Lake City,UT,84119,Cottonwood Regional Softball Complex,"
+ 4300 S 1300 E",Millcreek,UT,84117,4.9
+Salt Lake County/United Police Dept,3365 S 900 W,Salt Lake City,UT,84119,International Peace Gardens,1060 Dalton Ave S,Salt Lake City,UT,84104,4.5
+Salt Lake County/United Police Dept,3365 S 900 W,Salt Lake City,UT,84119,Sugar House Park,1330 2100 S,Salt Lake City,UT,84106,5.8
+Salt Lake County/United Police Dept,3365 S 900 W,Salt Lake City,UT,84119,Taylorsville-Bennion Heritage City Gov Off,1488 4800 S,Salt Lake City,UT,84123,4.4
+Salt Lake County/United Police Dept,3365 S 900 W,Salt Lake City,UT,84119,Salt Lake City Division of Health Services,177 W Price Ave,Salt Lake City,UT,84115,2.7
+Salt Lake County/United Police Dept,3365 S 900 W,Salt Lake City,UT,84119,South Salt Lake Public Works,195 W Oakland Ave,Salt Lake City,UT,84115,3.8
+Salt Lake County/United Police Dept,3365 S 900 W,Salt Lake City,UT,84119,Salt Lake City Streets and Sanitation,2010 W 500 S,Salt Lake City,UT,84104,5.8
+Salt Lake County/United Police Dept,3365 S 900 W,Salt Lake City,UT,84119,Deker Lake,2300 Parkway Blvd,West Valley City,UT,84119,3.4
+Salt Lake County/United Police Dept,3365 S 900 W,Salt Lake City,UT,84119,Salt Lake City Ottinger Hall,233 Canyon Rd,Salt Lake City,UT,84103,6.6
+Salt Lake County/United Police Dept,3365 S 900 W,Salt Lake City,UT,84119,Columbus Library,2530 S 500 E,Salt Lake City,UT,84106,4
+Salt Lake County/United Police Dept,3365 S 900 W,Salt Lake City,UT,84119,Taylorsville City Hall,2600 Taylorsville Blvd,Salt Lake City,UT,84118,5.4
+Salt Lake County/United Police Dept,3365 S 900 W,Salt Lake City,UT,84119,South Salt Lake Police,2835 Main St,Salt Lake City,UT,84115,2.9
+Salt Lake County/United Police Dept,3365 S 900 W,Salt Lake City,UT,84119,Council Hall,300 State St,Salt Lake City,UT,84103,6.6
+Salt Lake County/United Police Dept,3365 S 900 W,Salt Lake City,UT,84119,Redwood Park,3060 Lester St,West Valley City,UT,84119,1.5
+Salt Lake County/United Police Dept,3365 S 900 W,Salt Lake City,UT,84119,Salt Lake County Mental Health,3148 S 1100 W,Salt Lake City,UT,84119,0.6
+Salt Lake County/United Police Dept,3365 S 900 W,Salt Lake City,UT,84119,Salt Lake County/United Police Dept,3365 S 900 W,Salt Lake City,UT,84119,0
+Salt Lake County/United Police Dept,3365 S 900 W,Salt Lake City,UT,84119,West Valley Prosecutor,3575 W Valley Central Station bus Loop,West Valley City,UT,84119,5.6
+Salt Lake County/United Police Dept,3365 S 900 W,Salt Lake City,UT,84119,Housing Auth. of Salt Lake County,3595 Main St,Salt Lake City,UT,84115,1.6
+Salt Lake County/United Police Dept,3365 S 900 W,Salt Lake City,UT,84119,Utah DMV Administrative Office,380 W 2880 S,Salt Lake City,UT,84115,1.7
+Salt Lake County/United Police Dept,3365 S 900 W,Salt Lake City,UT,84119,Western Governors University,4001 South 700 East,Salt Lake City,UT ,84107,3.7
+Salt Lake County/United Police Dept,3365 S 900 W,Salt Lake City,UT,84119,Third District Juvenile Court,410 S State St,Salt Lake City,UT,84111,6.4
+Salt Lake County/United Police Dept,3365 S 900 W,Salt Lake City,UT,84119,Holiday City Office,4580 S 2300 E,Holladay,UT,84117,6.9
+Salt Lake County/United Police Dept,3365 S 900 W,Salt Lake City,UT,84119,Murray City Museum,5025 State St,Murray,UT,84107,4.2
+Salt Lake County/United Police Dept,3365 S 900 W,Salt Lake City,UT,84119,Valley Regional Softball Complex,5100 South 2700 West,Salt Lake City,UT,84118,5.6
+West Valley Prosecutor,3575 W Valley Central Station bus Loop,Salt Lake City,UT,84119,City Center of Rock Springs, 5383 South 900 East #104,Salt Lake City,UT,84117,11.1
+West Valley Prosecutor,3575 W Valley Central Station bus Loop,Salt Lake City,UT,84119,Rice Terrace Pavilion Park, 600 E 900 South,Salt Lake City,UT,84105,6.2
+West Valley Prosecutor,3575 W Valley Central Station bus Loop,Salt Lake City,UT,84119,Wheeler Historic Farm , 6351 South 900 East,Murray,UT,84121,13.6
+West Valley Prosecutor,3575 W Valley Central Station bus Loop,Salt Lake City,UT,84119,Cottonwood Regional Softball Complex,"
+ 4300 S 1300 E",Millcreek,UT,84117,10.6
+West Valley Prosecutor,3575 W Valley Central Station bus Loop,Salt Lake City,UT,84119,International Peace Gardens,1060 Dalton Ave S,Salt Lake City,UT,84104,7.4
+West Valley Prosecutor,3575 W Valley Central Station bus Loop,Salt Lake City,UT,84119,Sugar House Park,1330 2100 S,Salt Lake City,UT,84106,5.7
+West Valley Prosecutor,3575 W Valley Central Station bus Loop,Salt Lake City,UT,84119,Taylorsville-Bennion Heritage City Gov Off,1488 4800 S,Salt Lake City,UT,84123,7.2
+West Valley Prosecutor,3575 W Valley Central Station bus Loop,Salt Lake City,UT,84119,Salt Lake City Division of Health Services,177 W Price Ave,Salt Lake City,UT,84115,1.4
+West Valley Prosecutor,3575 W Valley Central Station bus Loop,Salt Lake City,UT,84119,South Salt Lake Public Works,195 W Oakland Ave,Salt Lake City,UT,84115,5.7
+West Valley Prosecutor,3575 W Valley Central Station bus Loop,Salt Lake City,UT,84119,Salt Lake City Streets and Sanitation,2010 W 500 S,Salt Lake City,UT,84104,7.2
+West Valley Prosecutor,3575 W Valley Central Station bus Loop,Salt Lake City,UT,84119,Deker Lake,2300 Parkway Blvd,West Valley City,UT,84119,3.1
+West Valley Prosecutor,3575 W Valley Central Station bus Loop,Salt Lake City,UT,84119,Salt Lake City Ottinger Hall,233 Canyon Rd,Salt Lake City,UT,84103,7.2
+West Valley Prosecutor,3575 W Valley Central Station bus Loop,Salt Lake City,UT,84119,Columbus Library,2530 S 500 E,Salt Lake City,UT,84106,6.7
+West Valley Prosecutor,3575 W Valley Central Station bus Loop,Salt Lake City,UT,84119,Taylorsville City Hall,2600 Taylorsville Blvd,Salt Lake City,UT,84118,8.1
+West Valley Prosecutor,3575 W Valley Central Station bus Loop,Salt Lake City,UT,84119,South Salt Lake Police,2835 Main St,Salt Lake City,UT,84115,6.3
+West Valley Prosecutor,3575 W Valley Central Station bus Loop,Salt Lake City,UT,84119,Council Hall,300 State St,Salt Lake City,UT,84103,7.2
+West Valley Prosecutor,3575 W Valley Central Station bus Loop,Salt Lake City,UT,84119,Redwood Park,3060 Lester St,West Valley City,UT,84119,4
+West Valley Prosecutor,3575 W Valley Central Station bus Loop,Salt Lake City,UT,84119,Salt Lake County Mental Health,3148 S 1100 W,Salt Lake City,UT,84119,6.4
+West Valley Prosecutor,3575 W Valley Central Station bus Loop,Salt Lake City,UT,84119,Salt Lake County/United Police Dept,3365 S 900 W,Salt Lake City,UT,84119,5.6
+West Valley Prosecutor,3575 W Valley Central Station bus Loop,Salt Lake City,UT,84119,West Valley Prosecutor,3575 W Valley Central Station bus Loop,West Valley City,UT,84119,0
+West Valley Prosecutor,3575 W Valley Central Station bus Loop,Salt Lake City,UT,84119,Housing Auth. of Salt Lake County,3595 Main St,Salt Lake City,UT,84115,7.1
+West Valley Prosecutor,3575 W Valley Central Station bus Loop,Salt Lake City,UT,84119,Utah DMV Administrative Office,380 W 2880 S,Salt Lake City,UT,84115,6.1
+West Valley Prosecutor,3575 W Valley Central Station bus Loop,Salt Lake City,UT,84119,Western Governors University,4001 South 700 East,Salt Lake City,UT ,84107,7.6
+West Valley Prosecutor,3575 W Valley Central Station bus Loop,Salt Lake City,UT,84119,Third District Juvenile Court,410 S State St,Salt Lake City,UT,84111,7.2
+West Valley Prosecutor,3575 W Valley Central Station bus Loop,Salt Lake City,UT,84119,Holiday City Office,4580 S 2300 E,Holladay,UT,84117,12
+West Valley Prosecutor,3575 W Valley Central Station bus Loop,Salt Lake City,UT,84119,Murray City Museum,5025 State St,Murray,UT,84107,9.4
+West Valley Prosecutor,3575 W Valley Central Station bus Loop,Salt Lake City,UT,84119,Valley Regional Softball Complex,5100 South 2700 West,Salt Lake City,UT,84118,7.5
+Housing Auth. of Salt Lake County,3595 Main St,Salt Lake City,UT,84115,City Center of Rock Springs, 5383 South 900 East #104,Salt Lake City,UT,84117,4
+Housing Auth. of Salt Lake County,3595 Main St,Salt Lake City,UT,84115,Rice Terrace Pavilion Park, 600 E 900 South,Salt Lake City,UT,84105,5.1
+Housing Auth. of Salt Lake County,3595 Main St,Salt Lake City,UT,84115,Wheeler Historic Farm , 6351 South 900 East,Murray,UT,84121,5.2
+Housing Auth. of Salt Lake County,3595 Main St,Salt Lake City,UT,84115,Cottonwood Regional Softball Complex,"
+ 4300 S 1300 E",Millcreek,UT,84117,3
+Housing Auth. of Salt Lake County,3595 Main St,Salt Lake City,UT,84115,International Peace Gardens,1060 Dalton Ave S,Salt Lake City,UT,84104,6
+Housing Auth. of Salt Lake County,3595 Main St,Salt Lake City,UT,84115,Sugar House Park,1330 2100 S,Salt Lake City,UT,84106,4.1
+Housing Auth. of Salt Lake County,3595 Main St,Salt Lake City,UT,84115,Taylorsville-Bennion Heritage City Gov Off,1488 4800 S,Salt Lake City,UT,84123,5.3
+Housing Auth. of Salt Lake County,3595 Main St,Salt Lake City,UT,84115,Salt Lake City Division of Health Services,177 W Price Ave,Salt Lake City,UT,84115,0.5
+Housing Auth. of Salt Lake County,3595 Main St,Salt Lake City,UT,84115,South Salt Lake Public Works,195 W Oakland Ave,Salt Lake City,UT,84115,1.9
+Housing Auth. of Salt Lake County,3595 Main St,Salt Lake City,UT,84115,Salt Lake City Streets and Sanitation,2010 W 500 S,Salt Lake City,UT,84104,7.7
+Housing Auth. of Salt Lake County,3595 Main St,Salt Lake City,UT,84115,Deker Lake,2300 Parkway Blvd,West Valley City,UT,84119,5.1
+Housing Auth. of Salt Lake County,3595 Main St,Salt Lake City,UT,84115,Salt Lake City Ottinger Hall,233 Canyon Rd,Salt Lake City,UT,84103,5.9
+Housing Auth. of Salt Lake County,3595 Main St,Salt Lake City,UT,84115,Columbus Library,2530 S 500 E,Salt Lake City,UT,84106,2.3
+Housing Auth. of Salt Lake County,3595 Main St,Salt Lake City,UT,84115,Taylorsville City Hall,2600 Taylorsville Blvd,Salt Lake City,UT,84118,6.2
+Housing Auth. of Salt Lake County,3595 Main St,Salt Lake City,UT,84115,South Salt Lake Police,2835 Main St,Salt Lake City,UT,84115,1.2
+Housing Auth. of Salt Lake County,3595 Main St,Salt Lake City,UT,84115,Council Hall,300 State St,Salt Lake City,UT,84103,5.9
+Housing Auth. of Salt Lake County,3595 Main St,Salt Lake City,UT,84115,Redwood Park,3060 Lester St,West Valley City,UT,84119,3.2
+Housing Auth. of Salt Lake County,3595 Main St,Salt Lake City,UT,84115,Salt Lake County Mental Health,3148 S 1100 W,Salt Lake City,UT,84119,2.4
+Housing Auth. of Salt Lake County,3595 Main St,Salt Lake City,UT,84115,Salt Lake County/United Police Dept,3365 S 900 W,Salt Lake City,UT,84119,1.6
+Housing Auth. of Salt Lake County,3595 Main St,Salt Lake City,UT,84115,West Valley Prosecutor,3575 W Valley Central Station bus Loop,West Valley City,UT,84119,7.1
+Housing Auth. of Salt Lake County,3595 Main St,Salt Lake City,UT,84115,Housing Auth. of Salt Lake County,3595 Main St,Salt Lake City,UT,84115,0
+Housing Auth. of Salt Lake County,3595 Main St,Salt Lake City,UT,84115,Utah DMV Administrative Office,380 W 2880 S,Salt Lake City,UT,84115,1.6
+Housing Auth. of Salt Lake County,3595 Main St,Salt Lake City,UT,84115,Western Governors University,4001 South 700 East,Salt Lake City,UT ,84107,2
+Housing Auth. of Salt Lake County,3595 Main St,Salt Lake City,UT,84115,Third District Juvenile Court,410 S State St,Salt Lake City,UT,84111,4.9
+Housing Auth. of Salt Lake County,3595 Main St,Salt Lake City,UT,84115,Holiday City Office,4580 S 2300 E,Holladay,UT,84117,5
+Housing Auth. of Salt Lake County,3595 Main St,Salt Lake City,UT,84115,Murray City Museum,5025 State St,Murray,UT,84107,2.3
+Housing Auth. of Salt Lake County,3595 Main St,Salt Lake City,UT,84115,Valley Regional Softball Complex,5100 South 2700 West,Salt Lake City,UT,84118,5.5
+Utah DMV Administrative Office,380 W 2880 S,Salt Lake City,UT,84115,City Center of Rock Springs, 5383 South 900 East #104,Salt Lake City,UT,84117,5.6
+Utah DMV Administrative Office,380 W 2880 S,Salt Lake City,UT,84115,Rice Terrace Pavilion Park, 600 E 900 South,Salt Lake City,UT,84105,4.3
+Utah DMV Administrative Office,380 W 2880 S,Salt Lake City,UT,84115,Wheeler Historic Farm , 6351 South 900 East,Murray,UT,84121,6.9
+Utah DMV Administrative Office,380 W 2880 S,Salt Lake City,UT,84115,Cottonwood Regional Softball Complex,"
+ 4300 S 1300 E",Millcreek,UT,84117,4.6
+Utah DMV Administrative Office,380 W 2880 S,Salt Lake City,UT,84115,International Peace Gardens,1060 Dalton Ave S,Salt Lake City,UT,84104,4.8
+Utah DMV Administrative Office,380 W 2880 S,Salt Lake City,UT,84115,Sugar House Park,1330 2100 S,Salt Lake City,UT,84106,4.3
+Utah DMV Administrative Office,380 W 2880 S,Salt Lake City,UT,84115,Taylorsville-Bennion Heritage City Gov Off,1488 4800 S,Salt Lake City,UT,84123,10.6
+Utah DMV Administrative Office,380 W 2880 S,Salt Lake City,UT,84115,Salt Lake City Division of Health Services,177 W Price Ave,Salt Lake City,UT,84115,6.5
+Utah DMV Administrative Office,380 W 2880 S,Salt Lake City,UT,84115,South Salt Lake Public Works,195 W Oakland Ave,Salt Lake City,UT,84115,3.5
+Utah DMV Administrative Office,380 W 2880 S,Salt Lake City,UT,84115,Salt Lake City Streets and Sanitation,2010 W 500 S,Salt Lake City,UT,84104,3.2
+Utah DMV Administrative Office,380 W 2880 S,Salt Lake City,UT,84115,Deker Lake,2300 Parkway Blvd,West Valley City,UT,84119,6.7
+Utah DMV Administrative Office,380 W 2880 S,Salt Lake City,UT,84115,Salt Lake City Ottinger Hall,233 Canyon Rd,Salt Lake City,UT,84103,1
+Utah DMV Administrative Office,380 W 2880 S,Salt Lake City,UT,84115,Columbus Library,2530 S 500 E,Salt Lake City,UT,84106,4.1
+Utah DMV Administrative Office,380 W 2880 S,Salt Lake City,UT,84115,Taylorsville City Hall,2600 Taylorsville Blvd,Salt Lake City,UT,84118,11.5
+Utah DMV Administrative Office,380 W 2880 S,Salt Lake City,UT,84115,South Salt Lake Police,2835 Main St,Salt Lake City,UT,84115,3.7
+Utah DMV Administrative Office,380 W 2880 S,Salt Lake City,UT,84115,Council Hall,300 State St,Salt Lake City,UT,84103,1
+Utah DMV Administrative Office,380 W 2880 S,Salt Lake City,UT,84115,Redwood Park,3060 Lester St,West Valley City,UT,84119,6.9
+Utah DMV Administrative Office,380 W 2880 S,Salt Lake City,UT,84115,Salt Lake County Mental Health,3148 S 1100 W,Salt Lake City,UT,84119,6.8
+Utah DMV Administrative Office,380 W 2880 S,Salt Lake City,UT,84115,Salt Lake County/United Police Dept,3365 S 900 W,Salt Lake City,UT,84119,6.4
+Utah DMV Administrative Office,380 W 2880 S,Salt Lake City,UT,84115,West Valley Prosecutor,3575 W Valley Central Station bus Loop,West Valley City,UT,84119,7.2
+Utah DMV Administrative Office,380 W 2880 S,Salt Lake City,UT,84115,Housing Auth. of Salt Lake County,3595 Main St,Salt Lake City,UT,84115,4.9
+Utah DMV Administrative Office,380 W 2880 S,Salt Lake City,UT,84115,Utah DMV Administrative Office,380 W 2880 S,Salt Lake City,UT,84115,0
+Utah DMV Administrative Office,380 W 2880 S,Salt Lake City,UT,84115,Western Governors University,4001 South 700 East,Salt Lake City,UT ,84107,6.5
+Utah DMV Administrative Office,380 W 2880 S,Salt Lake City,UT,84115,Third District Juvenile Court,410 S State St,Salt Lake City,UT,84111,4.4
+Utah DMV Administrative Office,380 W 2880 S,Salt Lake City,UT,84115,Holiday City Office,4580 S 2300 E,Holladay,UT,84117,6.6
+Utah DMV Administrative Office,380 W 2880 S,Salt Lake City,UT,84115,Murray City Museum,5025 State St,Murray,UT,84107,3.9
+Utah DMV Administrative Office,380 W 2880 S,Salt Lake City,UT,84115,Valley Regional Softball Complex,5100 South 2700 West,Salt Lake City,UT,84118,6.5
+Western Governors University,4001 South 700 East,Salt Lake City,UT ,84107,Western Governors University,4001 South 700 East,Salt Lake City,UT ,84107,0
+Western Governors University,4001 South 700 East,Salt Lake City,UT ,84107,City Center of Rock Springs, 5383 South 900 East #104,Salt Lake City,UT,84117,2.4
+Western Governors University,4001 South 700 East,Salt Lake City,UT ,84107,Rice Terrace Pavilion Park, 600 E 900 South,Salt Lake City,UT,84105,5
+Western Governors University,4001 South 700 East,Salt Lake City,UT ,84107,Wheeler Historic Farm , 6351 South 900 East,Murray,UT,84121,3.6
+Western Governors University,4001 South 700 East,Salt Lake City,UT ,84107,Cottonwood Regional Softball Complex,"
+ 4300 S 1300 E",Millcreek,UT,84117,1.9
+Western Governors University,4001 South 700 East,Salt Lake City,UT ,84107,International Peace Gardens,1060 Dalton Ave S,Salt Lake City,UT,84104,7.2
+Western Governors University,4001 South 700 East,Salt Lake City,UT ,84107,Sugar House Park,1330 2100 S,Salt Lake City,UT,84106,3.8
+Western Governors University,4001 South 700 East,Salt Lake City,UT ,84107,Taylorsville-Bennion Heritage City Gov Off,1488 4800 S,Salt Lake City,UT,84123,11
+Western Governors University,4001 South 700 East,Salt Lake City,UT ,84107,Salt Lake City Division of Health Services,177 W Price Ave,Salt Lake City,UT,84115,2.2
+Western Governors University,4001 South 700 East,Salt Lake City,UT ,84107,South Salt Lake Public Works,195 W Oakland Ave,Salt Lake City,UT,84115,3.5
+Western Governors University,4001 South 700 East,Salt Lake City,UT ,84107,Salt Lake City Streets and Sanitation,2010 W 500 S,Salt Lake City,UT,84104,10.9
+Western Governors University,4001 South 700 East,Salt Lake City,UT ,84107,Deker Lake,2300 Parkway Blvd,West Valley City,UT,84119,8.6
+Western Governors University,4001 South 700 East,Salt Lake City,UT ,84107,Salt Lake City Ottinger Hall,233 Canyon Rd,Salt Lake City,UT,84103,7.6
+Western Governors University,4001 South 700 East,Salt Lake City,UT ,84107,Columbus Library,2530 S 500 E,Salt Lake City,UT,84106,2.8
+Western Governors University,4001 South 700 East,Salt Lake City,UT ,84107,Taylorsville City Hall,2600 Taylorsville Blvd,Salt Lake City,UT,84118,6.4
+Western Governors University,4001 South 700 East,Salt Lake City,UT ,84107,South Salt Lake Police,2835 Main St,Salt Lake City,UT,84115,3.2
+Western Governors University,4001 South 700 East,Salt Lake City,UT ,84107,Council Hall,300 State St,Salt Lake City,UT,84103,7.6
+Western Governors University,4001 South 700 East,Salt Lake City,UT ,84107,Redwood Park,3060 Lester St,West Valley City,UT,84119,5.2
+Western Governors University,4001 South 700 East,Salt Lake City,UT ,84107,Salt Lake County Mental Health,3148 S 1100 W,Salt Lake City,UT,84119,4.4
+Western Governors University,4001 South 700 East,Salt Lake City,UT ,84107,Salt Lake County/United Police Dept,3365 S 900 W,Salt Lake City,UT,84119,3.7
+Western Governors University,4001 South 700 East,Salt Lake City,UT ,84107,West Valley Prosecutor,3575 W Valley Central Station bus Loop,West Valley City,UT,84119,7.6
+Western Governors University,4001 South 700 East,Salt Lake City,UT ,84107,Housing Auth. of Salt Lake County,3595 Main St,Salt Lake City,UT,84115,2
+Western Governors University,4001 South 700 East,Salt Lake City,UT ,84107,Utah DMV Administrative Office,380 W 2880 S,Salt Lake City,UT,84115,3.6
+Western Governors University,4001 South 700 East,Salt Lake City,UT ,84107,Third District Juvenile Court,410 S State St,Salt Lake City,UT,84111,6.5
+Western Governors University,4001 South 700 East,Salt Lake City,UT ,84107,Holiday City Office,4580 S 2300 E,Holladay,UT,84117,3.4
+Western Governors University,4001 South 700 East,Salt Lake City,UT ,84107,Murray City Museum,5025 State St,Murray,UT,84107,2.4
+Western Governors University,4001 South 700 East,Salt Lake City,UT ,84107,Valley Regional Softball Complex,5100 South 2700 West,Salt Lake City,UT,84118,6.4
+Third District Juvenile Court,410 S State St,Salt Lake City,UT,84111,City Center of Rock Springs, 5383 South 900 East #104,Salt Lake City,UT,84117,8.5
+Third District Juvenile Court,410 S State St,Salt Lake City,UT,84111,Rice Terrace Pavilion Park, 600 E 900 South,Salt Lake City,UT,84105,1.8
+Third District Juvenile Court,410 S State St,Salt Lake City,UT,84111,Wheeler Historic Farm , 6351 South 900 East,Murray,UT,84121,13.1
+Third District Juvenile Court,410 S State St,Salt Lake City,UT,84111,Cottonwood Regional Softball Complex,"
+ 4300 S 1300 E",Millcreek,UT,84117,7.5
+Third District Juvenile Court,410 S State St,Salt Lake City,UT,84111,International Peace Gardens,1060 Dalton Ave S,Salt Lake City,UT,84104,10.9
+Third District Juvenile Court,410 S State St,Salt Lake City,UT,84111,Sugar House Park,1330 2100 S,Salt Lake City,UT,84106,5
+Third District Juvenile Court,410 S State St,Salt Lake City,UT,84111,Taylorsville-Bennion Heritage City Gov Off,1488 4800 S,Salt Lake City,UT,84123,7.4
+Third District Juvenile Court,410 S State St,Salt Lake City,UT,84111,Salt Lake City Division of Health Services,177 W Price Ave,Salt Lake City,UT,84115,5.2
+Third District Juvenile Court,410 S State St,Salt Lake City,UT,84111,South Salt Lake Public Works,195 W Oakland Ave,Salt Lake City,UT,84115,6.9
+Third District Juvenile Court,410 S State St,Salt Lake City,UT,84111,Salt Lake City Streets and Sanitation,2010 W 500 S,Salt Lake City,UT,84104,12.7
+Third District Juvenile Court,410 S State St,Salt Lake City,UT,84111,Deker Lake,2300 Parkway Blvd,West Valley City,UT,84119,10.4
+Third District Juvenile Court,410 S State St,Salt Lake City,UT,84111,Salt Lake City Ottinger Hall,233 Canyon Rd,Salt Lake City,UT,84103,10.3
+Third District Juvenile Court,410 S State St,Salt Lake City,UT,84111,Columbus Library,2530 S 500 E,Salt Lake City,UT,84106,5.8
+Third District Juvenile Court,410 S State St,Salt Lake City,UT,84111,Taylorsville City Hall,2600 Taylorsville Blvd,Salt Lake City,UT,84118,8.3
+Third District Juvenile Court,410 S State St,Salt Lake City,UT,84111,South Salt Lake Police,2835 Main St,Salt Lake City,UT,84115,6.2
+Third District Juvenile Court,410 S State St,Salt Lake City,UT,84111,Council Hall,300 State St,Salt Lake City,UT,84103,10.3
+Third District Juvenile Court,410 S State St,Salt Lake City,UT,84111,Redwood Park,3060 Lester St,West Valley City,UT,84119,8.2
+Third District Juvenile Court,410 S State St,Salt Lake City,UT,84111,Salt Lake County Mental Health,3148 S 1100 W,Salt Lake City,UT,84119,7.4
+Third District Juvenile Court,410 S State St,Salt Lake City,UT,84111,Salt Lake County/United Police Dept,3365 S 900 W,Salt Lake City,UT,84119,6.9
+Third District Juvenile Court,410 S State St,Salt Lake City,UT,84111,West Valley Prosecutor,3575 W Valley Central Station bus Loop,West Valley City,UT,84119,12
+Third District Juvenile Court,410 S State St,Salt Lake City,UT,84111,Housing Auth. of Salt Lake County,3595 Main St,Salt Lake City,UT,84115,5
+Third District Juvenile Court,410 S State St,Salt Lake City,UT,84111,Utah DMV Administrative Office,380 W 2880 S,Salt Lake City,UT,84115,6.6
+Third District Juvenile Court,410 S State St,Salt Lake City,UT,84111,Western Governors University,4001 South 700 East,Salt Lake City,UT ,84107,3.4
+Third District Juvenile Court,410 S State St,Salt Lake City,UT,84111,Third District Juvenile Court,410 S State St,Salt Lake City,UT,84111,0
+Third District Juvenile Court,410 S State St,Salt Lake City,UT,84111,Holiday City Office,4580 S 2300 E,Holladay,UT,84117,9.3
+Third District Juvenile Court,410 S State St,Salt Lake City,UT,84111,Murray City Museum,5025 State St,Murray,UT,84107,6.8
+Third District Juvenile Court,410 S State St,Salt Lake City,UT,84111,Valley Regional Softball Complex,5100 South 2700 West,Salt Lake City,UT,84118,11.4
+Holiday City Office,4580 S 2300 E,Holladay,UT,84117,City Center of Rock Springs, 5383 South 900 East #104,Salt Lake City,UT,84117,3.4
+Holiday City Office,4580 S 2300 E,Holladay,UT,84117,Rice Terrace Pavilion Park, 600 E 900 South,Salt Lake City,UT,84105,7.9
+Holiday City Office,4580 S 2300 E,Holladay,UT,84117,Wheeler Historic Farm , 6351 South 900 East,Murray,UT,84121,4.7
+Holiday City Office,4580 S 2300 E,Holladay,UT,84117,Cottonwood Regional Softball Complex,"
+ 4300 S 1300 E",Millcreek,UT,84117,2
+Holiday City Office,4580 S 2300 E,Holladay,UT,84117,International Peace Gardens,1060 Dalton Ave S,Salt Lake City,UT,84104,10.9
+Holiday City Office,4580 S 2300 E,Holladay,UT,84117,Sugar House Park,1330 2100 S,Salt Lake City,UT,84106,5
+Holiday City Office,4580 S 2300 E,Holladay,UT,84117,Taylorsville-Bennion Heritage City Gov Off,1488 4800 S,Salt Lake City,UT,84123,7.4
+Holiday City Office,4580 S 2300 E,Holladay,UT,84117,Salt Lake City Division of Health Services,177 W Price Ave,Salt Lake City,UT,84115,5.2
+Holiday City Office,4580 S 2300 E,Holladay,UT,84117,South Salt Lake Public Works,195 W Oakland Ave,Salt Lake City,UT,84115,6.9
+Holiday City Office,4580 S 2300 E,Holladay,UT,84117,Salt Lake City Streets and Sanitation,2010 W 500 S,Salt Lake City,UT,84104,12.7
+Holiday City Office,4580 S 2300 E,Holladay,UT,84117,Deker Lake,2300 Parkway Blvd,West Valley City,UT,84119,10.4
+Holiday City Office,4580 S 2300 E,Holladay,UT,84117,Salt Lake City Ottinger Hall,233 Canyon Rd,Salt Lake City,UT,84103,10.3
+Holiday City Office,4580 S 2300 E,Holladay,UT,84117,Columbus Library,2530 S 500 E,Salt Lake City,UT,84106,5.8
+Holiday City Office,4580 S 2300 E,Holladay,UT,84117,Taylorsville City Hall,2600 Taylorsville Blvd,Salt Lake City,UT,84118,8.3
+Holiday City Office,4580 S 2300 E,Holladay,UT,84117,South Salt Lake Police,2835 Main St,Salt Lake City,UT,84115,6.2
+Holiday City Office,4580 S 2300 E,Holladay,UT,84117,Council Hall,300 State St,Salt Lake City,UT,84103,10.3
+Holiday City Office,4580 S 2300 E,Holladay,UT,84117,Redwood Park,3060 Lester St,West Valley City,UT,84119,8.2
+Holiday City Office,4580 S 2300 E,Holladay,UT,84117,Salt Lake County Mental Health,3148 S 1100 W,Salt Lake City,UT,84119,7.4
+Holiday City Office,4580 S 2300 E,Holladay,UT,84117,Salt Lake County/United Police Dept,3365 S 900 W,Salt Lake City,UT,84119,6.9
+Holiday City Office,4580 S 2300 E,Holladay,UT,84117,West Valley Prosecutor,3575 W Valley Central Station bus Loop,West Valley City,UT,84119,12
+Holiday City Office,4580 S 2300 E,Holladay,UT,84117,Housing Auth. of Salt Lake County,3595 Main St,Salt Lake City,UT,84115,5
+Holiday City Office,4580 S 2300 E,Holladay,UT,84117,Utah DMV Administrative Office,380 W 2880 S,Salt Lake City,UT,84115,6.6
+Holiday City Office,4580 S 2300 E,Holladay,UT,84117,Western Governors University,4001 South 700 East,Salt Lake City,UT ,84107,3.4
+Holiday City Office,4580 S 2300 E,Holladay,UT,84117,Third District Juvenile Court,410 S State St,Salt Lake City,UT,84111,9.3
+Holiday City Office,4580 S 2300 E,Holladay,UT,84117,Holiday City Office,4580 S 2300 E,Holladay,UT,84117,0
+Holiday City Office,4580 S 2300 E,Holladay,UT,84117,Murray City Museum,5025 State St,Murray,UT,84107,4.4
+Holiday City Office,4580 S 2300 E,Holladay,UT,84117,Valley Regional Softball Complex,5100 South 2700 West,Salt Lake City,UT,84118,7.9
+Murray City Museum,5025 State St,Murray,UT,84107,City Center of Rock Springs, 5383 South 900 East #104,Salt Lake City,UT,84117,1.7
+Murray City Museum,5025 State St,Murray,UT,84107,Rice Terrace Pavilion Park, 600 E 900 South,Salt Lake City,UT,84105,6.8
+Murray City Museum,5025 State St,Murray,UT,84107,Wheeler Historic Farm , 6351 South 900 East,Murray,UT,84121,3.1
+Murray City Museum,5025 State St,Murray,UT,84107,Cottonwood Regional Softball Complex,"
+ 4300 S 1300 E",Millcreek,UT,84117,2.9
+Murray City Museum,5025 State St,Murray,UT,84107,International Peace Gardens,1060 Dalton Ave S,Salt Lake City,UT,84104,8.3
+Murray City Museum,5025 State St,Murray,UT,84107,Sugar House Park,1330 2100 S,Salt Lake City,UT,84106,6.1
+Murray City Museum,5025 State St,Murray,UT,84107,Taylorsville-Bennion Heritage City Gov Off,1488 4800 S,Salt Lake City,UT,84123,4.7
+Murray City Museum,5025 State St,Murray,UT,84107,Salt Lake City Division of Health Services,177 W Price Ave,Salt Lake City,UT,84115,2.5
+Murray City Museum,5025 State St,Murray,UT,84107,South Salt Lake Public Works,195 W Oakland Ave,Salt Lake City,UT,84115,4.2
+Murray City Museum,5025 State St,Murray,UT,84107,Salt Lake City Streets and Sanitation,2010 W 500 S,Salt Lake City,UT,84104,10
+Murray City Museum,5025 State St,Murray,UT,84107,Deker Lake,2300 Parkway Blvd,West Valley City,UT,84119,7.8
+Murray City Museum,5025 State St,Murray,UT,84107,Salt Lake City Ottinger Hall,233 Canyon Rd,Salt Lake City,UT,84103,7.8
+Murray City Museum,5025 State St,Murray,UT,84107,Columbus Library,2530 S 500 E,Salt Lake City,UT,84106,4.3
+Murray City Museum,5025 State St,Murray,UT,84107,Taylorsville City Hall,2600 Taylorsville Blvd,Salt Lake City,UT,84118,4.1
+Murray City Museum,5025 State St,Murray,UT,84107,South Salt Lake Police,2835 Main St,Salt Lake City,UT,84115,3.4
+Murray City Museum,5025 State St,Murray,UT,84107,Council Hall,300 State St,Salt Lake City,UT,84103,7.8
+Murray City Museum,5025 State St,Murray,UT,84107,Redwood Park,3060 Lester St,West Valley City,UT,84119,5.5
+Murray City Museum,5025 State St,Murray,UT,84107,Salt Lake County Mental Health,3148 S 1100 W,Salt Lake City,UT,84119,4.6
+Murray City Museum,5025 State St,Murray,UT,84107,Salt Lake County/United Police Dept,3365 S 900 W,Salt Lake City,UT,84119,4.2
+Murray City Museum,5025 State St,Murray,UT,84107,West Valley Prosecutor,3575 W Valley Central Station bus Loop,West Valley City,UT,84119,9.4
+Murray City Museum,5025 State St,Murray,UT,84107,Housing Auth. of Salt Lake County,3595 Main St,Salt Lake City,UT,84115,2.3
+Murray City Museum,5025 State St,Murray,UT,84107,Utah DMV Administrative Office,380 W 2880 S,Salt Lake City,UT,84115,3.9
+Murray City Museum,5025 State St,Murray,UT,84107,Western Governors University,4001 South 700 East,Salt Lake City,UT ,84107,2.4
+Murray City Museum,5025 State St,Murray,UT,84107,Third District Juvenile Court,410 S State St,Salt Lake City,UT,84111,6.8
+Murray City Museum,5025 State St,Murray,UT,84107,Holiday City Office,4580 S 2300 E,Holladay,UT,84117,4.4
+Murray City Museum,5025 State St,Murray,UT,84107,Murray City Museum,5025 State St,Murray,UT,84107,0
+Murray City Museum,5025 State St,Murray,UT,84107,Valley Regional Softball Complex,5100 South 2700 West,Salt Lake City,UT,84118,4.5
+Valley Regional Softball Complex,5100 South 2700 West,Salt Lake City,UT,84118,City Center of Rock Springs, 5383 South 900 East #104,Salt Lake City,UT,84117,5.4
+Valley Regional Softball Complex,5100 South 2700 West,Salt Lake City,UT,84118,Rice Terrace Pavilion Park, 600 E 900 South,Salt Lake City,UT,84105,10.6
+Valley Regional Softball Complex,5100 South 2700 West,Salt Lake City,UT,84118,Wheeler Historic Farm , 6351 South 900 East,Murray,UT,84121,7.8
+Valley Regional Softball Complex,5100 South 2700 West,Salt Lake City,UT,84118,Cottonwood Regional Softball Complex,"
+ 4300 S 1300 E",Millcreek,UT,84117,6.4
+Valley Regional Softball Complex,5100 South 2700 West,Salt Lake City,UT,84118,International Peace Gardens,1060 Dalton Ave S,Salt Lake City,UT,84104,6.9
+Valley Regional Softball Complex,5100 South 2700 West,Salt Lake City,UT,84118,Sugar House Park,1330 2100 S,Salt Lake City,UT,84106,9.7
+Valley Regional Softball Complex,5100 South 2700 West,Salt Lake City,UT,84118,Taylorsville-Bennion Heritage City Gov Off,1488 4800 S,Salt Lake City,UT,84123,0.6
+Valley Regional Softball Complex,5100 South 2700 West,Salt Lake City,UT,84118,Salt Lake City Division of Health Services,177 W Price Ave,Salt Lake City,UT,84115,6
+Valley Regional Softball Complex,5100 South 2700 West,Salt Lake City,UT,84118,South Salt Lake Public Works,195 W Oakland Ave,Salt Lake City,UT,84115,9
+Valley Regional Softball Complex,5100 South 2700 West,Salt Lake City,UT,84118,Salt Lake City Streets and Sanitation,2010 W 500 S,Salt Lake City,UT,84104,8.2
+Valley Regional Softball Complex,5100 South 2700 West,Salt Lake City,UT,84118,Deker Lake,2300 Parkway Blvd,West Valley City,UT,84119,4.2
+Valley Regional Softball Complex,5100 South 2700 West,Salt Lake City,UT,84118,Salt Lake City Ottinger Hall,233 Canyon Rd,Salt Lake City,UT,84103,11.5
+Valley Regional Softball Complex,5100 South 2700 West,Salt Lake City,UT,84118,Columbus Library,2530 S 500 E,Salt Lake City,UT,84106,7.8
+Valley Regional Softball Complex,5100 South 2700 West,Salt Lake City,UT,84118,Taylorsville City Hall,2600 Taylorsville Blvd,Salt Lake City,UT,84118,0.4
+Valley Regional Softball Complex,5100 South 2700 West,Salt Lake City,UT,84118,South Salt Lake Police,2835 Main St,Salt Lake City,UT,84115,6.9
+Valley Regional Softball Complex,5100 South 2700 West,Salt Lake City,UT,84118,Council Hall,300 State St,Salt Lake City,UT,84103,11.5
+Valley Regional Softball Complex,5100 South 2700 West,Salt Lake City,UT,84118,Redwood Park,3060 Lester St,West Valley City,UT,84119,4.4
+Valley Regional Softball Complex,5100 South 2700 West,Salt Lake City,UT,84118,Salt Lake County Mental Health,3148 S 1100 W,Salt Lake City,UT,84119,4.8
+Valley Regional Softball Complex,5100 South 2700 West,Salt Lake City,UT,84118,Salt Lake County/United Police Dept,3365 S 900 W,Salt Lake City,UT,84119,5.6
+Valley Regional Softball Complex,5100 South 2700 West,Salt Lake City,UT,84118,West Valley Prosecutor,3575 W Valley Central Station bus Loop,West Valley City,UT,84119,7.5
+Valley Regional Softball Complex,5100 South 2700 West,Salt Lake City,UT,84118,Housing Auth. of Salt Lake County,3595 Main St,Salt Lake City,UT,84115,5.5
+Valley Regional Softball Complex,5100 South 2700 West,Salt Lake City,UT,84118,Utah DMV Administrative Office,380 W 2880 S,Salt Lake City,UT,84115,6.5
+Valley Regional Softball Complex,5100 South 2700 West,Salt Lake City,UT,84118,Western Governors University,4001 South 700 East,Salt Lake City,UT ,84107,6.4
+Valley Regional Softball Complex,5100 South 2700 West,Salt Lake City,UT,84118,Third District Juvenile Court,410 S State St,Salt Lake City,UT,84111,11.4
+Valley Regional Softball Complex,5100 South 2700 West,Salt Lake City,UT,84118,Holiday City Office,4580 S 2300 E,Holladay,UT,84117,7.9
+Valley Regional Softball Complex,5100 South 2700 West,Salt Lake City,UT,84118,Murray City Museum,5025 State St,Murray,UT,84107,4.5
+Valley Regional Softball Complex,5100 South 2700 West,Salt Lake City,UT,84118,Valley Regional Softball Complex,5100 South 2700 West,Salt Lake City,UT,84118,0

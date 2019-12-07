@@ -1,123 +1,102 @@
 from Data.Location import Location
-class Package():
 
+
+class Package:
+
+    """this class is the package class, it stores all the values of the package"""
+    # constructor
     def __init__(self, package_id_number, delivery_location, delivery_deadline, delivery_weight, special_notes):
         self.package_id_number = package_id_number
-        # self.delivery_address = None
         self.delivery_location = delivery_location
         self.delivery_deadline = delivery_deadline
         self.package_weight = delivery_weight
         self.special_notes = special_notes
-        self.current_location = None
-        # self.delivery_city = None
-        # self.delivery_zip_code = None
+        if self.special_notes == "":
+            self.special_notes = "No Special Note"
+        self.delivery_status = "AT_HUB"
+        self.drop_off_timestamp = "Not Delivered Yet"
+        self.enroute_timestamp = None
+        self.truck_number = None
 
-        self.delivery_status = None
-
-        self.pick_up_timestamp = None
-        self.drop_off_timestamp = None
-        self.truck = None
-        self.truck_driver = None
-
-
-        self.priority_number = None
-
-    def __str__(self):
-        string = "Package ID: {} | Delivery Location: {} | Delivery Deadline: {} | Package Weight: {} | Special Notes: {}"
+    def __repr__(self):
+        string = "Package({},{},{},{},{})"
         return string.format(self.package_id_number, self.delivery_location, self.delivery_deadline, self.package_weight, self.special_notes)
+    # formats the package to readable string
+    def __str__(self):
+        string = "Package ID: {}, Truck ID: {}, Delivery Location: {}, Delivery Deadline: {}, Package Weight: {}, Special Notes: {}, Delivery Status: {}, Delivered At: {}"
+        return string.format(self.package_id_number, self.truck_number, self.delivery_location, self.delivery_deadline,
+                             self.package_weight, self.special_notes, self.delivery_status, self.drop_off_timestamp)
 
+    #returns the special notes
+    def get_special_notes(self):
+        return self.special_notes
+
+    # returns package id
     def get_package_id_number(self):
         return self.package_id_number
 
-    # def get_delivery_address(self):
-    #     return self.delivery_address
-
+    # returns the delivery deadline
     def get_delivery_deadline(self):
         return self.delivery_deadline
 
-    # def get_delivery_city(self):
-    #     return self.delivery_city
-
-    # def get_delivery_zip_code(self):
-    #     return self.delivery_zip_code
-
+    # returns the weight of the package
     def get_package_weight(self):
         return self.package_weight
 
+    # gets the delivery status
     def get_delivery_status(self):
         return self.delivery_status
 
-    def get_pickup_timestamp(self):
-        return self.pick_up_timestamp
+    def get_enroute_timestamp(self):
+        return self.enroute_timestamp
 
-    def get_hashable(self):
-        return self.delivery_location.get_zip_code()
-
-    def get_priority_number(self):
-        return self.priority_number
-
+    # returns the drop off timestamp
     def get_drop_off_timestamp(self):
         return self.drop_off_timestamp
 
-    def get_truck(self):
+    # gets the truck the package was on
+    def get_truck_number(self):
         return self.truck
 
-    def get_truck_driver(self):
-        return self.truck_driver
-
+    # returns current location
     def get_current_location(self):
         return self.current_location
 
+    # returns delivery location
     def get_delivery_location(self):
         return self.delivery_location
 
-    # def set_delivery_address(self, delivery_address):
-    #     self.delivery_address = delivery_address
-    #
-    # def set_delivery_city(self, delivery_city):
-    #     self.delivery_city = delivery_city
-
+    # sets the delivery deadline
     def set_delivery_deadline(self, delivery_deadline):
         self.delivery_deadline = delivery_deadline
 
+    # sets the delivery status
     def set_delivery_status(self, delivery_status):
         self.delivery_status = delivery_status
 
-    # def set_delivery_zip_code(self, delivery_zip_code):
-    #     self.delivery_zip_code = delivery_zip_code
-
+    # set delivery location
     def set_delivery_location(self, delivery_location):
         self.delivery_location = delivery_location
 
+    # set package weight
     def set_package_weight(self, package_weight):
         self.package_weight = package_weight
 
+    # set package id number
     def set_package_id_number(self, package_id_number):
         self.package_id_number = package_id_number
 
-    def set_pickup_timestamp(self, pickup_timestamp):
-        self.pick_up_timestamp = pickup_timestamp
+    def set_enroute_timestamp(self, enroute_timestamp):
+        self.enroute_timestamp = enroute_timestamp
 
+    # sets the drop off time stamp
     def set_drop_off_timestamp(self, drop_off_timestamp):
         self.drop_off_timestamp = drop_off_timestamp
 
-    def set_truck(self, truck):
-        self.truck = truck
+    # sets the truck it was on
+    def set_truck_number(self, truck_number):
+        self.truck_number = truck_number
 
+    # sets the current location
     def set_current_location(self, current_location):
         self.current_location = current_location
-
-    def set_truck_driver(self, truck_driver):
-        self.truck_driver = truck_driver
-
-    def set_priority_number(self, priority_number):
-        self.priority_number = priority_number
-
-
-
-
-
- # self.pick_up_timestamp = None
- # self.drop_off_timestamp = None
- # self.truck = None
- # self.current_location
