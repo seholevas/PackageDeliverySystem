@@ -1,8 +1,5 @@
-# Name: Steven Holevas | ID: 001088230
+# Name: Steven Holevas
 from DataStructures.PriorityQueue import PriorityQueue
-
-from DataStructures.Graph import WGUPS_Graph
-from DataStructures.HashTable import HashTable
 from collections import defaultdict
 
 
@@ -12,7 +9,7 @@ class Dijkstra:
     def __init__(self):
         self
 
-    # B1: Algorithm PSUEDOCODE V1
+    #  Algorithm PSUEDOCODE V1
     # 1. Visit each vertex in the graph and mark each one as having a weight of infinity and having no parent,
     #    except the source vertex, mark that one as having a weight of 0
     #
@@ -31,7 +28,7 @@ class Dijkstra:
     #
     # 8. return path and distance/weight of path
 
-    # B3: SPACE TIME AND BIG-O
+    # SPACE TIME AND BIG-O
     # WORST CASE TIME COMPLEXITY: O(|E| + |V|log|V|)) WHERE E IS THE # OF EDGES AND V IS THE # OF VERTICIES
     # WORST CASE SPACE COMPLEXITY: O(V + E)  WHERE E IS THE # OF EDGES AND V IS THE # OF VERTICIES
 
@@ -70,8 +67,7 @@ class Dijkstra:
                 # distance = distances[v].pop()
                 # distances[v].add(distance)
                 candidate_distance = weight + node.weight
-                # to the current vertex, plus the weight of the current vertex to the
-
+                # to the current vertex, plus the weight of the current vertex
                 current_distance = distances[node.vertex].pop()
                 distances[node.vertex].add(current_distance)
 
@@ -110,7 +106,7 @@ class Dijkstra:
         shortest_path.reverse()
         return shortest_path, distances[dest].pop()
 
-    # B1: Algorithm PSUEDOCODE V2
+    # Algorithm PSUEDOCODE V2
     # 1. Visit each vertex in the graph and mark each one as having a weight of infinity and having no parent,
     #    except the source vertex, mark that one as having a weight of 0
     #

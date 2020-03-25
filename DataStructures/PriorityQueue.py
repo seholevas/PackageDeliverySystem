@@ -27,7 +27,6 @@ class PriorityQueue(MinHeap):
             return super(PriorityQueue, self).peek()
 
     # decreases the key of a specific value in the heap
-
     # WORST CASE TIME COMPLEXITY: O(log|N|)
     def decrease_key(self, new_key, entry):
         index = 0

@@ -1,4 +1,4 @@
-# Name: Steven Holevas | ID: 001088230
+# Name: Steven Holevas
 
 class HashTable:
     """this hash table is a chaining hash table, to allow a small amount of space for storing data"""

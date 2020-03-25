@@ -1,5 +1,4 @@
 from DataStructures.Node import Node
-from Data.Package import Package
 
 class SinglyLinkedList():
     def __init__(self):

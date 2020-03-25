@@ -1,4 +1,4 @@
-# Name: Steven Holevas | ID: 001088230
+# Name: Steven Holevas
 class MinHeap():
 
     # constructor

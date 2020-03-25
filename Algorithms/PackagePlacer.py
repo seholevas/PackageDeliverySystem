@@ -4,6 +4,7 @@ class PackageSort:
         self
 
     # Manually Sorts Packages Into Trucks
+    # TODO: make this an automatic search.
     def package_sort(self, h, truck1,truck2,truck3):
 
         packages_on_truck_1 = [h["7"], h["29"], h["13"], h["39"], h["15"], h["16"], h["34"], h["14"], h["20"], h["21"], h["1"], h["19"], h["2"], h["33"], h["24"], h["22"]]
